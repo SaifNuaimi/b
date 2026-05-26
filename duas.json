@@ -1,795 +1,505 @@
 {
-  "quran": [
-    {
-      "note": "تُقرأ بنية الدعاء والرجاء، ثم يُدعى للميت بالمغفرة والرحمة ورفع الدرجات.",
-      "ayatStart": 1,
-      "id": "fatiha",
-      "reference": "سـورة الفاتحـة",
-      "surah": 1,
-      "ayatEnd": 7,
-      "englishReference": "Sūrat al-Fātiḥah"
-    },
-    {
-      "note": "آية عظيمة في التوحيد والحفظ وتعظيم الله، تُقرأ رجاءً للبركة، ثم يُدعى للميت بالرحمة والمغفرة.",
-      "ayatStart": 255,
-      "id": "ayat-al-kursi",
-      "reference": "آيـة الكرسـي",
-      "surah": 2,
-      "ayatEnd": 255,
-      "englishReference": "Āyat al-Kursī — Al-Baqarah 255"
-    },
-    {
-      "note": "ورد في فضل خواتيم سورة البقرة أن من قرأهما في ليلة كفتاه، وتُقرأ رجاءً للخير والبركة، ثم يُدعى للميت بالرحمة.",
-      "ayatStart": 285,
-      "id": "baqarah-end",
-      "reference": "خواتيـم البقـرة",
-      "surah": 2,
-      "ayatEnd": 286,
-      "englishReference": "Closing Verses of Al-Baqarah"
-    },
-    {
-      "note": "سورة عظيمة في توحيد الله، ورد في فضلها أنها تعدل ثلث القرآن، وتُقرأ رجاءً للأجر، ثم يُدعى للميت بالمغفرة والرحمة.",
-      "ayatStart": 1,
-      "id": "ikhlas",
-      "reference": "سـورة الإخـلاص",
-      "surah": 112,
-      "ayatEnd": 4,
-      "englishReference": "Sūrat al-Ikhlāṣ"
-    },
-    {
-      "note": "من المعوذات، تُقرأ طلباً للحفظ واللجوء إلى الله، ثم يُدعى للميت بالرحمة والنور.",
-      "ayatStart": 1,
-      "id": "falaq",
-      "reference": "سـورة الفـلق",
-      "surah": 113,
-      "ayatEnd": 5,
-      "englishReference": "Sūrat al-Falaq"
-    },
-    {
-      "note": "من المعوذات، تُقرأ طلباً للحفظ من الوسواس والشر، ثم يُدعى للميت بالمغفرة والرحمة.",
-      "ayatStart": 1,
-      "id": "nas",
-      "reference": "سـورة النـاس",
-      "surah": 114,
-      "ayatEnd": 6,
-      "englishReference": "Sūrat an-Nās"
-    },
-    {
-      "note": "ورد في فضل سورة الملك أنها مانعة من عذاب القبر لمن كان يقرأها ويعمل بها، وتُقرأ رجاءً للشفاعة والرحمة، ثم يُدعى للميت بالمغفرة والنجاة.",
-      "ayatStart": 1,
-      "id": "mulk",
-      "reference": "سـورة الملـك",
-      "surah": 67,
-      "ayatEnd": 30,
-      "englishReference": "Sūrat al-Mulk"
-    },
-    {
-      "note": "سورة قصيرة عظيمة تذكّر بفضل الله ونعمه، وتُقرأ رجاءً للأجر، ثم يُدعى للميت بالرحمة والمغفرة.",
-      "ayatStart": 1,
-      "id": "kawthar",
-      "reference": "سـورة الكوثـر",
-      "surah": 108,
-      "ayatEnd": 3,
-      "englishReference": "Sūrat al-Kawthar"
-    },
-    {
-      "note": "سورة تذكّر بقيمة الإيمان والعمل الصالح والتواصي بالحق والصبر، وتُقرأ رجاءً للأجر، ثم يُدعى للميت برفع الدرجات.",
-      "ayatStart": 1,
-      "id": "asr",
-      "reference": "سـورة العصـر",
-      "surah": 103,
-      "ayatEnd": 3,
-      "englishReference": "Sūrat al-ʿAṣr"
-    },
-    {
-      "note": "سورة تذكّر بنعم الله والأمن والرزق، وتُقرأ رجاءً للأجر، ثم يُدعى للميت بالرحمة والنعيم.",
-      "ayatStart": 1,
-      "id": "quraysh",
-      "reference": "سـورة قريـش",
-      "surah": 106,
-      "ayatEnd": 4,
-      "englishReference": "Sūrat Quraysh"
-    },
-    {
-      "note": "سورة تذكّر بقدرة الله ونصره لأهل بيته الحرام، تُقرأ رجاءً للأجر، ثم يُدعى للميت بالرحمة والمغفرة.",
-      "ayatStart": 1,
-      "id": "fil",
-      "reference": "سـورة الفيـل",
-      "surah": 105,
-      "ayatEnd": 5,
-      "englishReference": "Sūrat al-Fīl"
-    },
-    {
-      "note": "سورة تحذّر من الغيبة والطعن في الأعراض وجمع المال بنيّة الكنز، تُقرأ تذكرةً، ثم يُدعى للميت بالنجاة من النار.",
-      "ayatStart": 1,
-      "id": "humazah",
-      "reference": "سـورة الهمـزة",
-      "surah": 104,
-      "ayatEnd": 9,
-      "englishReference": "Sūrat al-Humazah"
-    },
-    {
-      "note": "سورة تذكّر بكنود الإنسان لربه وحبه الشديد للمال، تُقرأ موعظةً، ثم يُدعى للميت بالرحمة والمغفرة.",
-      "ayatStart": 1,
-      "id": "asr-time",
-      "reference": "سـورة العاديـات",
-      "surah": 100,
-      "ayatEnd": 11,
-      "englishReference": "Sūrat al-ʿĀdiyāt"
-    },
-    {
-      "note": "سورة تذكّر بزلزلة الأرض يوم القيامة وأن مثقال الذرة من خير أو شر لا يضيع، تُقرأ رجاءً للأجر، ثم يُدعى للميت بالعفو والنجاة.",
-      "ayatStart": 1,
-      "id": "zalzalah",
-      "reference": "سـورة الزلزلـة",
-      "surah": 99,
-      "ayatEnd": 8,
-      "englishReference": "Sūrat az-Zalzalah"
-    },
-    {
-      "note": "سورة في الإيمان والعمل الصالح وجزاء أهل الجنة، تُقرأ رجاءً للأجر، ثم يُدعى للميت بالرحمة والنعيم.",
-      "ayatStart": 1,
-      "id": "bayyinah",
-      "reference": "سـورة البينـة",
-      "surah": 98,
-      "ayatEnd": 8,
-      "englishReference": "Sūrat al-Bayyinah"
-    },
-    {
-      "note": "سورة في فضل ليلة القدر التي هي خير من ألف شهر، تُقرأ رجاءً للأجر العظيم، ثم يُدعى للميت بالعتق من النار.",
-      "ayatStart": 1,
-      "id": "qadr",
-      "reference": "سـورة القـدر",
-      "surah": 97,
-      "ayatEnd": 5,
-      "englishReference": "Sūrat al-Qadr"
-    },
-    {
-      "note": "سورة تذكّر بتكريم الله للإنسان وحسن خلقه ومآل أعماله، تُقرأ رجاءً للأجر، ثم يُدعى للميت بالأجر غير الممنون.",
-      "ayatStart": 1,
-      "id": "tin",
-      "reference": "سـورة التيـن",
-      "surah": 95,
-      "ayatEnd": 8,
-      "englishReference": "Sūrat at-Tīn"
-    },
-    {
-      "note": "سورة تذكّر بمعيّة الله ويسره بعد العسر، تُقرأ رجاءً لتفريج الكرب، ثم يُدعى للميت بالرحمة وروحٍ في قبره.",
-      "ayatStart": 1,
-      "id": "sharh",
-      "reference": "سـورة الشـرح",
-      "surah": 94,
-      "ayatEnd": 8,
-      "englishReference": "Sūrat ash-Sharḥ"
-    },
-    {
-      "note": "سورة تذكّر برحمة الله ووعده الكريم لعبده، تُقرأ رجاءً للأجر، ثم يُدعى للميت بالرضى والنور في قبره.",
-      "ayatStart": 1,
-      "id": "duha",
-      "reference": "سـورة الضحـى",
-      "surah": 93,
-      "ayatEnd": 11,
-      "englishReference": "Sūrat aḍ-Ḍuḥā"
-    },
-    {
-      "note": "سورة تذكّر بمسالك الناس بين البذل والبخل وعاقبة كلٍّ، تُقرأ رجاءً للأجر، ثم يُدعى للميت بالمغفرة والتيسير في الحساب.",
-      "ayatStart": 1,
-      "id": "layl",
-      "reference": "سـورة الليـل",
-      "surah": 92,
-      "ayatEnd": 21,
-      "englishReference": "Sūrat al-Layl"
-    },
-    {
-      "note": "سورة في تزكية النفس وعاقبة الظالمين، تُقرأ رجاءً للأجر، ثم يُدعى للميت بطهارة قلبه وقبول عمله.",
-      "ayatStart": 1,
-      "id": "shams",
-      "reference": "سـورة الشـمس",
-      "surah": 91,
-      "ayatEnd": 15,
-      "englishReference": "Sūrat ash-Shams"
-    },
-    {
-      "note": "سورة تذكّر بكبد الإنسان في الدنيا وفضل اقتحام العقبة بالأعمال الصالحة، تُقرأ رجاءً للأجر، ثم يُدعى للميت بالرفعة في الجنة.",
-      "ayatStart": 1,
-      "id": "balad",
-      "reference": "سـورة البلـد",
-      "surah": 90,
-      "ayatEnd": 20,
-      "englishReference": "Sūrat al-Balad"
-    },
-    {
-      "note": "سورة كان النبي ﷺ يقرأ بها في صلاة الجمعة والعيدين، تُقرأ رجاءً للأجر، ثم يُدعى للميت بالطهارة والذكر الحسن.",
-      "ayatStart": 1,
-      "id": "ala",
-      "reference": "سـورة الأعـلى",
-      "surah": 87,
-      "ayatEnd": 19,
-      "englishReference": "Sūrat al-Aʿlā"
-    },
-    {
-      "note": "سورة تذكّر بأهوال يوم القيامة ووزن الأعمال، تُقرأ موعظةً، ثم يُدعى للميت بثقل الميزان وحسن المآب.",
-      "ayatStart": 1,
-      "id": "qariah",
-      "reference": "سـورة القارعـة",
-      "surah": 101,
-      "ayatEnd": 11,
-      "englishReference": "Sūrat al-Qāriʿah"
-    },
-    {
-      "note": "سورة تحذّر من الانشغال بالدنيا حتى الممات، تُقرأ تذكرةً وعبرةً، ثم يُدعى للميت بالنجاة والقبول.",
-      "ayatStart": 1,
-      "id": "takathur",
-      "reference": "سـورة التكاثـر",
-      "surah": 102,
-      "ayatEnd": 8,
-      "englishReference": "Sūrat at-Takāthur"
-    },
-    {
-      "note": "سورة في صدق الدين والإحسان إلى المحتاجين، تُقرأ تذكرةً، ثم يُدعى للميت بالمغفرة وقبول الأعمال.",
-      "ayatStart": 1,
-      "id": "maun",
-      "reference": "سـورة الماعـون",
-      "surah": 107,
-      "ayatEnd": 7,
-      "englishReference": "Sūrat al-Māʿūn"
-    },
-    {
-      "note": "سورة عظيمة في إخلاص العبادة لله والبراءة من الشرك، تُقرأ رجاءً للأجر، ثم يُدعى للميت بالثبات على التوحيد.",
-      "ayatStart": 1,
-      "id": "kafirun",
-      "reference": "سـورة الكافـرون",
-      "surah": 109,
-      "ayatEnd": 6,
-      "englishReference": "Sūrat al-Kāfirūn"
-    },
-    {
-      "note": "سورة تذكّر بنعمة الفتح ولزوم التسبيح والاستغفار عند النعم، تُقرأ رجاءً للأجر، ثم يُدعى للميت بالعفو والمغفرة.",
-      "ayatStart": 1,
-      "id": "nasr",
-      "reference": "سـورة النصـر",
-      "surah": 110,
-      "ayatEnd": 3,
-      "englishReference": "Sūrat an-Naṣr"
-    },
-    {
-      "note": "سورة في عاقبة من حادَّ الله ورسوله، تُقرأ تذكرةً، ثم يُدعى للميت بالنجاة من غضب الله.",
-      "ayatStart": 1,
-      "id": "masad",
-      "reference": "سـورة المسـد",
-      "surah": 111,
-      "ayatEnd": 5,
-      "englishReference": "Sūrat al-Masad"
-    },
-    {
-      "note": "خمس آيات في صفات المؤمنين الموقنين، تُقرأ رجاءً للأجر، ثم يُدعى للميت بأن يُحشر في زمرة المتقين.",
-      "ayatStart": 1,
-      "id": "baqarah-start",
-      "reference": "أوائـل البقـرة",
-      "surah": 2,
-      "ayatEnd": 5,
-      "englishReference": "Opening Verses of Al-Baqarah"
-    },
-    {
-      "note": "ثلاث آيات جمعت كثيرًا من أسماء الله الحسنى وصفاته العظيمة، تُقرأ رجاءً للأجر، ثم يُدعى للميت بالرحمة والمغفرة.",
-      "ayatStart": 22,
-      "id": "hashr-end",
-      "reference": "خواتيـم الحشـر",
-      "surah": 59,
-      "ayatEnd": 24,
-      "englishReference": "Closing Verses of Al-Ḥashr"
-    },
-    {
-      "note": "آيتان تذكّران بفناء كل شيء وبقاء وجه الله ذي الجلال والإكرام، تُقرأ موعظةً، ثم يُدعى للميت بحسن المآب.",
-      "ayatStart": 26,
-      "id": "rahman-fana",
-      "reference": "آيـة الفنـاء",
-      "surah": 55,
-      "ayatEnd": 27,
-      "englishReference": "Verses of Annihilation — Ar-Raḥmān 26–27"
-    }
-  ],
   "schemaVersion": 1,
-  "version": 3,
+  "version": 4,
   "duas": [
     {
       "id": "gen-1",
       "arabicMale": "اللّهمّ اغفر لـ {name} وارحمه، واعف عنه وعافه، وأكرم نُزُلَه، ووسّع مُدْخَلَه، واغسله بالماء والثّلج والبرد، ونقّه من الخطايا كما ينقّى الثّوب الأبيض من الدّنس، وأبدله دارًا خيرًا من داره، وأهلًا خيرًا من أهله، وزوجًا خيرًا من زوجه، وقه فتنة القَبْر وعَذاب النّار.",
-      "englishFemale": "O Allah, forgive {name}, have mercy on her, pardon her, grant her well-being, honor her resting place, expand her entrance, wash her with water, snow, and hail, purify her from sins, replace her home with a better home, her family with a better family, and her spouse with a better spouse, and protect her from the trial of the grave and the punishment of the Fire.",
       "arabicFemale": "اللّهمّ اغفر لـ {name} وارحمها، واعف عنها وعافها، وأكرم نُزُلَهَا، ووسّع مُدْخَلَها، واغسلها بالماء والثّلج والبرد، ونقّها من الخطايا كما ينقّى الثّوب الأبيض من الدّنس، وأبدلها دارًا خيرًا من دارها، وأهلًا خيرًا من أهلها، وزوجًا خيرًا من زوجها، وقها فتنة القَبْر وعَذاب النّار.",
       "englishMale": "O Allah, forgive {name}, have mercy on him, pardon him, grant him well-being, honor his resting place, expand his entrance, wash him with water, snow, and hail, purify him from sins, replace his home with a better home, his family with a better family, and his spouse with a better spouse, and protect him from the trial of the grave and the punishment of the Fire.",
+      "englishFemale": "O Allah, forgive {name}, have mercy on her, pardon her, grant her well-being, honor her resting place, expand her entrance, wash her with water, snow, and hail, purify her from sins, replace her home with a better home, her family with a better family, and her spouse with a better spouse, and protect her from the trial of the grave and the punishment of the Fire.",
+      "arabicLibraryMale": "اللّهمّ اغفر له وارحمه، واعف عنه وعافه، وأكرم نُزُلَه، ووسّع مُدْخَلَه، واغسله بالماء والثّلج والبرد، ونقّه من الخطايا كما ينقّى الثّوب الأبيض من الدّنس، وأبدله دارًا خيرًا من داره، وأهلًا خيرًا من أهله، وزوجًا خيرًا من زوجه، وقه فتنة القَبْر وعَذاب النّار.",
       "arabicLibraryFemale": "اللّهمّ اغفر لها وارحمها، واعف عنها وعافها، وأكرم نُزُلَهَا، ووسّع مُدْخَلَها، واغسلها بالماء والثّلج والبرد، ونقّها من الخطايا كما ينقّى الثّوب الأبيض من الدّنس، وأبدلها دارًا خيرًا من دارها، وأهلًا خيرًا من أهلها، وزوجًا خيرًا من زوجها، وقها فتنة القَبْر وعَذاب النّار.",
-      "category": "dua",
-      "arabicLibraryMale": "اللّهمّ اغفر له وارحمه، واعف عنه وعافه، وأكرم نُزُلَه، ووسّع مُدْخَلَه، واغسله بالماء والثّلج والبرد، ونقّه من الخطايا كما ينقّى الثّوب الأبيض من الدّنس، وأبدله دارًا خيرًا من داره، وأهلًا خيرًا من أهله، وزوجًا خيرًا من زوجه، وقه فتنة القَبْر وعَذاب النّار."
+      "category": "dua"
     },
     {
       "id": "gen-2",
-      "arabicLibraryFemale": "اللّهمّ اغفر لحيّنا وميّتنا، وشاهدنا وغائبنا، وصغيرنا وكبيرنا، وذكرنا وأنثانا. اللّهمّ من أحييته منّا فأحيه على الإسلام، ومن توفّيته منّا فتوفّه على الإيمان. اللّهمّ لا تحرمنا أجرها، ولا تضلّنا بعدها.",
-      "arabicLibraryMale": "اللّهمّ اغفر لحيّنا وميّتنا، وشاهدنا وغائبنا، وصغيرنا وكبيرنا، وذكرنا وأنثانا. اللّهمّ من أحييته منّا فأحيه على الإسلام، ومن توفّيته منّا فتوفّه على الإيمان. اللّهمّ لا تحرمنا أجره، ولا تضلّنا بعده.",
       "arabicMale": "اللّهمّ اغفر لـ {name}، واغفر لحيّنا وميّتنا، وشاهدنا وغائبنا، وصغيرنا وكبيرنا، وذكرنا وأنثانا. اللّهمّ من أحييته منّا فأحيه على الإسلام، ومن توفّيته منّا فتوفّه على الإيمان. اللّهمّ لا تحرمنا أجره، ولا تضلّنا بعده.",
       "arabicFemale": "اللّهمّ اغفر لـ {name}، واغفر لحيّنا وميّتنا، وشاهدنا وغائبنا، وصغيرنا وكبيرنا، وذكرنا وأنثانا. اللّهمّ من أحييته منّا فأحيه على الإسلام، ومن توفّيته منّا فتوفّه على الإيمان. اللّهمّ لا تحرمنا أجرها، ولا تضلّنا بعدها.",
-      "category": "dua",
       "englishMale": "O Allah, forgive {name}, and forgive our living and our dead, those present and absent, our young and old, our men and women. O Allah, whoever You keep alive among us, keep them alive upon Islam, and whoever You take from us, take them upon faith. O Allah, do not deprive us of his reward and do not let us go astray after him.",
-      "englishFemale": "O Allah, forgive {name}, and forgive our living and our dead, those present and absent, our young and old, our men and women. O Allah, whoever You keep alive among us, keep them alive upon Islam, and whoever You take from us, take them upon faith. O Allah, do not deprive us of her reward and do not let us go astray after her."
+      "englishFemale": "O Allah, forgive {name}, and forgive our living and our dead, those present and absent, our young and old, our men and women. O Allah, whoever You keep alive among us, keep them alive upon Islam, and whoever You take from us, take them upon faith. O Allah, do not deprive us of her reward and do not let us go astray after her.",
+      "arabicLibraryMale": "اللّهمّ اغفر لحيّنا وميّتنا، وشاهدنا وغائبنا، وصغيرنا وكبيرنا، وذكرنا وأنثانا. اللّهمّ من أحييته منّا فأحيه على الإسلام، ومن توفّيته منّا فتوفّه على الإيمان. اللّهمّ لا تحرمنا أجره، ولا تضلّنا بعده.",
+      "arabicLibraryFemale": "اللّهمّ اغفر لحيّنا وميّتنا، وشاهدنا وغائبنا، وصغيرنا وكبيرنا، وذكرنا وأنثانا. اللّهمّ من أحييته منّا فأحيه على الإسلام، ومن توفّيته منّا فتوفّه على الإيمان. اللّهمّ لا تحرمنا أجرها، ولا تضلّنا بعدها.",
+      "category": "dua"
     },
     {
       "id": "gen-3",
-      "arabicLibraryFemale": "اللّهمّ إنّها في ذمّتك وحبل جوارك، فقها من فتنة القَبْر وعَذاب النّار، وأنت أهل الوفاء والحقّ، فاغفر لها وارحمها إنّك أنت الغفور الرّحيم.",
-      "englishMale": "O Allah, {name} is under Your protection and care, so protect him from the trial of the grave and the punishment of the Fire. You are the One of faithfulness and truth, so forgive him and have mercy on him.",
-      "arabicFemale": "اللّهمّ إنّ {name} في ذمّتك وحبل جوارك، فقها من فتنة القَبْر وعَذاب النّار، وأنت أهل الوفاء والحقّ، فاغفر لها وارحمها إنّك أنت الغفور الرّحيم.",
-      "englishFemale": "O Allah, {name} is under Your protection and care, so protect her from the trial of the grave and the punishment of the Fire. You are the One of faithfulness and truth, so forgive her and have mercy on her.",
       "arabicMale": "اللّهمّ إنّ {name} في ذمّتك وحبل جوارك، فقه من فتنة القَبْر وعَذاب النّار، وأنت أهل الوفاء والحقّ، فاغفر له وارحمه إنّك أنت الغفور الرّحيم.",
+      "arabicFemale": "اللّهمّ إنّ {name} في ذمّتك وحبل جوارك، فقها من فتنة القَبْر وعَذاب النّار، وأنت أهل الوفاء والحقّ، فاغفر لها وارحمها إنّك أنت الغفور الرّحيم.",
+      "englishMale": "O Allah, {name} is under Your protection and care, so protect him from the trial of the grave and the punishment of the Fire. You are the One of faithfulness and truth, so forgive him and have mercy on him.",
+      "englishFemale": "O Allah, {name} is under Your protection and care, so protect her from the trial of the grave and the punishment of the Fire. You are the One of faithfulness and truth, so forgive her and have mercy on her.",
       "arabicLibraryMale": "اللّهمّ إنّه في ذمّتك وحبل جوارك، فقه من فتنة القَبْر وعَذاب النّار، وأنت أهل الوفاء والحقّ، فاغفر له وارحمه إنّك أنت الغفور الرّحيم.",
+      "arabicLibraryFemale": "اللّهمّ إنّها في ذمّتك وحبل جوارك، فقها من فتنة القَبْر وعَذاب النّار، وأنت أهل الوفاء والحقّ، فاغفر لها وارحمها إنّك أنت الغفور الرّحيم.",
       "category": "dua"
     },
     {
       "id": "gen-4",
-      "arabicLibraryFemale": "اللّهمّ أنت ربّها، وأنت خلقتها، وأنت هديتها للإسلام، وأنت قبضت روحها، وأنت أعلم بسرّها وعلانيتها، جئنا شفعاء فاغفر لها.",
-      "englishMale": "O Allah, You are the Lord of {name}. You created him, guided him to Islam, took his soul, and You know his private and public affairs. We come as intercessors, so forgive him.",
-      "arabicFemale": "اللّهمّ أنت ربّ {name}، وأنت خلقتها، وأنت هديتها للإسلام، وأنت قبضت روحها، وأنت أعلم بسرّها وعلانيتها، جئنا شفعاء فاغفر لها.",
       "arabicMale": "اللّهمّ أنت ربّ {name}، وأنت خلقته، وأنت هديته للإسلام، وأنت قبضت روحه، وأنت أعلم بسرّه وعلانيته، جئنا شفعاء فاغفر له.",
+      "arabicFemale": "اللّهمّ أنت ربّ {name}، وأنت خلقتها، وأنت هديتها للإسلام، وأنت قبضت روحها، وأنت أعلم بسرّها وعلانيتها، جئنا شفعاء فاغفر لها.",
+      "englishMale": "O Allah, You are the Lord of {name}. You created him, guided him to Islam, took his soul, and You know his private and public affairs. We come as intercessors, so forgive him.",
+      "englishFemale": "O Allah, You are the Lord of {name}. You created her, guided her to Islam, took her soul, and You know her private and public affairs. We come as intercessors, so forgive her.",
       "arabicLibraryMale": "اللّهمّ أنت ربّه، وأنت خلقته، وأنت هديته للإسلام، وأنت قبضت روحه، وأنت أعلم بسرّه وعلانيته، جئنا شفعاء فاغفر له.",
-      "category": "dua",
-      "englishFemale": "O Allah, You are the Lord of {name}. You created her, guided her to Islam, took her soul, and You know her private and public affairs. We come as intercessors, so forgive her."
+      "arabicLibraryFemale": "اللّهمّ أنت ربّها، وأنت خلقتها، وأنت هديتها للإسلام، وأنت قبضت روحها، وأنت أعلم بسرّها وعلانيتها، جئنا شفعاء فاغفر لها.",
+      "category": "dua"
     },
     {
       "id": "gen-5",
-      "arabicFemale": "اللّهمّ اجز {name} عن الإحسان إحسانًا، وعن الإساءة عفوًا وغفرانًا.",
-      "englishFemale": "O Allah, reward {name} for her good with goodness, and for her shortcomings with pardon and forgiveness.",
       "arabicMale": "اللّهمّ اجز {name} عن الإحسان إحسانًا، وعن الإساءة عفوًا وغفرانًا.",
+      "arabicFemale": "اللّهمّ اجز {name} عن الإحسان إحسانًا، وعن الإساءة عفوًا وغفرانًا.",
       "englishMale": "O Allah, reward {name} for his good with goodness, and for his shortcomings with pardon and forgiveness.",
+      "englishFemale": "O Allah, reward {name} for her good with goodness, and for her shortcomings with pardon and forgiveness.",
+      "arabicLibraryMale": "اللّهمّ اجزه عن الإحسان إحسانًا، وعن الإساءة عفوًا وغفرانًا.",
       "arabicLibraryFemale": "اللّهمّ اجزها عن الإحسان إحسانًا، وعن الإساءة عفوًا وغفرانًا.",
-      "category": "dua",
-      "arabicLibraryMale": "اللّهمّ اجزه عن الإحسان إحسانًا، وعن الإساءة عفوًا وغفرانًا."
+      "category": "dua"
     },
     {
       "id": "gen-6",
-      "englishFemale": "O Allah, make the grave of {name} a garden from the gardens of Paradise, and not a pit from the pits of the Fire.",
       "arabicMale": "اللّهمّ اجعل قبر {name} روضةً من رياض الجنّة، ولا تجعله حفرةً من حفر النّار.",
-      "category": "dua",
       "arabicFemale": "اللّهمّ اجعل قبر {name} روضةً من رياض الجنّة، ولا تجعله حفرةً من حفر النّار.",
-      "arabicLibraryFemale": "اللّهمّ اجعل قَبْرِهِا روضةً من رياض الجنّة، ولا تجعله حفرةً من حفر النّار.",
+      "englishMale": "O Allah, make the grave of {name} a garden from the gardens of Paradise, and not a pit from the pits of the Fire.",
+      "englishFemale": "O Allah, make the grave of {name} a garden from the gardens of Paradise, and not a pit from the pits of the Fire.",
       "arabicLibraryMale": "اللّهمّ اجعل قَبْرِهِ روضةً من رياض الجنّة، ولا تجعله حفرةً من حفر النّار.",
-      "englishMale": "O Allah, make the grave of {name} a garden from the gardens of Paradise, and not a pit from the pits of the Fire."
+      "arabicLibraryFemale": "اللّهمّ اجعل قَبْرِهِا روضةً من رياض الجنّة، ولا تجعله حفرةً من حفر النّار.",
+      "category": "dua"
     },
     {
       "id": "gen-7",
-      "arabicLibraryFemale": "اللّهمّ أنُزُلَهَا منازل الصّدّيقات والشّهيدات والصّالحات، وحسن أولئك رفيقًا.",
-      "category": "dua",
-      "arabicLibraryMale": "اللّهمّ أنُزُلَه منازل الصّدّيقين والشّهداء والصّالحين، وحسن أولئك رفيقًا.",
       "arabicMale": "اللّهمّ أنزل {name} منازل الصّدّيقين والشّهداء والصّالحين، وحسن أولئك رفيقًا.",
-      "englishFemale": "O Allah, place {name} among the truthful women, the female martyrs, and the righteous women; and excellent are those as companions.",
+      "arabicFemale": "اللّهمّ أنزل {name} منازل الصّدّيقات والشّهيدات والصّالحات، وحسن أولئك رفيقًا.",
       "englishMale": "O Allah, place {name} among the truthful, the martyrs, and the righteous; and excellent are those as companions.",
-      "arabicFemale": "اللّهمّ أنزل {name} منازل الصّدّيقات والشّهيدات والصّالحات، وحسن أولئك رفيقًا."
+      "englishFemale": "O Allah, place {name} among the truthful women, the female martyrs, and the righteous women; and excellent are those as companions.",
+      "arabicLibraryMale": "اللّهمّ أنُزُلَه منازل الصّدّيقين والشّهداء والصّالحين، وحسن أولئك رفيقًا.",
+      "arabicLibraryFemale": "اللّهمّ أنُزُلَهَا منازل الصّدّيقات والشّهيدات والصّالحات، وحسن أولئك رفيقًا.",
+      "category": "dua"
     },
     {
       "id": "gen-8",
-      "englishMale": "O Allah, {name} is Your servant and the son of Your servant. He has left this world, its spaciousness, its comforts, and those he loved, to the darkness of the grave and what awaits him.",
-      "arabicFemale": "اللّهمّ إنّ {name} أمتك وابنة عبدك، خرجت من الدّنيا وسعتها ومحبوبها وأحبّائها فيها، إلى ظُلْمَة القَبْر وما هي لاقيةٌ.",
-      "category": "dua",
-      "englishFemale": "O Allah, {name} is Your servant and the daughter of Your servant. She has left this world, its spaciousness, its comforts, and those she loved, to the darkness of the grave and what awaits her.",
-      "arabicLibraryFemale": "اللّهمّ إنّها أمتك وابنة عبدك، خرجت من الدّنيا وسعتها ومحبوبها وأحبّائها فيها، إلى ظُلْمَة القَبْر وما هي لاقيةٌ.",
       "arabicMale": "اللّهمّ إنّ {name} عبدك وابن عبدك، خرج من الدّنيا وسعتها ومحبوبها وأحبّائه فيها، إلى ظُلْمَة القَبْر وما هو لاقيه.",
-      "arabicLibraryMale": "اللّهمّ إنّه عبدك وابن عبدك، خرج من الدّنيا وسعتها ومحبوبها وأحبّائه فيها، إلى ظُلْمَة القَبْر وما هو لاقيه."
+      "arabicFemale": "اللّهمّ إنّ {name} أمتك وابنة عبدك، خرجت من الدّنيا وسعتها ومحبوبها وأحبّائها فيها، إلى ظُلْمَة القَبْر وما هي لاقيةٌ.",
+      "englishMale": "O Allah, {name} is Your servant and the son of Your servant. He has left this world, its spaciousness, its comforts, and those he loved, to the darkness of the grave and what awaits him.",
+      "englishFemale": "O Allah, {name} is Your servant and the daughter of Your servant. She has left this world, its spaciousness, its comforts, and those she loved, to the darkness of the grave and what awaits her.",
+      "arabicLibraryMale": "اللّهمّ إنّه عبدك وابن عبدك، خرج من الدّنيا وسعتها ومحبوبها وأحبّائه فيها، إلى ظُلْمَة القَبْر وما هو لاقيه.",
+      "arabicLibraryFemale": "اللّهمّ إنّها أمتك وابنة عبدك، خرجت من الدّنيا وسعتها ومحبوبها وأحبّائها فيها، إلى ظُلْمَة القَبْر وما هي لاقيةٌ.",
+      "category": "dua"
     },
     {
       "id": "gen-9",
-      "arabicLibraryMale": "اللّهمّ إنّا نتوسّل بك إليك، ونقسم بك عليك أن ترحمه ولا تعذّبه، وأن تثبّته عند السّؤال.",
+      "arabicMale": "اللّهمّ إنّا نتوسّل بك إليك، ونقسم بك عليك أن ترحم {name} ولا تعذّبه، وأن تثبّته عند السّؤال.",
       "arabicFemale": "اللّهمّ إنّا نتوسّل بك إليك، ونقسم بك عليك أن ترحم {name} ولا تعذّبها، وأن تثبّتها عند السّؤال.",
-      "englishFemale": "O Allah, we ask You by You to have mercy on {name}, not punish her, and make her firm when questioned.",
-      "category": "dua",
-      "arabicLibraryFemale": "اللّهمّ إنّا نتوسّل بك إليك، ونقسم بك عليك أن ترحمها ولا تعذّبها، وأن تثبّتها عند السّؤال.",
       "englishMale": "O Allah, we ask You by You to have mercy on {name}, not punish him, and make him firm when questioned.",
-      "arabicMale": "اللّهمّ إنّا نتوسّل بك إليك، ونقسم بك عليك أن ترحم {name} ولا تعذّبه، وأن تثبّته عند السّؤال."
+      "englishFemale": "O Allah, we ask You by You to have mercy on {name}, not punish her, and make her firm when questioned.",
+      "arabicLibraryMale": "اللّهمّ إنّا نتوسّل بك إليك، ونقسم بك عليك أن ترحمه ولا تعذّبه، وأن تثبّته عند السّؤال.",
+      "arabicLibraryFemale": "اللّهمّ إنّا نتوسّل بك إليك، ونقسم بك عليك أن ترحمها ولا تعذّبها، وأن تثبّتها عند السّؤال.",
+      "category": "dua"
     },
     {
       "id": "gen-10",
-      "englishFemale": "O Allah, place the record of {name} in her right hand, ease her account, make her scale heavy with good deeds, make her feet firm on the bridge, and place her in the highest gardens near Your beloved Prophet ﷺ.",
-      "arabicLibraryMale": "اللّهمّ يمّن كتابه، ويسّر حسابه، وثقّل بالحسنات ميزانه، وثبّت على الصّراط أقدامه، وأسكنه في أعلى الجنّات بجوار حبيبك ومصطفاك صلّى الله عَلَيْهِ وسلّم.",
+      "arabicMale": "اللّهمّ يمّن كتاب {name}، ويسّر حسابه، وثقّل بالحسنات ميزانه، وثبّت على الصّراط أقدامه، وأسكنه في أعلى الجنّات بجوار حبيبك ومصطفاك صلّى الله عَلَيْهِ وسلّم.",
       "arabicFemale": "اللّهمّ يمّن كتاب {name}، ويسّر حسابها، وثقّل بالحسنات ميزانها، وثبّت على الصّراط أقدامها، وأسكنها في أعلى الجنّات بجوار حبيبك ومصطفاك صلّى الله عَلَيْهِ وسلّم.",
       "englishMale": "O Allah, place the record of {name} in his right hand, ease his account, make his scale heavy with good deeds, make his feet firm on the bridge, and place him in the highest gardens near Your beloved Prophet ﷺ.",
-      "arabicMale": "اللّهمّ يمّن كتاب {name}، ويسّر حسابه، وثقّل بالحسنات ميزانه، وثبّت على الصّراط أقدامه، وأسكنه في أعلى الجنّات بجوار حبيبك ومصطفاك صلّى الله عَلَيْهِ وسلّم.",
-      "category": "dua",
-      "arabicLibraryFemale": "اللّهمّ يمّن كتابها، ويسّر حسابها، وثقّل بالحسنات ميزانها، وثبّت على الصّراط أقدامها، وأسكنها في أعلى الجنّات بجوار حبيبك ومصطفاك صلّى الله عَلَيْهِ وسلّم."
+      "englishFemale": "O Allah, place the record of {name} in her right hand, ease her account, make her scale heavy with good deeds, make her feet firm on the bridge, and place her in the highest gardens near Your beloved Prophet ﷺ.",
+      "arabicLibraryMale": "اللّهمّ يمّن كتابه، ويسّر حسابه، وثقّل بالحسنات ميزانه، وثبّت على الصّراط أقدامه، وأسكنه في أعلى الجنّات بجوار حبيبك ومصطفاك صلّى الله عَلَيْهِ وسلّم.",
+      "arabicLibraryFemale": "اللّهمّ يمّن كتابها، ويسّر حسابها، وثقّل بالحسنات ميزانها، وثبّت على الصّراط أقدامها، وأسكنها في أعلى الجنّات بجوار حبيبك ومصطفاك صلّى الله عَلَيْهِ وسلّم.",
+      "category": "dua"
     },
     {
       "id": "gen-11",
-      "englishFemale": "O Allah, if {name} was patient through trials and did not despair, grant her the rank of the patient, whose reward is given without measure.",
-      "arabicLibraryMale": "اللّهمّ إنّه صبر على البلاء فلم يجزع، فامنحه درجة الصّابرين الّذين يوفّون أجورهم بغير حسابٍ.",
+      "arabicMale": "اللّهمّ إنّ {name} صبر على البلاء فلم يجزع، فامنحه درجة الصّابرين الّذين يوفّون أجورهم بغير حسابٍ.",
       "arabicFemale": "اللّهمّ إنّ {name} صبرت على البلاء فلم تجزع، فامنحها درجة الصّابرات اللّاتي يوفّين أجورهنّ بغير حسابٍ.",
       "englishMale": "O Allah, if {name} was patient through trials and did not despair, grant him the rank of the patient, whose reward is given without measure.",
-      "arabicMale": "اللّهمّ إنّ {name} صبر على البلاء فلم يجزع، فامنحه درجة الصّابرين الّذين يوفّون أجورهم بغير حسابٍ.",
-      "category": "dua",
-      "arabicLibraryFemale": "اللّهمّ إنّها صبرت على البلاء فلم تجزع، فامنحها درجة الصّابرات اللّاتي يوفّين أجورهنّ بغير حسابٍ."
+      "englishFemale": "O Allah, if {name} was patient through trials and did not despair, grant her the rank of the patient, whose reward is given without measure.",
+      "arabicLibraryMale": "اللّهمّ إنّه صبر على البلاء فلم يجزع، فامنحه درجة الصّابرين الّذين يوفّون أجورهم بغير حسابٍ.",
+      "arabicLibraryFemale": "اللّهمّ إنّها صبرت على البلاء فلم تجزع، فامنحها درجة الصّابرات اللّاتي يوفّين أجورهنّ بغير حسابٍ.",
+      "category": "dua"
     },
     {
       "id": "gen-12",
-      "englishFemale": "O Allah, if {name} recited and listened to Your Book, let the Qur’an intercede for her, have mercy on her from the Fire, and raise her in Paradise to the last verse she read or heard and the last letter she recited.",
-      "arabicLibraryMale": "اللّهمّ إنّه كان لكتابك تاليًا وسامعًا، فشفّع فيه القُرآن، وارحمه من النّيران، واجعله يا رحمن يرتقي في الجنّة إلى آخر آيةٍ قرأها أو سمعها، وآخر حرفٍ تلاه.",
+      "arabicMale": "اللّهمّ إنّ {name} كان لكتابك تاليًا وسامعًا، فشفّع فيه القُرآن، وارحمه من النّيران، واجعله يا رحمن يرتقي في الجنّة إلى آخر آيةٍ قرأها أو سمعها، وآخر حرفٍ تلاه.",
       "arabicFemale": "اللّهمّ إنّ {name} كانت لكتابك تاليةً وسامعةً، فشفّع فيها القُرآن، وارحمها من النّيران، واجعلها يا رحمن ترتقي في الجنّة إلى آخر آيةٍ قرأتها أو سمعتها، وآخر حرفٍ تلته.",
       "englishMale": "O Allah, if {name} recited and listened to Your Book, let the Qur’an intercede for him, have mercy on him from the Fire, and raise him in Paradise to the last verse he read or heard and the last letter he recited.",
-      "arabicMale": "اللّهمّ إنّ {name} كان لكتابك تاليًا وسامعًا، فشفّع فيه القُرآن، وارحمه من النّيران، واجعله يا رحمن يرتقي في الجنّة إلى آخر آيةٍ قرأها أو سمعها، وآخر حرفٍ تلاه.",
-      "category": "dua",
-      "arabicLibraryFemale": "اللّهمّ إنّها كانت لكتابك تاليةً وسامعةً، فشفّع فيها القُرآن، وارحمها من النّيران، واجعلها يا رحمن ترتقي في الجنّة إلى آخر آيةٍ قرأتها أو سمعتها، وآخر حرفٍ تلته."
+      "englishFemale": "O Allah, if {name} recited and listened to Your Book, let the Qur’an intercede for her, have mercy on her from the Fire, and raise her in Paradise to the last verse she read or heard and the last letter she recited.",
+      "arabicLibraryMale": "اللّهمّ إنّه كان لكتابك تاليًا وسامعًا، فشفّع فيه القُرآن، وارحمه من النّيران، واجعله يا رحمن يرتقي في الجنّة إلى آخر آيةٍ قرأها أو سمعها، وآخر حرفٍ تلاه.",
+      "arabicLibraryFemale": "اللّهمّ إنّها كانت لكتابك تاليةً وسامعةً، فشفّع فيها القُرآن، وارحمها من النّيران، واجعلها يا رحمن ترتقي في الجنّة إلى آخر آيةٍ قرأتها أو سمعتها، وآخر حرفٍ تلته.",
+      "category": "dua"
     },
     {
       "id": "gen-13",
-      "englishFemale": "O Allah, have mercy on {name}, for she was Muslim. Forgive her, for she was a believer. Admit her to Paradise, for she believed in Your Prophet, and pardon her, for she recited Your Book.",
-      "arabicLibraryMale": "اللّهمّ ارحمه فإنّه كان مسلمًا، واغفر له فإنّه كان مؤمنًا، وأدخله الجنّة فإنّه كان بنبيّك مصدّقًا، وسامحه فإنّه كان لكتابك مرتّلًا.",
+      "arabicMale": "اللّهمّ ارحم {name} فإنّه كان مسلمًا، واغفر له فإنّه كان مؤمنًا، وأدخله الجنّة فإنّه كان بنبيّك مصدّقًا، وسامحه فإنّه كان لكتابك مرتّلًا.",
       "arabicFemale": "اللّهمّ ارحم {name} فإنّها كانت مسلمةً، واغفر لها فإنّها كانت مؤمنةً، وأدخلها الجنّة فإنّها كانت بنبيّك مصدّقةً، وسامحها فإنّها كانت لكتابك مرتّلةً.",
       "englishMale": "O Allah, have mercy on {name}, for he was Muslim. Forgive him, for he was a believer. Admit him to Paradise, for he believed in Your Prophet, and pardon him, for he recited Your Book.",
-      "arabicMale": "اللّهمّ ارحم {name} فإنّه كان مسلمًا، واغفر له فإنّه كان مؤمنًا، وأدخله الجنّة فإنّه كان بنبيّك مصدّقًا، وسامحه فإنّه كان لكتابك مرتّلًا.",
-      "category": "dua",
-      "arabicLibraryFemale": "اللّهمّ ارحمها فإنّها كانت مسلمةً، واغفر لها فإنّها كانت مؤمنةً، وأدخلها الجنّة فإنّها كانت بنبيّك مصدّقةً، وسامحها فإنّها كانت لكتابك مرتّلةً."
+      "englishFemale": "O Allah, have mercy on {name}, for she was Muslim. Forgive her, for she was a believer. Admit her to Paradise, for she believed in Your Prophet, and pardon her, for she recited Your Book.",
+      "arabicLibraryMale": "اللّهمّ ارحمه فإنّه كان مسلمًا، واغفر له فإنّه كان مؤمنًا، وأدخله الجنّة فإنّه كان بنبيّك مصدّقًا، وسامحه فإنّه كان لكتابك مرتّلًا.",
+      "arabicLibraryFemale": "اللّهمّ ارحمها فإنّها كانت مسلمةً، واغفر لها فإنّها كانت مؤمنةً، وأدخلها الجنّة فإنّها كانت بنبيّك مصدّقةً، وسامحها فإنّها كانت لكتابك مرتّلةً.",
+      "category": "dua"
     },
     {
       "id": "gen-14",
-      "englishFemale": "O Allah, have mercy on {name}, forgive her, and look upon her with Your kindness and generosity, O Most Merciful of the merciful.",
-      "arabicLibraryMale": "اللّهمّ ارحمه واغفر له، وانظر إِلَيْهِ بعين لطفك وكرمك يا أرحم الرّاحمين.",
+      "arabicMale": "اللّهمّ ارحم {name} واغفر له، وانظر إِلَيْهِ بعين لطفك وكرمك يا أرحم الرّاحمين.",
       "arabicFemale": "اللّهمّ ارحم {name} واغفر لها، وانظر إِلَيْهِا بعين لطفك وكرمك يا أرحم الرّاحمين.",
       "englishMale": "O Allah, have mercy on {name}, forgive him, and look upon him with Your kindness and generosity, O Most Merciful of the merciful.",
-      "arabicMale": "اللّهمّ ارحم {name} واغفر له، وانظر إِلَيْهِ بعين لطفك وكرمك يا أرحم الرّاحمين.",
-      "category": "dua",
-      "arabicLibraryFemale": "اللّهمّ ارحمها واغفر لها، وانظر إِلَيْهِا بعين لطفك وكرمك يا أرحم الرّاحمين."
+      "englishFemale": "O Allah, have mercy on {name}, forgive her, and look upon her with Your kindness and generosity, O Most Merciful of the merciful.",
+      "arabicLibraryMale": "اللّهمّ ارحمه واغفر له، وانظر إِلَيْهِ بعين لطفك وكرمك يا أرحم الرّاحمين.",
+      "arabicLibraryFemale": "اللّهمّ ارحمها واغفر لها، وانظر إِلَيْهِا بعين لطفك وكرمك يا أرحم الرّاحمين.",
+      "category": "dua"
     },
     {
       "id": "gen-15",
-      "englishFemale": "O Allah, illuminate the grave of {name}, comfort her loneliness, and widen her entrance.",
-      "arabicLibraryMale": "اللّهمّ نوّر قَبْرِهِ، وآنس وَحْشَتَه، ووسّع مُدْخَلَه.",
+      "arabicMale": "اللّهمّ نوّر قبر {name}، وآنس وَحْشَتَه، ووسّع مُدْخَلَه.",
       "arabicFemale": "اللّهمّ نوّر قبر {name}، وآنس وَحْشَتَها، ووسّع مُدْخَلَها.",
       "englishMale": "O Allah, illuminate the grave of {name}, comfort his loneliness, and widen his entrance.",
-      "arabicMale": "اللّهمّ نوّر قبر {name}، وآنس وَحْشَتَه، ووسّع مُدْخَلَه.",
-      "category": "dua",
-      "arabicLibraryFemale": "اللّهمّ نوّر قَبْرِهِا، وآنس وَحْشَتَها، ووسّع مُدْخَلَها."
+      "englishFemale": "O Allah, illuminate the grave of {name}, comfort her loneliness, and widen her entrance.",
+      "arabicLibraryMale": "اللّهمّ نوّر قَبْرِهِ، وآنس وَحْشَتَه، ووسّع مُدْخَلَه.",
+      "arabicLibraryFemale": "اللّهمّ نوّر قَبْرِهِا، وآنس وَحْشَتَها، ووسّع مُدْخَلَها.",
+      "category": "dua"
     },
     {
       "id": "gen-16",
-      "englishFemale": "O Allah, grant {name} a blessed dwelling, for You are the best of those who provide dwelling.",
-      "arabicLibraryMale": "اللّهمّ أنُزُلَه منزلًا مباركًا، وأنت خير المنزلين.",
+      "arabicMale": "اللّهمّ أنزل {name} منزلًا مباركًا، وأنت خير المنزلين.",
       "arabicFemale": "اللّهمّ أنزل {name} منزلًا مباركًا، وأنت خير المنزلين.",
       "englishMale": "O Allah, grant {name} a blessed dwelling, for You are the best of those who provide dwelling.",
-      "arabicMale": "اللّهمّ أنزل {name} منزلًا مباركًا، وأنت خير المنزلين.",
-      "category": "dua",
-      "arabicLibraryFemale": "اللّهمّ أنُزُلَهَا منزلًا مباركًا، وأنت خير المنزلين."
+      "englishFemale": "O Allah, grant {name} a blessed dwelling, for You are the best of those who provide dwelling.",
+      "arabicLibraryMale": "اللّهمّ أنُزُلَه منزلًا مباركًا، وأنت خير المنزلين.",
+      "arabicLibraryFemale": "اللّهمّ أنُزُلَهَا منزلًا مباركًا، وأنت خير المنزلين.",
+      "category": "dua"
     },
     {
       "id": "gen-17",
-      "englishFemale": "O Allah, expand the grave of {name} as far as her sight reaches, and furnish her grave with the furnishings of Paradise.",
-      "arabicLibraryMale": "اللّهمّ افسح له في قَبْرِهِ مدّ بصره، وافرش قَبْرِهِ من فراش الجنّة.",
+      "arabicMale": "اللّهمّ افسح لـ {name} في قَبْرِهِ مدّ بصره، وافرش قَبْرِهِ من فراش الجنّة.",
       "arabicFemale": "اللّهمّ افسح لـ {name} في قَبْرِهِا مدّ بصرها، وافرش قَبْرِهِا من فراش الجنّة.",
       "englishMale": "O Allah, expand the grave of {name} as far as his sight reaches, and furnish his grave with the furnishings of Paradise.",
-      "arabicMale": "اللّهمّ افسح لـ {name} في قَبْرِهِ مدّ بصره، وافرش قَبْرِهِ من فراش الجنّة.",
-      "category": "dua",
-      "arabicLibraryFemale": "اللّهمّ افسح لها في قَبْرِهِا مدّ بصرها، وافرش قَبْرِهِا من فراش الجنّة."
+      "englishFemale": "O Allah, expand the grave of {name} as far as her sight reaches, and furnish her grave with the furnishings of Paradise.",
+      "arabicLibraryMale": "اللّهمّ افسح له في قَبْرِهِ مدّ بصره، وافرش قَبْرِهِ من فراش الجنّة.",
+      "arabicLibraryFemale": "اللّهمّ افسح لها في قَبْرِهِا مدّ بصرها، وافرش قَبْرِهِا من فراش الجنّة.",
+      "category": "dua"
     },
     {
       "id": "gen-18",
-      "englishFemale": "O Allah, protect {name} from the punishment of the grave and from the hardship of the earth around her.",
-      "arabicLibraryMale": "اللّهمّ أعذه من عَذاب القَبْر، ومن جفاف الأرض عن جنبيه.",
+      "arabicMale": "اللّهمّ أعذ {name} من عَذاب القَبْر، ومن جفاف الأرض عن جنبيه.",
       "arabicFemale": "اللّهمّ أعذ {name} من عَذاب القَبْر، ومن جفاف الأرض عن جنبيها.",
       "englishMale": "O Allah, protect {name} from the punishment of the grave and from the hardship of the earth around him.",
-      "arabicMale": "اللّهمّ أعذ {name} من عَذاب القَبْر، ومن جفاف الأرض عن جنبيه.",
-      "category": "dua",
-      "arabicLibraryFemale": "اللّهمّ أعذها من عَذاب القَبْر، ومن جفاف الأرض عن جنبيها."
+      "englishFemale": "O Allah, protect {name} from the punishment of the grave and from the hardship of the earth around her.",
+      "arabicLibraryMale": "اللّهمّ أعذه من عَذاب القَبْر، ومن جفاف الأرض عن جنبيه.",
+      "arabicLibraryFemale": "اللّهمّ أعذها من عَذاب القَبْر، ومن جفاف الأرض عن جنبيها.",
+      "category": "dua"
     },
     {
       "id": "gen-19",
       "arabicMale": "اللّهمّ املأ قبر {name} بالرّضا والنُّور والفسحة والسّرور.",
       "arabicFemale": "اللّهمّ املأ قبر {name} بالرّضا والنُّور والفسحة والسّرور.",
-      "arabicLibraryMale": "اللّهمّ املأ قَبْرِهِ بالرّضا والنُّور والفسحة والسّرور.",
-      "englishFemale": "O Allah, fill the grave of {name} with contentment, light, spaciousness, and joy.",
-      "category": "dua",
       "englishMale": "O Allah, fill the grave of {name} with contentment, light, spaciousness, and joy.",
-      "arabicLibraryFemale": "اللّهمّ املأ قَبْرِهِا بالرّضا والنُّور والفسحة والسّرور."
+      "englishFemale": "O Allah, fill the grave of {name} with contentment, light, spaciousness, and joy.",
+      "arabicLibraryMale": "اللّهمّ املأ قَبْرِهِ بالرّضا والنُّور والفسحة والسّرور.",
+      "arabicLibraryFemale": "اللّهمّ املأ قَبْرِهِا بالرّضا والنُّور والفسحة والسّرور.",
+      "category": "dua"
     },
     {
       "id": "gen-20",
       "arabicMale": "اللّهمّ اعف عن {name}، فإنّك أنت القائل: ويعفو عن كثيرٍ.",
       "arabicFemale": "اللّهمّ اعف عن {name}، فإنّك أنت القائل: ويعفو عن كثيرٍ.",
-      "arabicLibraryMale": "اللّهمّ اعف عنه، فإنّك أنت القائل: ويعفو عن كثيرٍ.",
-      "englishFemale": "O Allah, pardon {name}, for You are the One who said: and He pardons much.",
-      "category": "dua",
       "englishMale": "O Allah, pardon {name}, for You are the One who said: and He pardons much.",
-      "arabicLibraryFemale": "اللّهمّ اعف عنها، فإنّك أنت القائل: ويعفو عن كثيرٍ."
+      "englishFemale": "O Allah, pardon {name}, for You are the One who said: and He pardons much.",
+      "arabicLibraryMale": "اللّهمّ اعف عنه، فإنّك أنت القائل: ويعفو عن كثيرٍ.",
+      "arabicLibraryFemale": "اللّهمّ اعف عنها، فإنّك أنت القائل: ويعفو عن كثيرٍ.",
+      "category": "dua"
     },
     {
       "id": "gen-21",
       "arabicMale": "اللّهمّ اجعل عن يمين {name} نُورًا حتّى تبعثه آمِنًا مطمئنًّا في نُورٍ من نُورك.",
       "arabicFemale": "اللّهمّ اجعل عن يمين {name} نُورًا حتّى تبعثها آمِنَةً مطمئنّةً في نُورٍ من نُورك.",
-      "arabicLibraryMale": "اللّهمّ اجعل عن يمينه نُورًا حتّى تبعثه آمِنًا مطمئنًّا في نُورٍ من نُورك.",
-      "englishFemale": "O Allah, place light on the right side of {name} until You raise her safe and tranquil in a light from Your light.",
-      "category": "dua",
       "englishMale": "O Allah, place light on the right side of {name} until You raise him safe and tranquil in a light from Your light.",
-      "arabicLibraryFemale": "اللّهمّ اجعل عن يمينها نُورًا حتّى تبعثها آمِنَةً مطمئنّةً في نُورٍ من نُورك."
+      "englishFemale": "O Allah, place light on the right side of {name} until You raise her safe and tranquil in a light from Your light.",
+      "arabicLibraryMale": "اللّهمّ اجعل عن يمينه نُورًا حتّى تبعثه آمِنًا مطمئنًّا في نُورٍ من نُورك.",
+      "arabicLibraryFemale": "اللّهمّ اجعل عن يمينها نُورًا حتّى تبعثها آمِنَةً مطمئنّةً في نُورٍ من نُورك.",
+      "category": "dua"
     },
     {
       "id": "gen-22",
       "arabicMale": "اللّهمّ أسكن {name} فسيح الجنان، واغفر له يا رحمن، وارحمه يا رحيم، وتجاوز عمّا تعلم يا عليم.",
       "arabicFemale": "اللّهمّ أسكن {name} فسيح الجنان، واغفر لها يا رحمن، وارحمها يا رحيم، وتجاوز عمّا تعلم يا عليم.",
-      "arabicLibraryMale": "اللّهمّ أسكنه فسيح الجنان، واغفر له يا رحمن، وارحمه يا رحيم، وتجاوز عمّا تعلم يا عليم.",
-      "englishFemale": "O Allah, place {name} in the spacious gardens, forgive her, have mercy on her, and overlook what You know, O All-Knowing.",
-      "category": "dua",
       "englishMale": "O Allah, place {name} in the spacious gardens, forgive him, have mercy on him, and overlook what You know, O All-Knowing.",
-      "arabicLibraryFemale": "اللّهمّ أسكنها فسيح الجنان، واغفر لها يا رحمن، وارحمها يا رحيم، وتجاوز عمّا تعلم يا عليم."
+      "englishFemale": "O Allah, place {name} in the spacious gardens, forgive her, have mercy on her, and overlook what You know, O All-Knowing.",
+      "arabicLibraryMale": "اللّهمّ أسكنه فسيح الجنان، واغفر له يا رحمن، وارحمه يا رحيم، وتجاوز عمّا تعلم يا عليم.",
+      "arabicLibraryFemale": "اللّهمّ أسكنها فسيح الجنان، واغفر لها يا رحمن، وارحمها يا رحيم، وتجاوز عمّا تعلم يا عليم.",
+      "category": "dua"
     },
     {
       "id": "gen-23",
       "arabicMale": "اللّهمّ إنّ رَحْمَتِكَ وسعت كلّ شيءٍ، فارحم {name} رَحْمَةً تطمئنّ بها نفسه، وتقرّ بها عينه.",
       "arabicFemale": "اللّهمّ إنّ رَحْمَتِكَ وسعت كلّ شيءٍ، فارحم {name} رَحْمَةً تطمئنّ بها نفسها، وتقرّ بها عينها.",
-      "arabicLibraryMale": "اللّهمّ إنّ رَحْمَتِكَ وسعت كلّ شيءٍ، فارحمه رَحْمَةً تطمئنّ بها نفسه، وتقرّ بها عينه.",
-      "englishFemale": "O Allah, Your mercy encompasses all things, so have mercy on {name} with a mercy that comforts her soul and delights her eyes.",
-      "category": "dua",
       "englishMale": "O Allah, Your mercy encompasses all things, so have mercy on {name} with a mercy that comforts his soul and delights his eyes.",
-      "arabicLibraryFemale": "اللّهمّ إنّ رَحْمَتِكَ وسعت كلّ شيءٍ، فارحمها رَحْمَةً تطمئنّ بها نفسها، وتقرّ بها عينها."
+      "englishFemale": "O Allah, Your mercy encompasses all things, so have mercy on {name} with a mercy that comforts her soul and delights her eyes.",
+      "arabicLibraryMale": "اللّهمّ إنّ رَحْمَتِكَ وسعت كلّ شيءٍ، فارحمه رَحْمَةً تطمئنّ بها نفسه، وتقرّ بها عينه.",
+      "arabicLibraryFemale": "اللّهمّ إنّ رَحْمَتِكَ وسعت كلّ شيءٍ، فارحمها رَحْمَةً تطمئنّ بها نفسها، وتقرّ بها عينها.",
+      "category": "dua"
     },
     {
       "id": "gen-24",
       "arabicMale": "اللّهمّ اغفر لـ {name} ولجميع موتى المسلمين الّذين شهدوا لك بالوحدانيّة، ولنبيّك بالرّسالة، وماتوا على ذلك.",
       "arabicFemale": "اللّهمّ اغفر لـ {name} ولجميع موتى المسلمين الّذين شهدوا لك بالوحدانيّة، ولنبيّك بالرّسالة، وماتوا على ذلك.",
-      "arabicLibraryMale": "اللّهمّ اغفر له ولجميع موتى المسلمين الّذين شهدوا لك بالوحدانيّة، ولنبيّك بالرّسالة، وماتوا على ذلك.",
-      "englishFemale": "O Allah, forgive {name} and all deceased Muslims who bore witness to Your Oneness, to the message of Your Prophet, and died upon that.",
-      "category": "dua",
       "englishMale": "O Allah, forgive {name} and all deceased Muslims who bore witness to Your Oneness, to the message of Your Prophet, and died upon that.",
-      "arabicLibraryFemale": "اللّهمّ اغفر لها ولجميع موتى المسلمين الّذين شهدوا لك بالوحدانيّة، ولنبيّك بالرّسالة، وماتوا على ذلك."
+      "englishFemale": "O Allah, forgive {name} and all deceased Muslims who bore witness to Your Oneness, to the message of Your Prophet, and died upon that.",
+      "arabicLibraryMale": "اللّهمّ اغفر له ولجميع موتى المسلمين الّذين شهدوا لك بالوحدانيّة، ولنبيّك بالرّسالة، وماتوا على ذلك.",
+      "arabicLibraryFemale": "اللّهمّ اغفر لها ولجميع موتى المسلمين الّذين شهدوا لك بالوحدانيّة، ولنبيّك بالرّسالة، وماتوا على ذلك.",
+      "category": "dua"
     },
     {
       "id": "gen-25",
       "arabicMale": "يا ربّ، إنّك اخترت {name} وقدّرت أن يغادر هذه الدّنيا إليك، فاللّهمّ ارحمه، واغفر له، واعف عنه، وأره منزلته من الجنّة.",
       "arabicFemale": "يا ربّ، إنّك اخترت {name} وقدّرت أن تغادر هذه الدّنيا إليك، فاللّهمّ ارحمها، واغفر لها، واعف عنها، وأرها منزلتها من الجنّة.",
-      "arabicLibraryMale": "يا ربّ، إنّك اخترته وقدّرت أن يغادر هذه الدّنيا إليك، فاللّهمّ ارحمه، واغفر له، واعف عنه، وأره منزلته من الجنّة.",
-      "arabicLibraryFemale": "يا ربّ، إنّك اخترتها وقدّرت أن تغادر هذه الدّنيا إليك، فاللّهمّ ارحمها، واغفر لها، واعف عنها، وأرها منزلتها من الجنّة.",
       "englishMale": "My Lord, You chose {name} and decreed that he leave this world to return to You. O Allah, have mercy on him, forgive him, pardon him, and show him his place in Paradise.",
       "englishFemale": "My Lord, You chose {name} and decreed that she leave this world to return to You. O Allah, have mercy on her, forgive her, pardon her, and show her her place in Paradise.",
+      "arabicLibraryMale": "يا ربّ، إنّك اخترته وقدّرت أن يغادر هذه الدّنيا إليك، فاللّهمّ ارحمه، واغفر له، واعف عنه، وأره منزلته من الجنّة.",
+      "arabicLibraryFemale": "يا ربّ، إنّك اخترتها وقدّرت أن تغادر هذه الدّنيا إليك، فاللّهمّ ارحمها، واغفر لها، واعف عنها، وأرها منزلتها من الجنّة.",
       "category": "dua"
     },
     {
       "id": "gen-26",
       "arabicMale": "اللّهمّ ارحم {name}، فقد أثقل غيابه صدورنا، وأنر قَبْرِهِ، واجعل لقاءنا به في الجنّة عوضًا عن كلّ هذا الوجع.",
       "arabicFemale": "اللّهمّ ارحم {name}، فقد أثقل غيابها صدورنا، وأنر قَبْرِهِا، واجعل لقاءنا بها في الجنّة عوضًا عن كلّ هذا الوجع.",
-      "arabicLibraryMale": "اللّهمّ ارحمه، فقد أثقل غيابه صدورنا، وأنر قَبْرِهِ، واجعل لقاءنا به في الجنّة عوضًا عن كلّ هذا الوجع.",
-      "arabicLibraryFemale": "اللّهمّ ارحمها، فقد أثقل غيابها صدورنا، وأنر قَبْرِهِا، واجعل لقاءنا بها في الجنّة عوضًا عن كلّ هذا الوجع.",
       "englishMale": "O Allah, have mercy on {name}; his absence has weighed heavily on our hearts. Illuminate his grave and make our reunion with him in Paradise a compensation for all this pain.",
       "englishFemale": "O Allah, have mercy on {name}; her absence has weighed heavily on our hearts. Illuminate her grave and make our reunion with her in Paradise a compensation for all this pain.",
+      "arabicLibraryMale": "اللّهمّ ارحمه، فقد أثقل غيابه صدورنا، وأنر قَبْرِهِ، واجعل لقاءنا به في الجنّة عوضًا عن كلّ هذا الوجع.",
+      "arabicLibraryFemale": "اللّهمّ ارحمها، فقد أثقل غيابها صدورنا، وأنر قَبْرِهِا، واجعل لقاءنا بها في الجنّة عوضًا عن كلّ هذا الوجع.",
       "category": "dua"
     },
     {
       "id": "gen-27",
       "arabicMale": "رحم الله {name}، فما ذكر اسمه إلّا بالخير، ورحم الله وجهًا بشوشًا سمحًا، ورحم الله روحًا طاهرةً نقيّةً، ورحم الله ملامح لا تغيب عن البال. اللّهمّ ارحم من فقدناه، واجعل ملتقانا به في الجنّة.",
       "arabicFemale": "رحم الله {name}، فما ذكر اسمها إلّا بالخير، ورحم الله وجهًا بشوشًا سمحًا، ورحم الله روحًا طاهرةً نقيّةً، ورحم الله ملامح لا تغيب عن البال. اللّهمّ ارحم من فقدناها، واجعل ملتقانا بها في الجنّة.",
-      "arabicLibraryMale": "رحمه الله، فما ذكر اسمه إلّا بالخير، ورحم الله وجهًا بشوشًا سمحًا، ورحم الله روحًا طاهرةً نقيّةً، ورحم الله ملامح لا تغيب عن البال. اللّهمّ ارحم من فقدناه، واجعل ملتقانا به في الجنّة.",
-      "arabicLibraryFemale": "رحمها الله، فما ذكر اسمها إلّا بالخير، ورحم الله وجهًا بشوشًا سمحًا، ورحم الله روحًا طاهرةً نقيّةً، ورحم الله ملامح لا تغيب عن البال. اللّهمّ ارحم من فقدناها، واجعل ملتقانا بها في الجنّة.",
       "englishMale": "May Allah have mercy on {name}; whenever his name is mentioned, it is mentioned with goodness. May Allah have mercy on a smiling and gentle face, a pure soul, and features that never leave the mind. O Allah, have mercy on the one we lost and make our reunion with him in Paradise.",
       "englishFemale": "May Allah have mercy on {name}; whenever her name is mentioned, it is mentioned with goodness. May Allah have mercy on a smiling and gentle face, a pure soul, and features that never leave the mind. O Allah, have mercy on the one we lost and make our reunion with her in Paradise.",
+      "arabicLibraryMale": "رحمه الله، فما ذكر اسمه إلّا بالخير، ورحم الله وجهًا بشوشًا سمحًا، ورحم الله روحًا طاهرةً نقيّةً، ورحم الله ملامح لا تغيب عن البال. اللّهمّ ارحم من فقدناه، واجعل ملتقانا به في الجنّة.",
+      "arabicLibraryFemale": "رحمها الله، فما ذكر اسمها إلّا بالخير، ورحم الله وجهًا بشوشًا سمحًا، ورحم الله روحًا طاهرةً نقيّةً، ورحم الله ملامح لا تغيب عن البال. اللّهمّ ارحم من فقدناها، واجعل ملتقانا بها في الجنّة.",
       "category": "dua"
     },
     {
       "id": "gen-28",
       "arabicMale": "اللّهمّ ارحم {name}، فقد ابتلينا بفراقه، وارحم من لا يغيب عن قلوبنا وأفكارنا، واجعل له نَعيمًا لا ينفد، وأنسًا لا يزول في الجنّة.",
       "arabicFemale": "اللّهمّ ارحم {name}، فقد ابتلينا بفراقها، وارحم من لا تغيب عن قلوبنا وأفكارنا، واجعل لها نَعيمًا لا ينفد، وأنسًا لا يزول في الجنّة.",
-      "arabicLibraryMale": "اللّهمّ ارحمه، فقد ابتلينا بفراقه، وارحم من لا يغيب عن قلوبنا وأفكارنا، واجعل له نَعيمًا لا ينفد، وأنسًا لا يزول في الجنّة.",
-      "arabicLibraryFemale": "اللّهمّ ارحمها، فقد ابتلينا بفراقها، وارحم من لا تغيب عن قلوبنا وأفكارنا، واجعل لها نَعيمًا لا ينفد، وأنسًا لا يزول في الجنّة.",
       "englishMale": "O Allah, have mercy on {name}; we have been tested by parting from him. Have mercy on the one who does not leave our hearts and thoughts, and grant him bliss that never ends and comfort that never fades in Paradise.",
       "englishFemale": "O Allah, have mercy on {name}; we have been tested by parting from her. Have mercy on the one who does not leave our hearts and thoughts, and grant her bliss that never ends and comfort that never fades in Paradise.",
+      "arabicLibraryMale": "اللّهمّ ارحمه، فقد ابتلينا بفراقه، وارحم من لا يغيب عن قلوبنا وأفكارنا، واجعل له نَعيمًا لا ينفد، وأنسًا لا يزول في الجنّة.",
+      "arabicLibraryFemale": "اللّهمّ ارحمها، فقد ابتلينا بفراقها، وارحم من لا تغيب عن قلوبنا وأفكارنا، واجعل لها نَعيمًا لا ينفد، وأنسًا لا يزول في الجنّة.",
       "category": "dua"
     },
     {
       "id": "gen-29",
       "arabicMale": "اللّهمّ ارحم {name}، واجعل له في جنّاتك نزلًا، وفي نَعيمك مستقرًّا، اللّهمّ طيّب ثراه، وأنر مَرْقَدِهِ، وافتح له بابًا من الجنّة لا يغلق أبدًا.",
       "arabicFemale": "اللّهمّ ارحم {name}، واجعل لها في جنّاتك نزلًا، وفي نَعيمك مستقرًّا، اللّهمّ طيّب ثراها، وأنر مَرْقَدِهِا، وافتح لها بابًا من الجنّة لا يغلق أبدًا.",
-      "arabicLibraryMale": "اللّهمّ ارحمه، واجعل له في جنّاتك نزلًا، وفي نَعيمك مستقرًّا، اللّهمّ طيّب ثراه، وأنر مَرْقَدِهِ، وافتح له بابًا من الجنّة لا يغلق أبدًا.",
-      "arabicLibraryFemale": "اللّهمّ ارحمها، واجعل لها في جنّاتك نزلًا، وفي نَعيمك مستقرًّا، اللّهمّ طيّب ثراها، وأنر مَرْقَدِهِا، وافتح لها بابًا من الجنّة لا يغلق أبدًا.",
       "englishMale": "O Allah, have mercy on {name}. Grant him a dwelling in Your Gardens and a resting place in Your bliss. O Allah, make his resting earth pleasant, illuminate his resting place, and open for him a gate from Paradise that never closes.",
       "englishFemale": "O Allah, have mercy on {name}. Grant her a dwelling in Your Gardens and a resting place in Your bliss. O Allah, make her resting earth pleasant, illuminate her resting place, and open for her a gate from Paradise that never closes.",
+      "arabicLibraryMale": "اللّهمّ ارحمه، واجعل له في جنّاتك نزلًا، وفي نَعيمك مستقرًّا، اللّهمّ طيّب ثراه، وأنر مَرْقَدِهِ، وافتح له بابًا من الجنّة لا يغلق أبدًا.",
+      "arabicLibraryFemale": "اللّهمّ ارحمها، واجعل لها في جنّاتك نزلًا، وفي نَعيمك مستقرًّا، اللّهمّ طيّب ثراها، وأنر مَرْقَدِهِا، وافتح لها بابًا من الجنّة لا يغلق أبدًا.",
       "category": "dua"
     },
     {
       "id": "gen-30",
       "arabicMale": "اللّهمّ قرّ عين {name} بلذّة النّظر إلى وجهك العظيم، ربّ اجعل أدعيتنا أنيسةً وجليسةً له، واجمعنا به في الجنّة.",
       "arabicFemale": "اللّهمّ قرّ عين {name} بلذّة النّظر إلى وجهك العظيم، ربّ اجعل أدعيتنا أنيسةً وجليسةً لها، واجمعنا بها في الجنّة.",
-      "arabicLibraryMale": "اللّهمّ قرّ عينه بلذّة النّظر إلى وجهك العظيم، ربّ اجعل أدعيتنا أنيسةً وجليسةً له، واجمعنا به في الجنّة.",
-      "arabicLibraryFemale": "اللّهمّ قرّ عينها بلذّة النّظر إلى وجهك العظيم، ربّ اجعل أدعيتنا أنيسةً وجليسةً لها، واجمعنا بها في الجنّة.",
       "englishMale": "O Allah, comfort {name}'s eyes with the delight of looking upon Your noble Face. My Lord, make our supplications a companion and comfort for him, and gather us with him in Paradise.",
       "englishFemale": "O Allah, comfort {name}'s eyes with the delight of looking upon Your noble Face. My Lord, make our supplications a companion and comfort for her, and gather us with her in Paradise.",
+      "arabicLibraryMale": "اللّهمّ قرّ عينه بلذّة النّظر إلى وجهك العظيم، ربّ اجعل أدعيتنا أنيسةً وجليسةً له، واجمعنا به في الجنّة.",
+      "arabicLibraryFemale": "اللّهمّ قرّ عينها بلذّة النّظر إلى وجهك العظيم، ربّ اجعل أدعيتنا أنيسةً وجليسةً لها، واجمعنا بها في الجنّة.",
       "category": "dua"
     },
     {
       "id": "gen-31",
       "arabicMale": "اللّهمّ اجعل {name} من الّذين سعدوا في الجنّة، خالدين فيها ما دامت السّماوات والأرض.",
       "arabicFemale": "اللّهمّ اجعل {name} من اللّاتي سعدن في الجنّة، خالداتٍ فيها ما دامت السّماوات والأرض.",
-      "arabicLibraryMale": "اللّهمّ اجعله من الّذين سعدوا في الجنّة، خالدين فيها ما دامت السّماوات والأرض.",
-      "arabicLibraryFemale": "اللّهمّ اجعلها من اللّاتي سعدن في الجنّة، خالداتٍ فيها ما دامت السّماوات والأرض.",
       "englishMale": "O Allah, make {name} among those who are blessed in Paradise, abiding therein as long as the heavens and the earth endure.",
       "englishFemale": "O Allah, make {name} among those who are blessed in Paradise, abiding therein as long as the heavens and the earth endure.",
+      "arabicLibraryMale": "اللّهمّ اجعله من الّذين سعدوا في الجنّة، خالدين فيها ما دامت السّماوات والأرض.",
+      "arabicLibraryFemale": "اللّهمّ اجعلها من اللّاتي سعدن في الجنّة، خالداتٍ فيها ما دامت السّماوات والأرض.",
       "category": "dua"
     },
     {
       "id": "gen-32",
       "arabicMale": "اللّهمّ كما سيّرت الجبال بقدرتك، فسيّر إلى {name} من رَحَماتِكَ وغفرانك، وأكرمه بكرمك، وواسع فضلك وجودك، واجعل مستقرّه جنّات عدنٍ خالدًا فيها يا الله.",
       "arabicFemale": "اللّهمّ كما سيّرت الجبال بقدرتك، فسيّر إلى {name} من رَحَماتِكَ وغفرانك، وأكرمها بكرمك، وواسع فضلك وجودك، واجعل مستقرّها جنّات عدنٍ خالدةً فيها يا الله.",
-      "arabicLibraryMale": "اللّهمّ كما سيّرت الجبال بقدرتك، فسيّر إِلَيْهِ من رَحَماتِكَ وغفرانك، وأكرمه بكرمك، وواسع فضلك وجودك، واجعل مستقرّه جنّات عدنٍ خالدًا فيها يا الله.",
-      "arabicLibraryFemale": "اللّهمّ كما سيّرت الجبال بقدرتك، فسيّر إِلَيْهِا من رَحَماتِكَ وغفرانك، وأكرمها بكرمك، وواسع فضلك وجودك، واجعل مستقرّها جنّات عدنٍ خالدةً فيها يا الله.",
       "englishMale": "O Allah, just as You moved the mountains by Your power, send to {name} from Your mercies and forgiveness. Honor him by Your generosity, vast favor, and bounty, and make his resting place the Gardens of Eden, abiding therein.",
       "englishFemale": "O Allah, just as You moved the mountains by Your power, send to {name} from Your mercies and forgiveness. Honor her by Your generosity, vast favor, and bounty, and make her resting place the Gardens of Eden, abiding therein.",
+      "arabicLibraryMale": "اللّهمّ كما سيّرت الجبال بقدرتك، فسيّر إِلَيْهِ من رَحَماتِكَ وغفرانك، وأكرمه بكرمك، وواسع فضلك وجودك، واجعل مستقرّه جنّات عدنٍ خالدًا فيها يا الله.",
+      "arabicLibraryFemale": "اللّهمّ كما سيّرت الجبال بقدرتك، فسيّر إِلَيْهِا من رَحَماتِكَ وغفرانك، وأكرمها بكرمك، وواسع فضلك وجودك، واجعل مستقرّها جنّات عدنٍ خالدةً فيها يا الله.",
       "category": "dua"
     },
     {
       "id": "gen-33",
       "arabicMale": "اللّهمّ اجعل اسم {name} عامرًا في دعوات عبادك وأحبابه، واجعله في نَعيمٍ عظيمٍ ما لا عينٌ رأت، ولا أذنٌ سمعت، ولا خطر على قلب بشرٍ، يا ربّ اجمعني به في الجنّة.",
       "arabicFemale": "اللّهمّ اجعل اسم {name} عامرًا في دعوات عبادك وأحبابها، واجعلها في نَعيمٍ عظيمٍ ما لا عينٌ رأت، ولا أذنٌ سمعت، ولا خطر على قلب بشرٍ، يا ربّ اجمعني بها في الجنّة.",
-      "arabicLibraryMale": "اللّهمّ اجعل اسمه عامرًا في دعوات عبادك وأحبابه، واجعله في نَعيمٍ عظيمٍ ما لا عينٌ رأت، ولا أذنٌ سمعت، ولا خطر على قلب بشرٍ، يا ربّ اجمعني به في الجنّة.",
-      "arabicLibraryFemale": "اللّهمّ اجعل اسمها عامرًا في دعوات عبادك وأحبابها، واجعلها في نَعيمٍ عظيمٍ ما لا عينٌ رأت، ولا أذنٌ سمعت، ولا خطر على قلب بشرٍ، يا ربّ اجمعني بها في الجنّة.",
       "englishMale": "O Allah, keep {name}'s name alive in the supplications of Your servants and his loved ones. Place him in immense bliss that no eye has seen, no ear has heard, and no human heart has imagined. My Lord, gather me with him in Paradise.",
       "englishFemale": "O Allah, keep {name}'s name alive in the supplications of Your servants and her loved ones. Place her in immense bliss that no eye has seen, no ear has heard, and no human heart has imagined. My Lord, gather me with her in Paradise.",
+      "arabicLibraryMale": "اللّهمّ اجعل اسمه عامرًا في دعوات عبادك وأحبابه، واجعله في نَعيمٍ عظيمٍ ما لا عينٌ رأت، ولا أذنٌ سمعت، ولا خطر على قلب بشرٍ، يا ربّ اجمعني به في الجنّة.",
+      "arabicLibraryFemale": "اللّهمّ اجعل اسمها عامرًا في دعوات عبادك وأحبابها، واجعلها في نَعيمٍ عظيمٍ ما لا عينٌ رأت، ولا أذنٌ سمعت، ولا خطر على قلب بشرٍ، يا ربّ اجمعني بها في الجنّة.",
       "category": "dua"
     },
     {
       "id": "gen-34",
       "arabicMale": "اللّهمّ ارحم {name}، فقد كانت ضحكته تمسح الحزن عن عمري كلّه، واجعله مسُرورًا راضيًا مرضيًّا في جنّاتك يا الله.",
       "arabicFemale": "اللّهمّ ارحم {name}، فقد كانت ضحكتها تمسح الحزن عن عمري كلّه، واجعلها مسرورةً راضيةً مرضيّةً في جنّاتك يا الله.",
-      "arabicLibraryMale": "اللّهمّ ارحمه، فقد كانت ضحكته تمسح الحزن عن عمري كلّه، واجعله مسُرورًا راضيًا مرضيًّا في جنّاتك يا الله.",
-      "arabicLibraryFemale": "اللّهمّ ارحمها، فقد كانت ضحكتها تمسح الحزن عن عمري كلّه، واجعلها مسرورةً راضيةً مرضيّةً في جنّاتك يا الله.",
       "englishMale": "O Allah, have mercy on {name}; his smile used to wipe sorrow from my whole life. Make him joyful, pleased, and pleasing in Your Gardens.",
       "englishFemale": "O Allah, have mercy on {name}; her smile used to wipe sorrow from my whole life. Make her joyful, pleased, and pleasing in Your Gardens.",
+      "arabicLibraryMale": "اللّهمّ ارحمه، فقد كانت ضحكته تمسح الحزن عن عمري كلّه، واجعله مسُرورًا راضيًا مرضيًّا في جنّاتك يا الله.",
+      "arabicLibraryFemale": "اللّهمّ ارحمها، فقد كانت ضحكتها تمسح الحزن عن عمري كلّه، واجعلها مسرورةً راضيةً مرضيّةً في جنّاتك يا الله.",
       "category": "dua"
     },
     {
       "id": "gen-35",
       "arabicMale": "اللّهمّ اجعل قبر {name} كقلبه أبيض مضيئًا بالنُّور، يا ربّ اغفر له، وارحمه رَحْمَةً واسَعَةً يا أرحم الرّاحمين.",
       "arabicFemale": "اللّهمّ اجعل قبر {name} كقلبها أبيض مضيئًا بالنُّور، يا ربّ اغفر لها، وارحمها رَحْمَةً واسَعَةً يا أرحم الرّاحمين.",
-      "arabicLibraryMale": "اللّهمّ اجعل قَبْرِهِ كقلبه أبيض مضيئًا بالنُّور، يا ربّ اغفر له، وارحمه رَحْمَةً واسَعَةً يا أرحم الرّاحمين.",
-      "arabicLibraryFemale": "اللّهمّ اجعل قَبْرِهِا كقلبها أبيض مضيئًا بالنُّور، يا ربّ اغفر لها، وارحمها رَحْمَةً واسَعَةً يا أرحم الرّاحمين.",
       "englishMale": "O Allah, make {name}'s grave as white and radiant with light as his heart. My Lord, forgive him and have vast mercy on him, O Most Merciful of the merciful.",
       "englishFemale": "O Allah, make {name}'s grave as white and radiant with light as her heart. My Lord, forgive her and have vast mercy on her, O Most Merciful of the merciful.",
+      "arabicLibraryMale": "اللّهمّ اجعل قَبْرِهِ كقلبه أبيض مضيئًا بالنُّور، يا ربّ اغفر له، وارحمه رَحْمَةً واسَعَةً يا أرحم الرّاحمين.",
+      "arabicLibraryFemale": "اللّهمّ اجعل قَبْرِهِا كقلبها أبيض مضيئًا بالنُّور، يا ربّ اغفر لها، وارحمها رَحْمَةً واسَعَةً يا أرحم الرّاحمين.",
       "category": "dua"
     },
     {
       "id": "gen-36",
       "arabicMale": "اللّهمّ يا جامع النّاس في يومٍ لا ريب فيه، اجمعنا بـ {name} في فردوسك منعّمين خالدين، وأظلّنا بظلّ عرشك، وعوّضنا عن فراق الدّنيا كأنّنا لم نفترق يومًا.",
       "arabicFemale": "اللّهمّ يا جامع النّاس في يومٍ لا ريب فيه، اجمعنا بـ {name} في فردوسك منعّمين خالدين، وأظلّنا بظلّ عرشك، وعوّضنا عن فراق الدّنيا كأنّنا لم نفترق يومًا.",
-      "arabicLibraryMale": "اللّهمّ يا جامع النّاس في يومٍ لا ريب فيه، اجمعنا به في فردوسك منعّمين خالدين، وأظلّنا بظلّ عرشك، وعوّضنا عن فراق الدّنيا كأنّنا لم نفترق يومًا.",
-      "arabicLibraryFemale": "اللّهمّ يا جامع النّاس في يومٍ لا ريب فيه، اجمعنا بها في فردوسك منعّمين خالدين، وأظلّنا بظلّ عرشك، وعوّضنا عن فراق الدّنيا كأنّنا لم نفترق يومًا.",
       "englishMale": "O Allah, Gatherer of people on a Day about which there is no doubt, gather us with {name} in Your Paradise, blessed and abiding forever. Shade us beneath Your Throne, and compensate us for the separation of this world as though we had never parted.",
       "englishFemale": "O Allah, Gatherer of people on a Day about which there is no doubt, gather us with {name} in Your Paradise, blessed and abiding forever. Shade us beneath Your Throne, and compensate us for the separation of this world as though we had never parted.",
+      "arabicLibraryMale": "اللّهمّ يا جامع النّاس في يومٍ لا ريب فيه، اجمعنا به في فردوسك منعّمين خالدين، وأظلّنا بظلّ عرشك، وعوّضنا عن فراق الدّنيا كأنّنا لم نفترق يومًا.",
+      "arabicLibraryFemale": "اللّهمّ يا جامع النّاس في يومٍ لا ريب فيه، اجمعنا بها في فردوسك منعّمين خالدين، وأظلّنا بظلّ عرشك، وعوّضنا عن فراق الدّنيا كأنّنا لم نفترق يومًا.",
       "category": "dua"
     },
     {
       "id": "gen-37",
       "arabicMale": "اللّهمّ اغفر لـ {name}، وانظر إِلَيْهِ نظرة رضًا ورَحْمَةٍ، واجعله ممّن أحببتهم ورضيت عنهم، اللّهمّ إنّه بين يدي رَحْمَتِكَ وكرمك، فنوّر داره، ووسّع مَرْقَدِهِ، واجعل الجنّة مقامه ودار اللّقاء به.",
       "arabicFemale": "اللّهمّ اغفر لـ {name}، وانظر إِلَيْهِا نظرة رضًا ورَحْمَةٍ، واجعلها ممّن أحببتهم ورضيت عنهم، اللّهمّ إنّها بين يدي رَحْمَتِكَ وكرمك، فنوّر دارها، ووسّع مَرْقَدِهِا، واجعل الجنّة مقامها ودار اللّقاء بها.",
-      "arabicLibraryMale": "اللّهمّ اغفر له، وانظر إِلَيْهِ نظرة رضًا ورَحْمَةٍ، واجعله ممّن أحببتهم ورضيت عنهم، اللّهمّ إنّه بين يدي رَحْمَتِكَ وكرمك، فنوّر داره، ووسّع مَرْقَدِهِ، واجعل الجنّة مقامه ودار اللّقاء به.",
-      "arabicLibraryFemale": "اللّهمّ اغفر لها، وانظر إِلَيْهِا نظرة رضًا ورَحْمَةٍ، واجعلها ممّن أحببتهم ورضيت عنهم، اللّهمّ إنّها بين يدي رَحْمَتِكَ وكرمك، فنوّر دارها، ووسّع مَرْقَدِهِا، واجعل الجنّة مقامها ودار اللّقاء بها.",
       "englishMale": "O Allah, forgive {name}, look upon him with a gaze of pleasure and mercy, and make him among those You love and are pleased with. O Allah, he is before Your mercy and generosity, so illuminate his abode, widen his resting place, and make Paradise his home and the place where we meet him.",
       "englishFemale": "O Allah, forgive {name}, look upon her with a gaze of pleasure and mercy, and make her among those You love and are pleased with. O Allah, she is before Your mercy and generosity, so illuminate her abode, widen her resting place, and make Paradise her home and the place where we meet her.",
+      "arabicLibraryMale": "اللّهمّ اغفر له، وانظر إِلَيْهِ نظرة رضًا ورَحْمَةٍ، واجعله ممّن أحببتهم ورضيت عنهم، اللّهمّ إنّه بين يدي رَحْمَتِكَ وكرمك، فنوّر داره، ووسّع مَرْقَدِهِ، واجعل الجنّة مقامه ودار اللّقاء به.",
+      "arabicLibraryFemale": "اللّهمّ اغفر لها، وانظر إِلَيْهِا نظرة رضًا ورَحْمَةٍ، واجعلها ممّن أحببتهم ورضيت عنهم، اللّهمّ إنّها بين يدي رَحْمَتِكَ وكرمك، فنوّر دارها، ووسّع مَرْقَدِهِا، واجعل الجنّة مقامها ودار اللّقاء بها.",
       "category": "dua"
     },
     {
       "id": "gen-38",
       "arabicMale": "اللّهمّ اجعل {name} في أطيب ثرًى، وأعزّ كنفٍ، وأرحم مأوًى، وأوسع روضةٍ، وأسعد حالٍ يا ربّ.",
       "arabicFemale": "اللّهمّ اجعل {name} في أطيب ثرًى، وأعزّ كنفٍ، وأرحم مأوًى، وأوسع روضةٍ، وأسعد حالٍ يا ربّ.",
-      "arabicLibraryMale": "اللّهمّ اجعله في أطيب ثرًى، وأعزّ كنفٍ، وأرحم مأوًى، وأوسع روضةٍ، وأسعد حالٍ يا ربّ.",
-      "arabicLibraryFemale": "اللّهمّ اجعلها في أطيب ثرًى، وأعزّ كنفٍ، وأرحم مأوًى، وأوسع روضةٍ، وأسعد حالٍ يا ربّ.",
       "englishMale": "O Allah, place {name} in the purest resting earth, the most honored care, the most merciful refuge, the widest garden, and the happiest state, my Lord.",
       "englishFemale": "O Allah, place {name} in the purest resting earth, the most honored care, the most merciful refuge, the widest garden, and the happiest state, my Lord.",
+      "arabicLibraryMale": "اللّهمّ اجعله في أطيب ثرًى، وأعزّ كنفٍ، وأرحم مأوًى، وأوسع روضةٍ، وأسعد حالٍ يا ربّ.",
+      "arabicLibraryFemale": "اللّهمّ اجعلها في أطيب ثرًى، وأعزّ كنفٍ، وأرحم مأوًى، وأوسع روضةٍ، وأسعد حالٍ يا ربّ.",
       "category": "dua"
     },
     {
       "id": "gen-39",
       "arabicMale": "اللّهمّ اجعل {name} من الوارثين الّذين يرثون الفِرْدَوْس، هم فيها خالدون، اللّهمّ اجعله آمِنًا مطمئنًّا، تحفّه الرّحمات من كلّ جانبٍ يا ربّ العالمين.",
       "arabicFemale": "اللّهمّ اجعل {name} من الوارثات اللّاتي يرثن الفِرْدَوْس، هنّ فيها خالداتٌ، اللّهمّ اجعلها آمِنَةً مطمئنّةً، تحفّها الرّحمات من كلّ جانبٍ يا ربّ العالمين.",
-      "arabicLibraryMale": "اللّهمّ اجعله من الوارثين الّذين يرثون الفِرْدَوْس، هم فيها خالدون، اللّهمّ اجعله آمِنًا مطمئنًّا، تحفّه الرّحمات من كلّ جانبٍ يا ربّ العالمين.",
-      "arabicLibraryFemale": "اللّهمّ اجعلها من الوارثات اللّاتي يرثن الفِرْدَوْس، هنّ فيها خالداتٌ، اللّهمّ اجعلها آمِنَةً مطمئنّةً، تحفّها الرّحمات من كلّ جانبٍ يا ربّ العالمين.",
       "englishMale": "O Allah, make {name} among the inheritors who inherit Paradise, abiding therein forever. O Allah, make him safe and tranquil, surrounded by mercy from every side, O Lord of the worlds.",
       "englishFemale": "O Allah, make {name} among the inheritors who inherit Paradise, abiding therein forever. O Allah, make her safe and tranquil, surrounded by mercy from every side, O Lord of the worlds.",
+      "arabicLibraryMale": "اللّهمّ اجعله من الوارثين الّذين يرثون الفِرْدَوْس، هم فيها خالدون، اللّهمّ اجعله آمِنًا مطمئنًّا، تحفّه الرّحمات من كلّ جانبٍ يا ربّ العالمين.",
+      "arabicLibraryFemale": "اللّهمّ اجعلها من الوارثات اللّاتي يرثن الفِرْدَوْس، هنّ فيها خالداتٌ، اللّهمّ اجعلها آمِنَةً مطمئنّةً، تحفّها الرّحمات من كلّ جانبٍ يا ربّ العالمين.",
       "category": "dua"
     },
     {
       "id": "gen-40",
       "arabicMale": "اللّهمّ صبّ رَحْمَتِكَ ومَغْفِرَتِكَ على {name} في قَبْرِهِ، وكن له أنيسًا في وحدته، وهوّن عَلَيْهِ وحشة القَبْر، اللّهمّ ارو قَبْرِهِ بنَعيمك إلى يوم يبعثون.",
       "arabicFemale": "اللّهمّ صبّ رَحْمَتِكَ ومَغْفِرَتِكَ على {name} في قَبْرِهِا، وكن لها أنيسًا في وحدتها، وهوّن عَلَيْهِا وحشة القَبْر، اللّهمّ ارو قَبْرِهِا بنَعيمك إلى يوم يبعثون.",
-      "arabicLibraryMale": "اللّهمّ صبّ رَحْمَتِكَ ومَغْفِرَتِكَ عَلَيْهِ في قَبْرِهِ، وكن له أنيسًا في وحدته، وهوّن عَلَيْهِ وحشة القَبْر، اللّهمّ ارو قَبْرِهِ بنَعيمك إلى يوم يبعثون.",
-      "arabicLibraryFemale": "اللّهمّ صبّ رَحْمَتِكَ ومَغْفِرَتِكَ عَلَيْهِا في قَبْرِهِا، وكن لها أنيسًا في وحدتها، وهوّن عَلَيْهِا وحشة القَبْر، اللّهمّ ارو قَبْرِهِا بنَعيمك إلى يوم يبعثون.",
       "englishMale": "O Allah, pour Your mercy and forgiveness upon {name} in his grave. Be a companion for him in his solitude, ease the loneliness of the grave for him, and fill his grave with Your bliss until the Day they are resurrected.",
       "englishFemale": "O Allah, pour Your mercy and forgiveness upon {name} in her grave. Be a companion for her in her solitude, ease the loneliness of the grave for her, and fill her grave with Your bliss until the Day they are resurrected.",
+      "arabicLibraryMale": "اللّهمّ صبّ رَحْمَتِكَ ومَغْفِرَتِكَ عَلَيْهِ في قَبْرِهِ، وكن له أنيسًا في وحدته، وهوّن عَلَيْهِ وحشة القَبْر، اللّهمّ ارو قَبْرِهِ بنَعيمك إلى يوم يبعثون.",
+      "arabicLibraryFemale": "اللّهمّ صبّ رَحْمَتِكَ ومَغْفِرَتِكَ عَلَيْهِا في قَبْرِهِا، وكن لها أنيسًا في وحدتها، وهوّن عَلَيْهِا وحشة القَبْر، اللّهمّ ارو قَبْرِهِا بنَعيمك إلى يوم يبعثون.",
       "category": "dua"
     },
     {
       "id": "gen-41",
       "arabicMale": "اللّهمّ أنزل {name} منازل الشّهداء، وعيش السّعداء، ومرافقة الأنبياء، والفوز بالجنّة، والنّجاة من النّار.",
       "arabicFemale": "اللّهمّ أنزل {name} منازل الشّهيدات، وعيش السّعداء، ومرافقة الأنبياء، والفوز بالجنّة، والنّجاة من النّار.",
-      "arabicLibraryMale": "اللّهمّ أنُزُلَه منازل الشّهداء، وعيش السّعداء، ومرافقة الأنبياء، والفوز بالجنّة، والنّجاة من النّار.",
-      "arabicLibraryFemale": "اللّهمّ أنُزُلَهَا منازل الشّهيدات، وعيش السّعداء، ومرافقة الأنبياء، والفوز بالجنّة، والنّجاة من النّار.",
       "englishMale": "O Allah, grant {name} the stations of the martyrs, the life of the blessed, companionship with the prophets, success in Paradise, and safety from the Fire.",
       "englishFemale": "O Allah, grant {name} the stations of the female martyrs, the life of the blessed, companionship with the prophets, success in Paradise, and safety from the Fire.",
+      "arabicLibraryMale": "اللّهمّ أنُزُلَه منازل الشّهداء، وعيش السّعداء، ومرافقة الأنبياء، والفوز بالجنّة، والنّجاة من النّار.",
+      "arabicLibraryFemale": "اللّهمّ أنُزُلَهَا منازل الشّهيدات، وعيش السّعداء، ومرافقة الأنبياء، والفوز بالجنّة، والنّجاة من النّار.",
       "category": "dua"
     },
     {
       "id": "gen-42",
       "arabicMale": "اللّهمّ أكرم {name} بكلّ ما جاء في كتابك الكريم من وصف النَّعيم وأهله، يا أكرم الأكرمين.",
       "arabicFemale": "اللّهمّ أكرم {name} بكلّ ما جاء في كتابك الكريم من وصف النَّعيم وأهله، يا أكرم الأكرمين.",
-      "arabicLibraryMale": "اللّهمّ أكرمه بكلّ ما جاء في كتابك الكريم من وصف النَّعيم وأهله، يا أكرم الأكرمين.",
-      "arabicLibraryFemale": "اللّهمّ أكرمها بكلّ ما جاء في كتابك الكريم من وصف النَّعيم وأهله، يا أكرم الأكرمين.",
       "englishMale": "O Allah, honor {name} with all that has come in Your Noble Book of the descriptions of bliss and its people, O Most Generous of the generous.",
       "englishFemale": "O Allah, honor {name} with all that has come in Your Noble Book of the descriptions of bliss and its people, O Most Generous of the generous.",
+      "arabicLibraryMale": "اللّهمّ أكرمه بكلّ ما جاء في كتابك الكريم من وصف النَّعيم وأهله، يا أكرم الأكرمين.",
+      "arabicLibraryFemale": "اللّهمّ أكرمها بكلّ ما جاء في كتابك الكريم من وصف النَّعيم وأهله، يا أكرم الأكرمين.",
       "category": "dua"
     },
     {
       "id": "gen-43",
       "arabicMale": "اللّهمّ ارحم {name}، فقد كان ضياءً لبيوتنا، وسعادةً لأرواحنا، وملاذًا بعد الله لشتات قلوبنا، اللّهمّ اغفر لوجهٍ نحنّ إِلَيْهِ ولم نعد نراه.",
       "arabicFemale": "اللّهمّ ارحم {name}، فقد كانت ضياءً لبيوتنا، وسعادةً لأرواحنا، وملاذًا بعد الله لشتات قلوبنا، اللّهمّ اغفر لوجهٍ نحنّ إِلَيْهِ ولم نعد نراه.",
-      "arabicLibraryMale": "اللّهمّ ارحمه، فقد كان ضياءً لبيوتنا، وسعادةً لأرواحنا، وملاذًا بعد الله لشتات قلوبنا، اللّهمّ اغفر لوجهٍ نحنّ إِلَيْهِ ولم نعد نراه.",
-      "arabicLibraryFemale": "اللّهمّ ارحمها، فقد كانت ضياءً لبيوتنا، وسعادةً لأرواحنا، وملاذًا بعد الله لشتات قلوبنا، اللّهمّ اغفر لوجهٍ نحنّ إِلَيْهِ ولم نعد نراه.",
       "englishMale": "O Allah, have mercy on {name}; he was light for our homes, happiness for our souls, and a refuge after Allah for our scattered hearts. O Allah, forgive a face we long for and no longer see.",
       "englishFemale": "O Allah, have mercy on {name}; she was light for our homes, happiness for our souls, and a refuge after Allah for our scattered hearts. O Allah, forgive a face we long for and no longer see.",
+      "arabicLibraryMale": "اللّهمّ ارحمه، فقد كان ضياءً لبيوتنا، وسعادةً لأرواحنا، وملاذًا بعد الله لشتات قلوبنا، اللّهمّ اغفر لوجهٍ نحنّ إِلَيْهِ ولم نعد نراه.",
+      "arabicLibraryFemale": "اللّهمّ ارحمها، فقد كانت ضياءً لبيوتنا، وسعادةً لأرواحنا، وملاذًا بعد الله لشتات قلوبنا، اللّهمّ اغفر لوجهٍ نحنّ إِلَيْهِ ولم نعد نراه.",
       "category": "dua"
     },
     {
       "id": "gen-44",
       "arabicMale": "اللّهمّ يا خالق الجنّة ونَعيمها، أنعم على {name} بالفِرْدَوْس الأعلى، وارفع درجته، وثقّل ميزانه، اللّهمّ اجعله من الضّاحكين المستبشرين، الشّاربين من حوض نبيّك، والمشمولين بشفاعته.",
       "arabicFemale": "اللّهمّ يا خالق الجنّة ونَعيمها، أنعم على {name} بالفِرْدَوْس الأعلى، وارفع درجتها، وثقّل ميزانها، اللّهمّ اجعلها من الضّاحكات المستبشرات، الشّاربات من حوض نبيّك، والمشمولات بشفاعته.",
-      "arabicLibraryMale": "اللّهمّ يا خالق الجنّة ونَعيمها، أنعم عَلَيْهِ بالفِرْدَوْس الأعلى، وارفع درجته، وثقّل ميزانه، اللّهمّ اجعله من الضّاحكين المستبشرين، الشّاربين من حوض نبيّك، والمشمولين بشفاعته.",
-      "arabicLibraryFemale": "اللّهمّ يا خالق الجنّة ونَعيمها، أنعم عَلَيْهِا بالفِرْدَوْس الأعلى، وارفع درجتها، وثقّل ميزانها، اللّهمّ اجعلها من الضّاحكات المستبشرات، الشّاربات من حوض نبيّك، والمشمولات بشفاعته.",
       "englishMale": "O Allah, Creator of Paradise and its bliss, bless {name} with the highest Paradise, raise his rank, and make his scale heavy. O Allah, make him among those who are smiling and rejoicing, those who drink from the basin of Your Prophet, and those included in his intercession.",
       "englishFemale": "O Allah, Creator of Paradise and its bliss, bless {name} with the highest Paradise, raise her rank, and make her scale heavy. O Allah, make her among those who are smiling and rejoicing, those who drink from the basin of Your Prophet, and those included in his intercession.",
+      "arabicLibraryMale": "اللّهمّ يا خالق الجنّة ونَعيمها، أنعم عَلَيْهِ بالفِرْدَوْس الأعلى، وارفع درجته، وثقّل ميزانه، اللّهمّ اجعله من الضّاحكين المستبشرين، الشّاربين من حوض نبيّك، والمشمولين بشفاعته.",
+      "arabicLibraryFemale": "اللّهمّ يا خالق الجنّة ونَعيمها، أنعم عَلَيْهِا بالفِرْدَوْس الأعلى، وارفع درجتها، وثقّل ميزانها، اللّهمّ اجعلها من الضّاحكات المستبشرات، الشّاربات من حوض نبيّك، والمشمولات بشفاعته.",
       "category": "dua"
     },
     {
       "id": "gen-45",
       "arabicMale": "اللّهمّ أكرم وجه {name} الطّيّب بنَعيمٍ وسرورٍ، ورضًا منك يا ربًّا غفورًا، اللّهمّ اجعل له في كلّ لحظةٍ تمرّ عَلَيْهِ أجورًا عظيمةً، وجبالًا من الحسنات لا يرى آخرها من أوّلها، يا ربّ العالمين.",
       "arabicFemale": "اللّهمّ أكرم وجه {name} الطّيّب بنَعيمٍ وسرورٍ، ورضًا منك يا ربًّا غفورًا، اللّهمّ اجعل لها في كلّ لحظةٍ تمرّ عَلَيْهِا أجورًا عظيمةً، وجبالًا من الحسنات لا ترى آخرها من أوّلها، يا ربّ العالمين.",
-      "arabicLibraryMale": "اللّهمّ أكرم وجهه الطّيّب بنَعيمٍ وسرورٍ، ورضًا منك يا ربًّا غفورًا، اللّهمّ اجعل له في كلّ لحظةٍ تمرّ عَلَيْهِ أجورًا عظيمةً، وجبالًا من الحسنات لا يرى آخرها من أوّلها، يا ربّ العالمين.",
-      "arabicLibraryFemale": "اللّهمّ أكرم وجهها الطّيّب بنَعيمٍ وسرورٍ، ورضًا منك يا ربًّا غفورًا، اللّهمّ اجعل لها في كلّ لحظةٍ تمرّ عَلَيْهِا أجورًا عظيمةً، وجبالًا من الحسنات لا ترى آخرها من أوّلها، يا ربّ العالمين.",
       "englishMale": "O Allah, honor the kind face of {name} with bliss, joy, and pleasure from You, O Forgiving Lord. O Allah, grant him, in every moment that passes over him, immense rewards and mountains of good deeds whose end cannot be seen from their beginning.",
       "englishFemale": "O Allah, honor the kind face of {name} with bliss, joy, and pleasure from You, O Forgiving Lord. O Allah, grant her, in every moment that passes over her, immense rewards and mountains of good deeds whose end cannot be seen from their beginning.",
+      "arabicLibraryMale": "اللّهمّ أكرم وجهه الطّيّب بنَعيمٍ وسرورٍ، ورضًا منك يا ربًّا غفورًا، اللّهمّ اجعل له في كلّ لحظةٍ تمرّ عَلَيْهِ أجورًا عظيمةً، وجبالًا من الحسنات لا يرى آخرها من أوّلها، يا ربّ العالمين.",
+      "arabicLibraryFemale": "اللّهمّ أكرم وجهها الطّيّب بنَعيمٍ وسرورٍ، ورضًا منك يا ربًّا غفورًا، اللّهمّ اجعل لها في كلّ لحظةٍ تمرّ عَلَيْهِا أجورًا عظيمةً، وجبالًا من الحسنات لا ترى آخرها من أوّلها، يا ربّ العالمين.",
       "category": "dua"
     },
     {
       "id": "gen-46",
       "arabicMale": "اللّهمّ إنّي أسألك أن تكتب لـ {name} الغفران، وأن تثقّل له الميزان، وأن تلبسه من حرير الجنان، يا ربّ ارفع منزلته، وعظّم مكانته، وأكرمه بفضلك ومَغْفِرَتِكَ، واجعل الجنّة داره.",
       "arabicFemale": "اللّهمّ إنّي أسألك أن تكتب لـ {name} الغفران، وأن تثقّل لها الميزان، وأن تلبسها من حرير الجنان، يا ربّ ارفع منزلتها، وعظّم مكانتها، وأكرمها بفضلك ومَغْفِرَتِكَ، واجعل الجنّة دارها.",
-      "arabicLibraryMale": "اللّهمّ إنّي أسألك أن تكتب له الغفران، وأن تثقّل له الميزان، وأن تلبسه من حرير الجنان، يا ربّ ارفع منزلته، وعظّم مكانته، وأكرمه بفضلك ومَغْفِرَتِكَ، واجعل الجنّة داره.",
-      "arabicLibraryFemale": "اللّهمّ إنّي أسألك أن تكتب لها الغفران، وأن تثقّل لها الميزان، وأن تلبسها من حرير الجنان، يا ربّ ارفع منزلتها، وعظّم مكانتها، وأكرمها بفضلك ومَغْفِرَتِكَ، واجعل الجنّة دارها.",
       "englishMale": "O Allah, I ask You to write forgiveness for {name}, make his scale heavy, and clothe him in the silk of Paradise. My Lord, raise his rank, honor his place, honor him by Your favor and forgiveness, and make Paradise his home.",
       "englishFemale": "O Allah, I ask You to write forgiveness for {name}, make her scale heavy, and clothe her in the silk of Paradise. My Lord, raise her rank, honor her place, honor her by Your favor and forgiveness, and make Paradise her home.",
+      "arabicLibraryMale": "اللّهمّ إنّي أسألك أن تكتب له الغفران، وأن تثقّل له الميزان، وأن تلبسه من حرير الجنان، يا ربّ ارفع منزلته، وعظّم مكانته، وأكرمه بفضلك ومَغْفِرَتِكَ، واجعل الجنّة داره.",
+      "arabicLibraryFemale": "اللّهمّ إنّي أسألك أن تكتب لها الغفران، وأن تثقّل لها الميزان، وأن تلبسها من حرير الجنان، يا ربّ ارفع منزلتها، وعظّم مكانتها، وأكرمها بفضلك ومَغْفِرَتِكَ، واجعل الجنّة دارها.",
       "category": "dua"
     },
     {
       "id": "gen-47",
       "arabicMale": "يا ربّ، ندعوك أن تفتح لـ {name} أبواب رَحْمَتِكَ، وأن تيسّر له أسباب مَغْفِرَتِكَ، وأن تصرف عنه عَذابك، وأن ترزقه جَنّتِكَ وثوابك، وأن تجمعه مع نبيّك في جنّاتك.",
       "arabicFemale": "يا ربّ، ندعوك أن تفتح لـ {name} أبواب رَحْمَتِكَ، وأن تيسّر لها أسباب مَغْفِرَتِكَ، وأن تصرف عنها عَذابك، وأن ترزقها جَنّتِكَ وثوابك، وأن تجمعها مع نبيّك في جنّاتك.",
-      "arabicLibraryMale": "يا ربّ، ندعوك أن تفتح له أبواب رَحْمَتِكَ، وأن تيسّر له أسباب مَغْفِرَتِكَ، وأن تصرف عنه عَذابك، وأن ترزقه جَنّتِكَ وثوابك، وأن تجمعه مع نبيّك في جنّاتك.",
-      "arabicLibraryFemale": "يا ربّ، ندعوك أن تفتح لها أبواب رَحْمَتِكَ، وأن تيسّر لها أسباب مَغْفِرَتِكَ، وأن تصرف عنها عَذابك، وأن ترزقها جَنّتِكَ وثوابك، وأن تجمعها مع نبيّك في جنّاتك.",
       "englishMale": "My Lord, we call upon You to open for {name} the doors of Your mercy, ease for him the means of Your forgiveness, turn Your punishment away from him, grant him Your Paradise and reward, and gather him with Your Prophet in Your Gardens.",
       "englishFemale": "My Lord, we call upon You to open for {name} the doors of Your mercy, ease for her the means of Your forgiveness, turn Your punishment away from her, grant her Your Paradise and reward, and gather her with Your Prophet in Your Gardens.",
+      "arabicLibraryMale": "يا ربّ، ندعوك أن تفتح له أبواب رَحْمَتِكَ، وأن تيسّر له أسباب مَغْفِرَتِكَ، وأن تصرف عنه عَذابك، وأن ترزقه جَنّتِكَ وثوابك، وأن تجمعه مع نبيّك في جنّاتك.",
+      "arabicLibraryFemale": "يا ربّ، ندعوك أن تفتح لها أبواب رَحْمَتِكَ، وأن تيسّر لها أسباب مَغْفِرَتِكَ، وأن تصرف عنها عَذابك، وأن ترزقها جَنّتِكَ وثوابك، وأن تجمعها مع نبيّك في جنّاتك.",
       "category": "dua"
     },
     {
       "id": "gen-48",
       "arabicMale": "اللّهمّ اجعل {name} في نَعيمٍ مقيمٍ، راضيًا مرضيًّا، ضاحكًا مستبشرًا، اللّهمّ اجعله في دار السّلام، في ظلٍّ ظليلٍ، وبرّد داره بنسيم الجنّة، وافتح له أبوابها، واجمعنا به فيها يا ربّ العالمين.",
       "arabicFemale": "اللّهمّ اجعل {name} في نَعيمٍ مقيمٍ، راضيةً مرضيّةً، ضاحكةً مستبشرةً، اللّهمّ اجعلها في دار السّلام، في ظلٍّ ظليلٍ، وبرّد دارها بنسيم الجنّة، وافتح لها أبوابها، واجمعنا بها فيها يا ربّ العالمين.",
-      "arabicLibraryMale": "اللّهمّ اجعله في نَعيمٍ مقيمٍ، راضيًا مرضيًّا، ضاحكًا مستبشرًا، اللّهمّ اجعله في دار السّلام، في ظلٍّ ظليلٍ، وبرّد داره بنسيم الجنّة، وافتح له أبوابها، واجمعنا به فيها يا ربّ العالمين.",
-      "arabicLibraryFemale": "اللّهمّ اجعلها في نَعيمٍ مقيمٍ، راضيةً مرضيّةً، ضاحكةً مستبشرةً، اللّهمّ اجعلها في دار السّلام، في ظلٍّ ظليلٍ، وبرّد دارها بنسيم الجنّة، وافتح لها أبوابها، واجمعنا بها فيها يا ربّ العالمين.",
       "englishMale": "O Allah, place {name} in lasting bliss, pleased and pleasing, smiling and rejoicing. O Allah, place him in the Home of Peace, in extended shade, cool his abode with the breeze of Paradise, open its gates for him, and gather us with him there.",
       "englishFemale": "O Allah, place {name} in lasting bliss, pleased and pleasing, smiling and rejoicing. O Allah, place her in the Home of Peace, in extended shade, cool her abode with the breeze of Paradise, open its gates for her, and gather us with her there.",
+      "arabicLibraryMale": "اللّهمّ اجعله في نَعيمٍ مقيمٍ، راضيًا مرضيًّا، ضاحكًا مستبشرًا، اللّهمّ اجعله في دار السّلام، في ظلٍّ ظليلٍ، وبرّد داره بنسيم الجنّة، وافتح له أبوابها، واجمعنا به فيها يا ربّ العالمين.",
+      "arabicLibraryFemale": "اللّهمّ اجعلها في نَعيمٍ مقيمٍ، راضيةً مرضيّةً، ضاحكةً مستبشرةً، اللّهمّ اجعلها في دار السّلام، في ظلٍّ ظليلٍ، وبرّد دارها بنسيم الجنّة، وافتح لها أبوابها، واجمعنا بها فيها يا ربّ العالمين.",
       "category": "dua"
     },
     {
       "id": "gen-49",
       "arabicMale": "اللّهمّ أعط {name} سعادة المتّقين، ودرجات الفائزين، وحطّ عنه خطاياه، وامح سيّئاته، واجعل صحائفه يوم القيامة بيضاء نقيّةً، يا ربّ العالمين، ولجميع موتانا وموتى المسلمين.",
       "arabicFemale": "اللّهمّ أعط {name} سعادة المتّقين، ودرجات الفائزين، وحطّ عنها خطاياها، وامح سيّئاتها، واجعل صحائفها يوم القيامة بيضاء نقيّةً، يا ربّ العالمين، ولجميع موتانا وموتى المسلمين.",
-      "arabicLibraryMale": "اللّهمّ أعطه سعادة المتّقين، ودرجات الفائزين، وحطّ عنه خطاياه، وامح سيّئاته، واجعل صحائفه يوم القيامة بيضاء نقيّةً، يا ربّ العالمين، ولجميع موتانا وموتى المسلمين.",
-      "arabicLibraryFemale": "اللّهمّ أعطها سعادة المتّقين، ودرجات الفائزين، وحطّ عنها خطاياها، وامح سيّئاتها، واجعل صحائفها يوم القيامة بيضاء نقيّةً، يا ربّ العالمين، ولجميع موتانا وموتى المسلمين.",
       "englishMale": "O Allah, grant {name} the happiness of the righteous and the ranks of the successful. Remove his sins, erase his misdeeds, and make his records on the Day of Resurrection white and pure, O Lord of the worlds, and for all our deceased and the deceased Muslims.",
       "englishFemale": "O Allah, grant {name} the happiness of the righteous and the ranks of the successful. Remove her sins, erase her misdeeds, and make her records on the Day of Resurrection white and pure, O Lord of the worlds, and for all our deceased and the deceased Muslims.",
+      "arabicLibraryMale": "اللّهمّ أعطه سعادة المتّقين، ودرجات الفائزين، وحطّ عنه خطاياه، وامح سيّئاته، واجعل صحائفه يوم القيامة بيضاء نقيّةً، يا ربّ العالمين، ولجميع موتانا وموتى المسلمين.",
+      "arabicLibraryFemale": "اللّهمّ أعطها سعادة المتّقين، ودرجات الفائزين، وحطّ عنها خطاياها، وامح سيّئاتها، واجعل صحائفها يوم القيامة بيضاء نقيّةً، يا ربّ العالمين، ولجميع موتانا وموتى المسلمين.",
       "category": "dua"
     },
     {
       "id": "gen-50",
       "arabicMale": "اللّهمّ ارحم {name}، فقد باعدت بيننا وبينه الأقدار، ورحل إلى دار القرار، اللّهمّ اغفر له، وارحمه، وأنزل عَلَيْهِ نُورًا من نُورك ينير عَلَيْهِ ظُلْمَة القُبُور.",
       "arabicFemale": "اللّهمّ ارحم {name}، فقد باعدت بيننا وبينها الأقدار، ورحلت إلى دار القرار، اللّهمّ اغفر لها، وارحمها، وأنزل عَلَيْهِا نُورًا من نُورك ينير عَلَيْهِا ظُلْمَة القُبُور.",
-      "arabicLibraryMale": "اللّهمّ ارحمه، فقد باعدت بيننا وبينه الأقدار، ورحل إلى دار القرار، اللّهمّ اغفر له، وارحمه، وأنزل عَلَيْهِ نُورًا من نُورك ينير عَلَيْهِ ظُلْمَة القُبُور.",
-      "arabicLibraryFemale": "اللّهمّ ارحمها، فقد باعدت بيننا وبينها الأقدار، ورحلت إلى دار القرار، اللّهمّ اغفر لها، وارحمها، وأنزل عَلَيْهِا نُورًا من نُورك ينير عَلَيْهِا ظُلْمَة القُبُور.",
       "englishMale": "O Allah, have mercy on {name}; fate has separated us from him, and he has departed to the eternal abode. O Allah, forgive him, have mercy on him, and send down upon him a light from Your light that illuminates the darkness of the graves.",
       "englishFemale": "O Allah, have mercy on {name}; fate has separated us from her, and she has departed to the eternal abode. O Allah, forgive her, have mercy on her, and send down upon her a light from Your light that illuminates the darkness of the graves.",
+      "arabicLibraryMale": "اللّهمّ ارحمه، فقد باعدت بيننا وبينه الأقدار، ورحل إلى دار القرار، اللّهمّ اغفر له، وارحمه، وأنزل عَلَيْهِ نُورًا من نُورك ينير عَلَيْهِ ظُلْمَة القُبُور.",
+      "arabicLibraryFemale": "اللّهمّ ارحمها، فقد باعدت بيننا وبينها الأقدار، ورحلت إلى دار القرار، اللّهمّ اغفر لها، وارحمها، وأنزل عَلَيْهِا نُورًا من نُورك ينير عَلَيْهِا ظُلْمَة القُبُور.",
       "category": "dua"
     }
   ],
@@ -2595,6 +2305,8 @@
       "englishLibraryFemale": "O Allah, at the close of the last ten nights, grant her a share of pardon, a portion of forgiveness, and an open door to the Gardens of Bliss."
     },
     {
+      "id": "laylatAlQadr-1",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إنّك عفوٌّ تحبّ العَفْو، فاعف عن {name}، واغفر له، وارحمه.",
       "arabicFemale": "اللّهمّ إنّك عفوٌّ تحبّ العَفْو، فاعف عن {name}، واغفر لها، وارحمها.",
       "arabicLibraryMale": "اللّهمّ إنّك عفوٌّ تحبّ العَفْو، فاعف عن المتوفّى، واغفر له، وارحمه.",
@@ -2602,11 +2314,11 @@
       "englishMale": "O Allah, You are Most Pardoning and You love pardon, so pardon {name}, forgive him, and have mercy on him.",
       "englishFemale": "O Allah, You are Most Pardoning and You love pardon, so pardon {name}, forgive her, and have mercy on her.",
       "englishLibraryMale": "O Allah, You are Most Pardoning and You love pardon, so pardon him, forgive him, and have mercy on him.",
-      "englishLibraryFemale": "O Allah, You are Most Pardoning and You love pardon, so pardon her, forgive her, and have mercy on her.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-1"
+      "englishLibraryFemale": "O Allah, You are Most Pardoning and You love pardon, so pardon her, forgive her, and have mercy on her."
     },
     {
+      "id": "laylatAlQadr-2",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه ليلة القَدْر، فاجعل قبر {name} نُورًا، وروحه مطمئنّةً، ومقامه في علّيّين.",
       "arabicFemale": "اللّهمّ إن كانت هذه ليلة القَدْر، فاجعل قبر {name} نُورًا، وروحها مطمئنّةً، ومقامها في علّيّين.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه ليلة القَدْر، فاجعل قبر المتوفّى نُورًا، وروحه مطمئنّةً، ومقامه في علّيّين.",
@@ -2614,11 +2326,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, make {name}'s grave full of light, his soul tranquil, and his station among the highest.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, make {name}'s grave full of light, her soul tranquil, and her station among the highest.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, make him's grave full of light, his soul tranquil, and his station among the highest.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, make her's grave full of light, her soul tranquil, and her station among the highest.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-2"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, make her's grave full of light, her soul tranquil, and her station among the highest."
     },
     {
+      "id": "laylatAlQadr-3",
+      "category": "laylatAlQadr",
       "arabicMale": "يا ربّ، إن وافقت ليلتنا هذه ليلة القَدْر، فاجعل لـ {name} من خيرها أوفر الحظّ والنّصيب.",
       "arabicFemale": "يا ربّ، إن وافقت ليلتنا هذه ليلة القَدْر، فاجعل لـ {name} من خيرها أوفر الحظّ والنّصيب.",
       "arabicLibraryMale": "يا ربّ، إن وافقت ليلتنا هذه ليلة القَدْر، فاجعل للمتوفّى من خيرها أوفر الحظّ والنّصيب.",
@@ -2626,11 +2338,11 @@
       "englishMale": "O Allah, grant {name} the fullest share and portion of the goodness of this night.",
       "englishFemale": "O Allah, grant {name} the fullest share and portion of the goodness of this night.",
       "englishLibraryMale": "O Allah, grant him the fullest share and portion of the goodness of this night.",
-      "englishLibraryFemale": "O Allah, grant her the fullest share and portion of the goodness of this night.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-3"
+      "englishLibraryFemale": "O Allah, grant her the fullest share and portion of the goodness of this night."
     },
     {
+      "id": "laylatAlQadr-4",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة ممّا تضاعف فيه الرّحمات، فارفع ذكر {name} في المهديّين، واجعله في الفِرْدَوْس الأعلى منعّمًا مكرّمًا.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة ممّا تضاعف فيه الرّحمات، فارفع ذكر {name} في المهديّين، واجعلها في الفِرْدَوْس الأعلى منعّمةً مكرّمةً.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة ممّا تضاعف فيه الرّحمات، فارفع ذكر المتوفّى في المهديّين، واجعله في الفِرْدَوْس الأعلى منعّمًا مكرّمًا.",
@@ -2638,11 +2350,11 @@
       "englishMale": "O Allah, raise {name}'s remembrance among the rightly guided, and place him in the highest Paradise, honored and in bliss.",
       "englishFemale": "O Allah, raise {name}'s remembrance among the rightly guided, and place her in the highest Paradise, honored and in bliss.",
       "englishLibraryMale": "O Allah, raise him's remembrance among the rightly guided, and place him in the highest Paradise, honored and in bliss.",
-      "englishLibraryFemale": "O Allah, raise her's remembrance among the rightly guided, and place her in the highest Paradise, honored and in bliss.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-4"
+      "englishLibraryFemale": "O Allah, raise her's remembrance among the rightly guided, and place her in the highest Paradise, honored and in bliss."
     },
     {
+      "id": "laylatAlQadr-5",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة ليلة القَدْر، فاكتب لـ {name} فيها رَحْمَةً لا تنقطع، ومَغْفِرَةً لا يبقى بعدها ذنبٌ.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة ليلة القَدْر، فاكتب لـ {name} فيها رَحْمَةً لا تنقطع، ومَغْفِرَةً لا يبقى بعدها ذنبٌ.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة ليلة القَدْر، فاكتب للمتوفّى فيها رَحْمَةً لا تنقطع، ومَغْفِرَةً لا يبقى بعدها ذنبٌ.",
@@ -2650,11 +2362,11 @@
       "englishMale": "O Allah, write for {name} if this night is among the blessed nights a mercy that never ceases and a forgiveness after which no sin remains.",
       "englishFemale": "O Allah, write for {name} if this night is among the blessed nights a mercy that never ceases and a forgiveness after which no sin remains.",
       "englishLibraryMale": "O Allah, write for him if this night is among the blessed nights a mercy that never ceases and a forgiveness after which no sin remains.",
-      "englishLibraryFemale": "O Allah, write for her if this night is among the blessed nights a mercy that never ceases and a forgiveness after which no sin remains.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-5"
+      "englishLibraryFemale": "O Allah, write for her if this night is among the blessed nights a mercy that never ceases and a forgiveness after which no sin remains."
     },
     {
+      "id": "laylatAlQadr-6",
+      "category": "laylatAlQadr",
       "arabicMale": "ربّنا، إن كانت هذه من ليالي القدر عندك، فاجعل دعاءنا لـ {name} مقبولًا، واجعله نُورًا يصل إِلَيْهِ.",
       "arabicFemale": "ربّنا، إن كانت هذه من ليالي القدر عندك، فاجعل دعاءنا لـ {name} مقبولًا، واجعلها نُورًا يصل إِلَيْهِا.",
       "arabicLibraryMale": "ربّنا، إن كانت هذه من ليالي القدر عندك، فاجعل دعاءنا للمتوفّى مقبولًا، واجعله نُورًا يصل إِلَيْهِ.",
@@ -2662,11 +2374,11 @@
       "englishMale": "O Allah, make our supplication for {name} if this night is Laylat al-Qadr accepted, and make it a light that reaches him.",
       "englishFemale": "O Allah, make our supplication for {name} if this night is Laylat al-Qadr accepted, and make it a light that reaches her.",
       "englishLibraryMale": "O Allah, make our supplication for him if this night is Laylat al-Qadr accepted, and make it a light that reaches him.",
-      "englishLibraryFemale": "O Allah, make our supplication for her if this night is Laylat al-Qadr accepted, and make it a light that reaches her.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-6"
+      "englishLibraryFemale": "O Allah, make our supplication for her if this night is Laylat al-Qadr accepted, and make it a light that reaches her."
     },
     {
+      "id": "laylatAlQadr-7",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن أدركنا فضل ليلة القَدْر في هذه اللّيلة، فارزق {name} الأمن يوم الفَزَع، والرّضا يوم اللّقاء، والجنّة يوم الحِساب.",
       "arabicFemale": "اللّهمّ إن أدركنا فضل ليلة القَدْر في هذه اللّيلة، فارزق {name} الأمن يوم الفَزَع، والرّضا يوم اللّقاء، والجنّة يوم الحِساب.",
       "arabicLibraryMale": "اللّهمّ إن أدركنا فضل ليلة القَدْر في هذه اللّيلة، فارزق المتوفّى الأمن يوم الفَزَع، والرّضا يوم اللّقاء، والجنّة يوم الحِساب.",
@@ -2674,11 +2386,11 @@
       "englishMale": "O Allah, grant {name} safety on the Day of Terror, Your pleasure on the Day of Meeting, and Paradise on the Day of Reckoning.",
       "englishFemale": "O Allah, grant {name} safety on the Day of Terror, Your pleasure on the Day of Meeting, and Paradise on the Day of Reckoning.",
       "englishLibraryMale": "O Allah, grant him safety on the Day of Terror, Your pleasure on the Day of Meeting, and Paradise on the Day of Reckoning.",
-      "englishLibraryFemale": "O Allah, grant her safety on the Day of Terror, Your pleasure on the Day of Meeting, and Paradise on the Day of Reckoning.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-7"
+      "englishLibraryFemale": "O Allah, grant her safety on the Day of Terror, Your pleasure on the Day of Meeting, and Paradise on the Day of Reckoning."
     },
     {
+      "id": "laylatAlQadr-8",
+      "category": "laylatAlQadr",
       "arabicMale": "يا الله، إن كنّا في ليلةٍ عظّمت قدرها، فاجعل {name} ممّن عفوت عنهم، ورضيت عنهم، ورفعت درجاتهم.",
       "arabicFemale": "يا الله، إن كنّا في ليلةٍ عظّمت قدرها، فاجعل {name} ممّن عفوت عنهم، ورضيت عنهم، ورفعت درجاتهم.",
       "arabicLibraryMale": "يا الله، إن كنّا في ليلةٍ عظّمت قدرها، فاجعل المتوفّى ممّن عفوت عنهم، ورضيت عنهم، ورفعت درجاتهم.",
@@ -2686,11 +2398,11 @@
       "englishMale": "O Allah, make {name} among those whom You have pardoned, those You are pleased with, and those whose ranks You have raised.",
       "englishFemale": "O Allah, make {name} among those whom You have pardoned, those You are pleased with, and those whose ranks You have raised.",
       "englishLibraryMale": "O Allah, make him among those whom You have pardoned, those You are pleased with, and those whose ranks You have raised.",
-      "englishLibraryFemale": "O Allah, make her among those whom You have pardoned, those You are pleased with, and those whose ranks You have raised.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-8"
+      "englishLibraryFemale": "O Allah, make her among those whom You have pardoned, those You are pleased with, and those whose ranks You have raised."
     },
     {
+      "id": "laylatAlQadr-9",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة من ليالي رَحْمَتِكَ العظيمة، فاجمعنا بـ {name} في جنّاتك جنّات النَّعيم.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة من ليالي رَحْمَتِكَ العظيمة، فاجمعنا بـ {name} في جنّاتك جنّات النَّعيم.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة من ليالي رَحْمَتِكَ العظيمة، فاجمعنا بـ المتوفّى في جنّاتك جنّات النَّعيم.",
@@ -2698,11 +2410,11 @@
       "englishMale": "O Allah, gather us with {name} in Your Gardens, the Gardens of Bliss.",
       "englishFemale": "O Allah, gather us with {name} in Your Gardens, the Gardens of Bliss.",
       "englishLibraryMale": "O Allah, gather us with him in Your Gardens, the Gardens of Bliss.",
-      "englishLibraryFemale": "O Allah, gather us with her in Your Gardens, the Gardens of Bliss.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-9"
+      "englishLibraryFemale": "O Allah, gather us with her in Your Gardens, the Gardens of Bliss."
     },
     {
+      "id": "laylatAlQadr-10",
+      "category": "laylatAlQadr",
       "arabicMale": "يا ربّ، إن كان لهذه اللّيلة من فضل ليلة القَدْر نصيبٌ، فاغفر لـ {name}، وارحمه فوق الأرض، وتحت الأرض، ويوم العرض عليك.",
       "arabicFemale": "يا ربّ، إن كان لهذه اللّيلة من فضل ليلة القَدْر نصيبٌ، فاغفر لـ {name}، وارحمها فوق الأرض، وتحت الأرض، ويوم العرض عليك.",
       "arabicLibraryMale": "يا ربّ، إن كان لهذه اللّيلة من فضل ليلة القَدْر نصيبٌ، فاغفر للمتوفّى، وارحمه فوق الأرض، وتحت الأرض، ويوم العرض عليك.",
@@ -2710,11 +2422,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, forgive {name}, have mercy on him above the earth, beneath the earth, and on the Day he is presented to You, and forgive him and all deceased Muslims.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, forgive {name}, have mercy on her above the earth, beneath the earth, and on the Day she is presented to You, and forgive her and all deceased Muslims.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, forgive him, have mercy on him above the earth, beneath the earth, and on the Day he is presented to You, and forgive him and all deceased Muslims.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, forgive her, have mercy on her above the earth, beneath the earth, and on the Day she is presented to You, and forgive her and all deceased Muslims.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-10"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, forgive her, have mercy on her above the earth, beneath the earth, and on the Day she is presented to You, and forgive her and all deceased Muslims."
     },
     {
+      "id": "laylatAlQadr-11",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه ليلة القَدْر، فأعتق رقبة {name} من النّار، واجعله من أهل عَفْوِكَ ورَحْمَتِكَ، ومن الفائزين بجَنّتِكَ.",
       "arabicFemale": "اللّهمّ إن كانت هذه ليلة القَدْر، فأعتق رقبة {name} من النّار، واجعلها من أهل عَفْوِكَ ورَحْمَتِكَ، ومن الفائزات بجَنّتِكَ.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه ليلة القَدْر، فأعتق رقبة المتوفّى من النّار، واجعله من أهل عَفْوِكَ ورَحْمَتِكَ، ومن الفائزين بجَنّتِكَ.",
@@ -2722,11 +2434,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, free {name} from the Fire and make him among the people of Your pardon, mercy, and Paradise.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, free {name} from the Fire and make her among the people of Your pardon, mercy, and Paradise.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, free him from the Fire and make him among the people of Your pardon, mercy, and Paradise.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, free her from the Fire and make her among the people of Your pardon, mercy, and Paradise.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-11"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, free her from the Fire and make her among the people of Your pardon, mercy, and Paradise."
     },
     {
+      "id": "laylatAlQadr-12",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة الّتي تتنزّل فيها الرّحمات، فاجعل {name} ممّن تبشّرهم بروحٍ وريحانٍ، وربٍّ راضٍ غير غضبان.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة الّتي تتنزّل فيها الرّحمات، فاجعل {name} ممّن تبشّرهم بروحٍ وريحانٍ، وربٍّ راضٍ غير غضبان.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة الّتي تتنزّل فيها الرّحمات، فاجعل المتوفّى ممّن تبشّرهم بروحٍ وريحانٍ، وربٍّ راضٍ غير غضبان.",
@@ -2734,11 +2446,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, make {name} among those given glad tidings of rest, fragrance, a Lord pleased and not angry, and lasting bliss.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, make {name} among those given glad tidings of rest, fragrance, a Lord pleased and not angry, and lasting bliss.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, make him among those given glad tidings of rest, fragrance, a Lord pleased and not angry, and lasting bliss.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, make her among those given glad tidings of rest, fragrance, a Lord pleased and not angry, and lasting bliss.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-12"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, make her among those given glad tidings of rest, fragrance, a Lord pleased and not angry, and lasting bliss."
     },
     {
+      "id": "laylatAlQadr-13",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن وافقت هذه اللّيلة ليلة القَدْر، فثبّت {name} عند السّؤال، ولقّنه حجّته، واجعل كتابه في علّيّين.",
       "arabicFemale": "اللّهمّ إن وافقت هذه اللّيلة ليلة القَدْر، فثبّت {name} عند السّؤال، ولقّنها حجّتها، واجعل كتابها في علّيّين.",
       "arabicLibraryMale": "اللّهمّ إن وافقت هذه اللّيلة ليلة القَدْر، فثبّت المتوفّى عند السّؤال، ولقّنه حجّته، واجعل كتابه في علّيّين.",
@@ -2746,11 +2458,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, make {name} firm when questioned, grant him his proof, place his record in Illiyyin, and join him with the righteous and the martyrs.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, make {name} firm when questioned, grant her her proof, place her record in Illiyyin, and join her with the righteous women and martyrs.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, make him firm when questioned, grant him his proof, place his record in Illiyyin, and join him with the righteous and the martyrs.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, make her firm when questioned, grant her her proof, place her record in Illiyyin, and join her with the righteous women and martyrs.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-13"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, make her firm when questioned, grant her her proof, place her record in Illiyyin, and join her with the righteous women and martyrs."
     },
     {
+      "id": "laylatAlQadr-14",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة خيرًا من ألف شهرٍ، فاجعل لـ {name} نُورًا يضيء قَبْرِهِ، ويبدّد وَحْشَتَه، ويفتح له بابًا من أبواب رَحْمَتِكَ.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة خيرًا من ألف شهرٍ، فاجعل لـ {name} نُورًا يضيء قَبْرِهِا، ويبدّد وَحْشَتَه، ويفتح لها بابًا من أبواب رَحْمَتِكَ.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة خيرًا من ألف شهرٍ، فاجعل للمتوفّى نُورًا يضيء قَبْرِهِ، ويبدّد وَحْشَتَه، ويفتح له بابًا من أبواب رَحْمَتِكَ.",
@@ -2758,11 +2470,11 @@
       "englishMale": "O Allah, if this blessed night carries the virtue of Laylat al-Qadr, grant {name} a light that brightens his grave, removes his loneliness, and opens for him a gate of Your mercy.",
       "englishFemale": "O Allah, if this blessed night carries the virtue of Laylat al-Qadr, grant {name} a light that brightens her grave, removes her loneliness, and opens for her a gate of Your mercy.",
       "englishLibraryMale": "O Allah, if this blessed night carries the virtue of Laylat al-Qadr, grant him a light that brightens his grave, removes his loneliness, and opens for him a gate of Your mercy.",
-      "englishLibraryFemale": "O Allah, if this blessed night carries the virtue of Laylat al-Qadr, grant her a light that brightens her grave, removes her loneliness, and opens for her a gate of Your mercy.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-14"
+      "englishLibraryFemale": "O Allah, if this blessed night carries the virtue of Laylat al-Qadr, grant her a light that brightens her grave, removes her loneliness, and opens for her a gate of Your mercy."
     },
     {
+      "id": "laylatAlQadr-15",
+      "category": "laylatAlQadr",
       "arabicMale": "يا ربّ، إن كانت هذه ليلةً مباركةً عندك، فشفّع في {name} القُرآن، وشفّع فيه نبيّك محمّدًا ﷺ، واجعله من السّعداء في الآخرة.",
       "arabicFemale": "يا ربّ، إن كانت هذه ليلةً مباركةً عندك، فشفّع في {name} القُرآن، وشفّع فيها نبيّك محمّدًا ﷺ، واجعلها من السّعيدات في الآخرة.",
       "arabicLibraryMale": "يا ربّ، إن كانت هذه ليلةً مباركةً عندك، فشفّع في المتوفّى القُرآن، وشفّع فيه نبيّك محمّدًا ﷺ، واجعله من السّعداء في الآخرة.",
@@ -2770,11 +2482,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, let the Qur'an and Your Prophet Muhammad ﷺ intercede for {name}, and make him among the happy in the Hereafter.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, let the Qur'an and Your Prophet Muhammad ﷺ intercede for {name}, and make her among the happy in the Hereafter.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, let the Qur'an and Your Prophet Muhammad ﷺ intercede for him, and make him among the happy in the Hereafter.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, let the Qur'an and Your Prophet Muhammad ﷺ intercede for her, and make her among the happy in the Hereafter.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-15"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, let the Qur'an and Your Prophet Muhammad ﷺ intercede for her, and make her among the happy in the Hereafter."
     },
     {
+      "id": "laylatAlQadr-16",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة ليلة القَدْر، فافتح لـ {name} أبواب الجنّة، واجعل ريحها ونسيمها يصل إِلَيْهِ، وأكرمها من نَعيمها.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة ليلة القَدْر، فافتح لـ {name} أبواب الجنّة، واجعل ريحها ونسيمها يصل إِلَيْهِا، وأكرمها من نَعيمها.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة ليلة القَدْر، فافتح للمتوفّى أبواب الجنّة، واجعل ريحها ونسيمها يصل إِلَيْهِ، وأكرمها من نَعيمها.",
@@ -2782,11 +2494,11 @@
       "englishMale": "O Allah, if this blessed night carries the virtue of Laylat al-Qadr, open the gates of Paradise for {name}, let its fragrance and breeze reach him, and honor him with its bliss.",
       "englishFemale": "O Allah, if this blessed night carries the virtue of Laylat al-Qadr, open the gates of Paradise for {name}, let its fragrance and breeze reach her, and honor her with its bliss.",
       "englishLibraryMale": "O Allah, if this blessed night carries the virtue of Laylat al-Qadr, open the gates of Paradise for him, let its fragrance and breeze reach him, and honor him with its bliss.",
-      "englishLibraryFemale": "O Allah, if this blessed night carries the virtue of Laylat al-Qadr, open the gates of Paradise for her, let its fragrance and breeze reach her, and honor her with its bliss.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-16"
+      "englishLibraryFemale": "O Allah, if this blessed night carries the virtue of Laylat al-Qadr, open the gates of Paradise for her, let its fragrance and breeze reach her, and honor her with its bliss."
     },
     {
+      "id": "laylatAlQadr-17",
+      "category": "laylatAlQadr",
       "arabicMale": "ربّنا، إن كانت هذه من ليالي السّلام والرَّحْمَة، فاجعلها رَحْمَةً على {name}، وسلامًا يدخل عَلَيْهِ، ونُورًا يؤنس قَبْرِهِ إلى يوم يبعثون.",
       "arabicFemale": "ربّنا، إن كانت هذه من ليالي السّلام والرَّحْمَة، فاجعلها رَحْمَةً على {name}، وسلامًا يدخل عَلَيْهِا، ونُورًا يؤنس قَبْرِهِا إلى يوم يبعثون.",
       "arabicLibraryMale": "ربّنا، إن كانت هذه من ليالي السّلام والرَّحْمَة، فاجعلها رَحْمَةً على المتوفّى، وسلامًا يدخل عَلَيْهِ، ونُورًا يؤنس قَبْرِهِ إلى يوم يبعثون.",
@@ -2794,11 +2506,11 @@
       "englishMale": "O Allah, make this night a mercy upon {name}, a peace that enters upon him, and a light that comforts his grave until they are resurrected.",
       "englishFemale": "O Allah, make this night a mercy upon {name}, a peace that enters upon her, and a light that comforts her grave until they are resurrected.",
       "englishLibraryMale": "O Allah, make this night a mercy upon him, a peace that enters upon him, and a light that comforts his grave until they are resurrected.",
-      "englishLibraryFemale": "O Allah, make this night a mercy upon her, a peace that enters upon her, and a light that comforts her grave until they are resurrected.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-17"
+      "englishLibraryFemale": "O Allah, make this night a mercy upon her, a peace that enters upon her, and a light that comforts her grave until they are resurrected."
     },
     {
+      "id": "laylatAlQadr-18",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة ممّا ترفع فيه الدّعوات، فبلّغ {name} رَحْمَتِكَ ورِضْوَانِكَ، وأكرم نُزُلَه، وارفع درجته في المُقرّبين.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة ممّا ترفع فيه الدّعوات، فبلّغ {name} رَحْمَتِكَ ورِضْوَانِكَ، وأكرم نُزُلَهَا، وارفع درجتها في المقرّبات.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة ممّا ترفع فيه الدّعوات، فبلّغ المتوفّى رَحْمَتِكَ ورِضْوَانِكَ، وأكرم نُزُلَه، وارفع درجته في المُقرّبين.",
@@ -2806,11 +2518,11 @@
       "englishMale": "O Allah, as You have allowed us to reach Laylat al-Qadr, deliver to {name} Your mercy and pleasure, honor his resting place, and raise his rank among those brought near.",
       "englishFemale": "O Allah, as You have allowed us to reach Laylat al-Qadr, deliver to {name} Your mercy and pleasure, honor her resting place, and raise her rank among those brought near.",
       "englishLibraryMale": "O Allah, as You have allowed us to reach Laylat al-Qadr, deliver to him Your mercy and pleasure, honor his resting place, and raise his rank among those brought near.",
-      "englishLibraryFemale": "O Allah, as You have allowed us to reach Laylat al-Qadr, deliver to her Your mercy and pleasure, honor her resting place, and raise her rank among those brought near.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-18"
+      "englishLibraryFemale": "O Allah, as You have allowed us to reach Laylat al-Qadr, deliver to her Your mercy and pleasure, honor her resting place, and raise her rank among those brought near."
     },
     {
+      "id": "laylatAlQadr-19",
+      "category": "laylatAlQadr",
       "arabicMale": "يا الله، إن كنّا في ليلة القَدْر، فاجعل لـ {name} من عَفْوِكَ نصيبًا، ومن رَحْمَتِكَ حظًّا، ومن رِضْوَانِكَ مقامًا كريمًا.",
       "arabicFemale": "يا الله، إن كنّا في ليلة القَدْر، فاجعل لـ {name} من عَفْوِكَ نصيبًا، ومن رَحْمَتِكَ حظًّا، ومن رِضْوَانِكَ مقامًا كريمًا.",
       "arabicLibraryMale": "يا الله، إن كنّا في ليلة القَدْر، فاجعل للمتوفّى من عَفْوِكَ نصيبًا، ومن رَحْمَتِكَ حظًّا، ومن رِضْوَانِكَ مقامًا كريمًا.",
@@ -2818,11 +2530,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} a share of Your pardon, mercy, and pleasure, and a noble station.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} a share of Your pardon, mercy, and pleasure, and a noble station.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him a share of Your pardon, mercy, and pleasure, and a noble station.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her a share of Your pardon, mercy, and pleasure, and a noble station.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-19"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her a share of Your pardon, mercy, and pleasure, and a noble station."
     },
     {
+      "id": "laylatAlQadr-20",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه ليلةً اصطفيتها من بين اللّيالي، فاغفر لـ {name} مَغْفِرَةً ترفع درجته، وتنير قَبْرِهِ، وتبلّغها جَنّتِكَ.",
       "arabicFemale": "اللّهمّ إن كانت هذه ليلةً اصطفيتها من بين اللّيالي، فاغفر لـ {name} مَغْفِرَةً ترفع درجتها، وتنير قَبْرِهِا، وتبلّغها جَنّتِكَ.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه ليلةً اصطفيتها من بين اللّيالي، فاغفر للمتوفّى مَغْفِرَةً ترفع درجته، وتنير قَبْرِهِ، وتبلّغها جَنّتِكَ.",
@@ -2830,11 +2542,11 @@
       "englishMale": "O Allah, if this blessed night carries the virtue of Laylat al-Qadr, forgive {name} with a forgiveness that raises his rank, lights his grave, and brings him to Your Paradise.",
       "englishFemale": "O Allah, if this blessed night carries the virtue of Laylat al-Qadr, forgive {name} with a forgiveness that raises her rank, lights her grave, and brings her to Your Paradise.",
       "englishLibraryMale": "O Allah, if this blessed night carries the virtue of Laylat al-Qadr, forgive him with a forgiveness that raises his rank, lights his grave, and brings him to Your Paradise.",
-      "englishLibraryFemale": "O Allah, if this blessed night carries the virtue of Laylat al-Qadr, forgive her with a forgiveness that raises her rank, lights her grave, and brings her to Your Paradise.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-20"
+      "englishLibraryFemale": "O Allah, if this blessed night carries the virtue of Laylat al-Qadr, forgive her with a forgiveness that raises her rank, lights her grave, and brings her to Your Paradise."
     },
     {
+      "id": "laylatAlQadr-21",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة ليلة القَدْر، فاجعل {name} من المقبولين عندك، المرحومين بفضلك، المكرمين في جنّاتك.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة ليلة القَدْر، فاجعل {name} من المقبولات عندك، المرحومات بفضلك، المكرمين في جنّاتك.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة ليلة القَدْر، فاجعل المتوفّى من المقبولين عندك، المرحومين بفضلك، المكرمين في جنّاتك.",
@@ -2842,11 +2554,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, make {name} among those accepted by You, shown mercy by Your grace, and honored in Your Gardens.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, make {name} among those accepted by You, shown mercy by Your grace, and honored in Your Gardens.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, make him among those accepted by You, shown mercy by Your grace, and honored in Your Gardens.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, make her among those accepted by You, shown mercy by Your grace, and honored in Your Gardens.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-21"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, make her among those accepted by You, shown mercy by Your grace, and honored in Your Gardens."
     },
     {
+      "id": "laylatAlQadr-22",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة هي اللّيلة الّتي جعلتها خيرًا من ألف شهرٍ، فاجعل لـ {name} خيرًا عظيمًا، وأجرًا كريمًا، ورَحْمَةً لا تنقطع.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة هي اللّيلة الّتي جعلتها خيرًا من ألف شهرٍ، فاجعل لـ {name} خيرًا عظيمًا، وأجرًا كريمًا، ورَحْمَةً لا تنقطع.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة هي اللّيلة الّتي جعلتها خيرًا من ألف شهرٍ، فاجعل للمتوفّى خيرًا عظيمًا، وأجرًا كريمًا، ورَحْمَةً لا تنقطع.",
@@ -2854,11 +2566,11 @@
       "englishMale": "O Allah, on a night better than a thousand months, grant {name} great goodness, noble reward, and unending mercy.",
       "englishFemale": "O Allah, on a night better than a thousand months, grant {name} great goodness, noble reward, and unending mercy.",
       "englishLibraryMale": "O Allah, on a night better than a thousand months, grant him great goodness, noble reward, and unending mercy.",
-      "englishLibraryFemale": "O Allah, on a night better than a thousand months, grant her great goodness, noble reward, and unending mercy.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-22"
+      "englishLibraryFemale": "O Allah, on a night better than a thousand months, grant her great goodness, noble reward, and unending mercy."
     },
     {
+      "id": "laylatAlQadr-23",
+      "category": "laylatAlQadr",
       "arabicMale": "يا ربّ، إن وافقنا ليلة القَدْر، فأنزل على قبر {name} سكينةً من عندك، ورَحْمَةً من فضلك، ونُورًا من نُورك.",
       "arabicFemale": "يا ربّ، إن وافقنا ليلة القَدْر، فأنزل على قبر {name} سكينةً من عندك، ورَحْمَةً من فضلك، ونُورًا من نُورك.",
       "arabicLibraryMale": "يا ربّ، إن وافقنا ليلة القَدْر، فأنزل على قبر المتوفّى سكينةً من عندك، ورَحْمَةً من فضلك، ونُورًا من نُورك.",
@@ -2866,11 +2578,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, send down upon {name}'s grave tranquility from You, mercy from Your grace, and light from Your light.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, send down upon {name}'s grave tranquility from You, mercy from Your grace, and light from Your light.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, send down upon him's grave tranquility from You, mercy from Your grace, and light from Your light.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, send down upon her's grave tranquility from You, mercy from Your grace, and light from Your light.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-23"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, send down upon her's grave tranquility from You, mercy from Your grace, and light from Your light."
     },
     {
+      "id": "laylatAlQadr-24",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة من أعظم ليالي العَفْو، فاجعل {name} ممّن نالوا عَفْوِكَ، وفازوا برَحْمَتِكَ، وسعدوا برِضْوَانِكَ.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة من أعظم ليالي العَفْو، فاجعل {name} ممّن نالوا عَفْوِكَ، وفازوا برَحْمَتِكَ، وسعدوا برِضْوَانِكَ.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة من أعظم ليالي العَفْو، فاجعل المتوفّى ممّن نالوا عَفْوِكَ، وفازوا برَحْمَتِكَ، وسعدوا برِضْوَانِكَ.",
@@ -2878,11 +2590,11 @@
       "englishMale": "O Allah, if this night is among the blessed nights, make {name} among those who receive Your pardon, win Your mercy, and rejoice in Your pleasure.",
       "englishFemale": "O Allah, if this night is among the blessed nights, make {name} among those who receive Your pardon, win Your mercy, and rejoice in Your pleasure.",
       "englishLibraryMale": "O Allah, if this night is among the blessed nights, make him among those who receive Your pardon, win Your mercy, and rejoice in Your pleasure.",
-      "englishLibraryFemale": "O Allah, if this night is among the blessed nights, make her among those who receive Your pardon, win Your mercy, and rejoice in Your pleasure.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-24"
+      "englishLibraryFemale": "O Allah, if this night is among the blessed nights, make her among those who receive Your pardon, win Your mercy, and rejoice in Your pleasure."
     },
     {
+      "id": "laylatAlQadr-25",
+      "category": "laylatAlQadr",
       "arabicMale": "ربّنا، إن كانت هذه ليلةً تقبل فيها الدّعوات، فاجعل دعاءنا لـ {name} مرفوعًا، ورَحْمَتِكَ عَلَيْهِ موصولةً، ومَغْفِرَتِكَ له مكتوبةً.",
       "arabicFemale": "ربّنا، إن كانت هذه ليلةً تقبل فيها الدّعوات، فاجعل دعاءنا لـ {name} مرفوعًا، ورَحْمَتِكَ عَلَيْهِا موصولةً، ومَغْفِرَتِكَ لها مكتوبةً.",
       "arabicLibraryMale": "ربّنا، إن كانت هذه ليلةً تقبل فيها الدّعوات، فاجعل دعاءنا للمتوفّى مرفوعًا، ورَحْمَتِكَ عَلَيْهِ موصولةً، ومَغْفِرَتِكَ له مكتوبةً.",
@@ -2890,11 +2602,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, let our prayer for {name} be raised, Your mercy connected to him, and Your forgiveness written for him.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, let our prayer for {name} be raised, Your mercy connected to her, and Your forgiveness written for her.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, let our prayer for him be raised, Your mercy connected to him, and Your forgiveness written for him.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, let our prayer for her be raised, Your mercy connected to her, and Your forgiveness written for her.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-25"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, let our prayer for her be raised, Your mercy connected to her, and Your forgiveness written for her."
     },
     {
+      "id": "laylatAlQadr-26",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه ليلة القَدْر، فاجعل {name} في علّيّين، وارفع مقامه في المُقرّبين، واجعله من الفائزين بجنّات النَّعيم.",
       "arabicFemale": "اللّهمّ إن كانت هذه ليلة القَدْر، فاجعل {name} في علّيّين، وارفع مقامها في المقرّبات، واجعلها من الفائزات بجنّات النَّعيم.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه ليلة القَدْر، فاجعل المتوفّى في علّيّين، وارفع مقامه في المُقرّبين، واجعله من الفائزين بجنّات النَّعيم.",
@@ -2902,11 +2614,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, place {name} in Illiyyin, raise his rank among those brought near, and make him among the winners of the Gardens of Bliss.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, place {name} in Illiyyin, raise her rank among those brought near, and make her among the winners of the Gardens of Bliss.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, place him in Illiyyin, raise his rank among those brought near, and make him among the winners of the Gardens of Bliss.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, place her in Illiyyin, raise her rank among those brought near, and make her among the winners of the Gardens of Bliss.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-26"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, place her in Illiyyin, raise her rank among those brought near, and make her among the winners of the Gardens of Bliss."
     },
     {
+      "id": "laylatAlQadr-27",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة ليلة رَحْمَةٍ وعفوٍ، فبدّل وحشة {name} أنسًا، وظُلْمَة قَبْرِهِ نُورًا، وضيق مَرْقَدِهِ سَعَةً.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة ليلة رَحْمَةٍ وعفوٍ، فبدّل وحشة {name} أنسًا، وظُلْمَة قَبْرِهِا نُورًا، وضيق مَرْقَدِهِا سَعَةً.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة ليلة رَحْمَةٍ وعفوٍ، فبدّل وحشة المتوفّى أنسًا، وظُلْمَة قَبْرِهِ نُورًا، وضيق مَرْقَدِهِ سَعَةً.",
@@ -2914,11 +2626,11 @@
       "englishMale": "O Allah, if this noble night carries the virtue of Laylat al-Qadr, replace {name}'s loneliness with comfort, the darkness of his grave with light, and the tightness of his resting place with spaciousness.",
       "englishFemale": "O Allah, if this noble night carries the virtue of Laylat al-Qadr, replace {name}'s loneliness with comfort, the darkness of her grave with light, and the tightness of her resting place with spaciousness.",
       "englishLibraryMale": "O Allah, if this noble night carries the virtue of Laylat al-Qadr, replace him's loneliness with comfort, the darkness of his grave with light, and the tightness of his resting place with spaciousness.",
-      "englishLibraryFemale": "O Allah, if this noble night carries the virtue of Laylat al-Qadr, replace her's loneliness with comfort, the darkness of her grave with light, and the tightness of her resting place with spaciousness.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-27"
+      "englishLibraryFemale": "O Allah, if this noble night carries the virtue of Laylat al-Qadr, replace her's loneliness with comfort, the darkness of her grave with light, and the tightness of her resting place with spaciousness."
     },
     {
+      "id": "laylatAlQadr-28",
+      "category": "laylatAlQadr",
       "arabicMale": "يا ربّ، إن كانت هذه اللّيلة ممّا تضاعف فيه الأجور، فاجعل لـ {name} من كلّ دعاءٍ صادقٍ رَحْمَةً، ومن كلّ استغفارٍ مَغْفِرَةً، ومن كلّ ذكرٍ رفعةً.",
       "arabicFemale": "يا ربّ، إن كانت هذه اللّيلة ممّا تضاعف فيه الأجور، فاجعل لـ {name} من كلّ دعاءٍ صادقٍ رَحْمَةً، ومن كلّ استغفارٍ مَغْفِرَةً، ومن كلّ ذكرٍ رفعةً.",
       "arabicLibraryMale": "يا ربّ، إن كانت هذه اللّيلة ممّا تضاعف فيه الأجور، فاجعل للمتوفّى من كلّ دعاءٍ صادقٍ رَحْمَةً، ومن كلّ استغفارٍ مَغْفِرَةً، ومن كلّ ذكرٍ رفعةً.",
@@ -2926,11 +2638,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} mercy from every sincere prayer, forgiveness from every plea, and elevation from every remembrance.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} mercy from every sincere prayer, forgiveness from every plea, and elevation from every remembrance.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him mercy from every sincere prayer, forgiveness from every plea, and elevation from every remembrance.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her mercy from every sincere prayer, forgiveness from every plea, and elevation from every remembrance.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-28"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her mercy from every sincere prayer, forgiveness from every plea, and elevation from every remembrance."
     },
     {
+      "id": "laylatAlQadr-29",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن أدركنا فضل ليلة القَدْر، فاجعل قبر {name} محفوفًا بالرّحمات، مملوءًا بالنُّور، مفتوحًا إلى جنّات النَّعيم.",
       "arabicFemale": "اللّهمّ إن أدركنا فضل ليلة القَدْر، فاجعل قبر {name} محفوفًا بالرّحمات، مملوءًا بالنُّور، مفتوحًا إلى جنّات النَّعيم.",
       "arabicLibraryMale": "اللّهمّ إن أدركنا فضل ليلة القَدْر، فاجعل قبر المتوفّى محفوفًا بالرّحمات، مملوءًا بالنُّور، مفتوحًا إلى جنّات النَّعيم.",
@@ -2938,11 +2650,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} grave surrounded by mercies.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} grave surrounded by mercies.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him grave surrounded by mercies.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her grave surrounded by mercies.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-29"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her grave surrounded by mercies."
     },
     {
+      "id": "laylatAlQadr-30",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه من ليالي القدر عندك، فاجعل {name} آمِنًا يوم الفَزَع، مطمئنًّا يوم البَعْث، فائزًا يوم اللّقاء.",
       "arabicFemale": "اللّهمّ إن كانت هذه من ليالي القدر عندك، فاجعل {name} آمِنًا يوم الفَزَع، مطمئنّةً يوم البَعْث، فائزةً يوم اللّقاء.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه من ليالي القدر عندك، فاجعل المتوفّى آمِنًا يوم الفَزَع، مطمئنًّا يوم البَعْث، فائزًا يوم اللّقاء.",
@@ -2950,11 +2662,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} safety on the Day of Terror.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} safety on the Day of Terror.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him safety on the Day of Terror.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her safety on the Day of Terror.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-30"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her safety on the Day of Terror."
     },
     {
+      "id": "laylatAlQadr-31",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كان لهذه اللّيلة قدرٌ عظيمٌ عندك، فاجعل {name} من أهل السّعادة في الآخرة، ومن أهل الرَّحْمَة في قَبْرِهِ، ومن أهل الفوز يوم الحِساب.",
       "arabicFemale": "اللّهمّ إن كان لهذه اللّيلة قدرٌ عظيمٌ عندك، فاجعل {name} من أهل السّعادة في الآخرة، ومن أهل الرَّحْمَة في قَبْرِهِا، ومن أهل الفوز يوم الحِساب.",
       "arabicLibraryMale": "اللّهمّ إن كان لهذه اللّيلة قدرٌ عظيمٌ عندك، فاجعل المتوفّى من أهل السّعادة في الآخرة، ومن أهل الرَّحْمَة في قَبْرِهِ، ومن أهل الفوز يوم الحِساب.",
@@ -2962,11 +2674,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} happiness in the Hereafter.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} happiness in the Hereafter.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him happiness in the Hereafter.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her happiness in the Hereafter.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-31"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her happiness in the Hereafter."
     },
     {
+      "id": "laylatAlQadr-32",
+      "category": "laylatAlQadr",
       "arabicMale": "يا الله، إن كنّا في ليلةٍ تفتح فيها أبواب الرَّحْمَة، فاجعل لـ {name} بابًا مفتوحًا إلى رَحْمَتِكَ، وبابًا مفتوحًا إلى جَنّتِكَ، وبابًا مفتوحًا إلى رِضْوَانِكَ.",
       "arabicFemale": "يا الله، إن كنّا في ليلةٍ تفتح فيها أبواب الرَّحْمَة، فاجعل لـ {name} بابًا مفتوحًا إلى رَحْمَتِكَ، وبابًا مفتوحًا إلى جَنّتِكَ، وبابًا مفتوحًا إلى رِضْوَانِكَ.",
       "arabicLibraryMale": "يا الله، إن كنّا في ليلةٍ تفتح فيها أبواب الرَّحْمَة، فاجعل للمتوفّى بابًا مفتوحًا إلى رَحْمَتِكَ، وبابًا مفتوحًا إلى جَنّتِكَ، وبابًا مفتوحًا إلى رِضْوَانِكَ.",
@@ -2974,11 +2686,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} open gates to mercy.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} open gates to mercy.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him open gates to mercy.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her open gates to mercy.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-32"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her open gates to mercy."
     },
     {
+      "id": "laylatAlQadr-33",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه ليلة القَدْر، فاجعل {name} من الّذين غفرت لهم، ورفعت ذكرهم، وأكرمت نُزُلَهم، وأعليت مقامهم.",
       "arabicFemale": "اللّهمّ إن كانت هذه ليلة القَدْر، فاجعل {name} من الّذين غفرت لهام، ورفعت ذكرهنّ، وأكرمت نُزُلَهَام، وأعليت مقامهام.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه ليلة القَدْر، فاجعل المتوفّى من الّذين غفرت لهم، ورفعت ذكرهم، وأكرمت نُزُلَهم، وأعليت مقامهم.",
@@ -2986,11 +2698,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} forgiven and honored.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} forgiven and honored.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him forgiven and honored.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her forgiven and honored.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-33"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her forgiven and honored."
     },
     {
+      "id": "laylatAlQadr-34",
+      "category": "laylatAlQadr",
       "arabicMale": "ربّنا، إن وافقت هذه اللّيلة ليلة القَدْر، فاجعل روح {name} في نَعيمٍ، وقَبْرِهِ في نُورٍ، ومقامه في علّيّين، ومآله إلى جنّاتك.",
       "arabicFemale": "ربّنا، إن وافقت هذه اللّيلة ليلة القَدْر، فاجعل روح {name} في نَعيمٍ، وقَبْرِهِا في نُورٍ، ومقامها في علّيّين، ومآلها إلى جنّاتك.",
       "arabicLibraryMale": "ربّنا، إن وافقت هذه اللّيلة ليلة القَدْر، فاجعل روح المتوفّى في نَعيمٍ، وقَبْرِهِ في نُورٍ، ومقامه في علّيّين، ومآله إلى جنّاتك.",
@@ -2998,11 +2710,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} soul in bliss.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} soul in bliss.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him soul in bliss.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her soul in bliss.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-34"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her soul in bliss."
     },
     {
+      "id": "laylatAlQadr-35",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة ممّا باركت فيها، فاجعل لـ {name} من بركتها رَحْمَةً، ومن خيرها مَغْفِرَةً، ومن نُورها أنسًا في قَبْرِهِ.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة ممّا باركت فيها، فاجعل لـ {name} من بركتها رَحْمَةً، ومن خيرها مَغْفِرَةً، ومن نُورها أنسًا في قَبْرِهِا.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة ممّا باركت فيها، فاجعل للمتوفّى من بركتها رَحْمَةً، ومن خيرها مَغْفِرَةً، ومن نُورها أنسًا في قَبْرِهِ.",
@@ -3010,11 +2722,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} blessings of the night.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} blessings of the night.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him blessings of the night.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her blessings of the night.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-35"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her blessings of the night."
     },
     {
+      "id": "laylatAlQadr-36",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كنّا في ليلة القَدْر، فاجعل {name} ممّن كتبت لهم النّجاة من النّار، والفوز بالجنّة، والرّضا يوم اللّقاء.",
       "arabicFemale": "اللّهمّ إن كنّا في ليلة القَدْر، فاجعل {name} ممّن كتبت لهام النّجاة من النّار، والفوز بالجنّة، والرّضا يوم اللّقاء.",
       "arabicLibraryMale": "اللّهمّ إن كنّا في ليلة القَدْر، فاجعل المتوفّى ممّن كتبت لهم النّجاة من النّار، والفوز بالجنّة، والرّضا يوم اللّقاء.",
@@ -3022,11 +2734,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} salvation from the Fire.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} salvation from the Fire.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him salvation from the Fire.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her salvation from the Fire.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-36"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her salvation from the Fire."
     },
     {
+      "id": "laylatAlQadr-37",
+      "category": "laylatAlQadr",
       "arabicMale": "يا ربّ، إن كانت هذه ليلةً تعظم فيها الرّحمات، فاجعل صحيفة {name} بيضاء نقيّةً، وميزانه ثقيلًا بالحسنات، وطريقه إليك منيرًا.",
       "arabicFemale": "يا ربّ، إن كانت هذه ليلةً تعظم فيها الرّحمات، فاجعل صحيفة {name} بيضاء نقيّةً، وميزانها ثقيلًا بالحسنات، وطريقها إليك منيرًا.",
       "arabicLibraryMale": "يا ربّ، إن كانت هذه ليلةً تعظم فيها الرّحمات، فاجعل صحيفة المتوفّى بيضاء نقيّةً، وميزانه ثقيلًا بالحسنات، وطريقه إليك منيرًا.",
@@ -3034,11 +2746,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} pure record and heavy scale.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} pure record and heavy scale.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him pure record and heavy scale.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her pure record and heavy scale.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-37"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her pure record and heavy scale."
     },
     {
+      "id": "laylatAlQadr-38",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة ليلة القَدْر، فاجعل {name} في ضيافتك، وأكرم نُزُلَه، ووسّع مُدْخَلَه، واجعل الجنّة داره.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة ليلة القَدْر، فاجعل {name} في ضيافتك، وأكرم نُزُلَهَا، ووسّع مُدْخَلَها، واجعل الجنّة دارها.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة ليلة القَدْر، فاجعل المتوفّى في ضيافتك، وأكرم نُزُلَه، ووسّع مُدْخَلَه، واجعل الجنّة داره.",
@@ -3046,11 +2758,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} honored as Your guest.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} honored as Your guest.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him honored as Your guest.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her honored as Your guest.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-38"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her honored as Your guest."
     },
     {
+      "id": "laylatAlQadr-39",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة من ليالي الفضل والقبول، فاجعل ذكر {name} في قلوبنا دعاءً، واجعل دعاءنا له نُورًا، واجعل نُوره في قَبْرِهِ لا ينطفئ.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة من ليالي الفضل والقبول، فاجعل ذكر {name} في قلوبنا دعاءً، واجعل دعاءنا لها نُورًا، واجعل نُورها في قَبْرِهِا لا ينطفئ.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة من ليالي الفضل والقبول، فاجعل ذكر المتوفّى في قلوبنا دعاءً، واجعل دعاءنا له نُورًا، واجعل نُوره في قَبْرِهِ لا ينطفئ.",
@@ -3058,11 +2770,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} remembrance as prayer.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} remembrance as prayer.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him remembrance as prayer.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her remembrance as prayer.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-39"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her remembrance as prayer."
     },
     {
+      "id": "laylatAlQadr-40",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن أدركنا في هذه اللّيلة بركة ليلة القَدْر، فأكرم {name} برَحْمَةٍ أوسع من قَبْرِهِ، ونُورٍ أعظم من ظلمته، ونَعيمٍ أبقى من دنياه.",
       "arabicFemale": "اللّهمّ إن أدركنا في هذه اللّيلة بركة ليلة القَدْر، فأكرم {name} برَحْمَةٍ أوسع من قَبْرِهِا، ونُورٍ أعظم من ظلمتها، ونَعيمٍ أبقى من دنياها.",
       "arabicLibraryMale": "اللّهمّ إن أدركنا في هذه اللّيلة بركة ليلة القَدْر، فأكرم المتوفّى برَحْمَةٍ أوسع من قَبْرِهِ، ونُورٍ أعظم من ظلمته، ونَعيمٍ أبقى من دنياه.",
@@ -3070,11 +2782,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} mercy wider than grave.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} mercy wider than grave.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him mercy wider than grave.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her mercy wider than grave.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-40"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her mercy wider than grave."
     },
     {
+      "id": "laylatAlQadr-41",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه من ليالي رَحْمَتِكَ الواسَعَة، فاجعل {name} ضاحكًا مستبشرًا، راضيًا مرضيًّا، في جنّات النَّعيم.",
       "arabicFemale": "اللّهمّ إن كانت هذه من ليالي رَحْمَتِكَ الواسَعَة، فاجعل {name} ضاحكةً مستبشرةً، راضيةً مرضيّةً، في جنّات النَّعيم.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه من ليالي رَحْمَتِكَ الواسَعَة، فاجعل المتوفّى ضاحكًا مستبشرًا، راضيًا مرضيًّا، في جنّات النَّعيم.",
@@ -3082,11 +2794,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} joyful and pleased.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} joyful and pleased.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him joyful and pleased.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her joyful and pleased.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-41"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her joyful and pleased."
     },
     {
+      "id": "laylatAlQadr-42",
+      "category": "laylatAlQadr",
       "arabicMale": "يا الله، إن كانت هذه اللّيلة من اللّيالي الّتي تبشّر فيها أرواح عبادك، فاجعل {name} من الّذين تناديهم الملائكة بالبشرى.",
       "arabicFemale": "يا الله، إن كانت هذه اللّيلة من اللّيالي الّتي تبشّر فيها أرواح عبادك، فاجعل {name} من الّذين تناديهم الملائكة بالبشرى.",
       "arabicLibraryMale": "يا الله، إن كانت هذه اللّيلة من اللّيالي الّتي تبشّر فيها أرواح عبادك، فاجعل المتوفّى من الّذين تناديهم الملائكة بالبشرى.",
@@ -3094,11 +2806,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} angels call with glad tidings.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} angels call with glad tidings.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him angels call with glad tidings.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her angels call with glad tidings.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-42"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her angels call with glad tidings."
     },
     {
+      "id": "laylatAlQadr-43",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة ممّا تنزل فيه الرّحمات، فأنزل على {name} من رَحَماتِكَ ما يؤنسه، ومن مَغْفِرَتِكَ ما يرفعه، ومن رِضْوَانِكَ ما يسعده.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة ممّا تنزل فيه الرّحمات، فأنزل على {name} من رَحَماتِكَ ما يؤنسه، ومن مَغْفِرَتِكَ ما يرفعه، ومن رِضْوَانِكَ ما يسعده.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة ممّا تنزل فيه الرّحمات، فأنزل على المتوفّى من رَحَماتِكَ ما يؤنسه، ومن مَغْفِرَتِكَ ما يرفعه، ومن رِضْوَانِكَ ما يسعده.",
@@ -3106,11 +2818,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} mercies that comfort him.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} mercies that comfort him.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him mercies that comfort him.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her mercies that comfort him.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-43"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her mercies that comfort him."
     },
     {
+      "id": "laylatAlQadr-44",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه ليلة القَدْر، فاجعل {name} من المُقرّبين إليك، المنعّمين بفضلك، المشمولين بعَفْوِكَ ورَحْمَتِكَ.",
       "arabicFemale": "اللّهمّ إن كانت هذه ليلة القَدْر، فاجعل {name} من المقرّبات إليك، المنعّمات بفضلك، المشمولات بعَفْوِكَ ورَحْمَتِكَ.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه ليلة القَدْر، فاجعل المتوفّى من المُقرّبين إليك، المنعّمين بفضلك، المشمولين بعَفْوِكَ ورَحْمَتِكَ.",
@@ -3118,11 +2830,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} among those brought near.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} among those brought near.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him among those brought near.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her among those brought near.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-44"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her among those brought near."
     },
     {
+      "id": "laylatAlQadr-45",
+      "category": "laylatAlQadr",
       "arabicMale": "ربّنا، إن كانت هذه اللّيلة ممّا تكرم فيه عبادك، فاجعل {name} في مقامٍ كريمٍ، ومنزلٍ مباركٍ، ونَعيمٍ مقيمٍ، ورضوانٍ لا يزول.",
       "arabicFemale": "ربّنا، إن كانت هذه اللّيلة ممّا تكرم فيه عبادك، فاجعل {name} في مقامٍ كريمٍ، ومنزلٍ مباركٍ، ونَعيمٍ مقيمٍ، ورضوانٍ لا يزول.",
       "arabicLibraryMale": "ربّنا، إن كانت هذه اللّيلة ممّا تكرم فيه عبادك، فاجعل المتوفّى في مقامٍ كريمٍ، ومنزلٍ مباركٍ، ونَعيمٍ مقيمٍ، ورضوانٍ لا يزول.",
@@ -3130,11 +2842,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} noble station.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} noble station.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him noble station.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her noble station.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-45"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her noble station."
     },
     {
+      "id": "laylatAlQadr-46",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة عظيمة القدر عندك، فاجعل لـ {name} من كلّ لحظةٍ فيها رَحْمَةً، ومن كلّ دعاءٍ قبولًا، ومن كلّ استغفارٍ مَغْفِرَةً.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة عظيمة القدر عندك، فاجعل لـ {name} من كلّ لحظةٍ فيها رَحْمَةً، ومن كلّ دعاءٍ قبولًا، ومن كلّ استغفارٍ مَغْفِرَةً.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة عظيمة القدر عندك، فاجعل للمتوفّى من كلّ لحظةٍ فيها رَحْمَةً، ومن كلّ دعاءٍ قبولًا، ومن كلّ استغفارٍ مَغْفِرَةً.",
@@ -3142,11 +2854,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} every moment a mercy.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} every moment a mercy.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him every moment a mercy.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her every moment a mercy.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-46"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her every moment a mercy."
     },
     {
+      "id": "laylatAlQadr-47",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن وافقت ليلتنا هذه ليلة القَدْر، فاجعل {name} من أهل الفِرْدَوْس الأعلى، وارزقه نَعيمًا لا ينقطع، وسُرورًا لا يزول.",
       "arabicFemale": "اللّهمّ إن وافقت ليلتنا هذه ليلة القَدْر، فاجعل {name} من أهل الفِرْدَوْس الأعلى، وارزقه نَعيمًا لا ينقطع، وسُرورًا لا يزول.",
       "arabicLibraryMale": "اللّهمّ إن وافقت ليلتنا هذه ليلة القَدْر، فاجعل المتوفّى من أهل الفِرْدَوْس الأعلى، وارزقه نَعيمًا لا ينقطع، وسُرورًا لا يزول.",
@@ -3154,11 +2866,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} people of highest Paradise.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} people of highest Paradise.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him people of highest Paradise.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her people of highest Paradise.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-47"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her people of highest Paradise."
     },
     {
+      "id": "laylatAlQadr-48",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه اللّيلة ليلة القَدْر، فاجعل {name} في دار السّلام، آمِنًا مطمئنًّا، مكرمًا برَحْمَتِكَ، منعّمًا بفضلك.",
       "arabicFemale": "اللّهمّ إن كانت هذه اللّيلة ليلة القَدْر، فاجعل {name} في دار السّلام، آمِنَةً مطمئنّةً، مكرمةً برَحْمَتِكَ، منعّمةً بفضلك.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه اللّيلة ليلة القَدْر، فاجعل المتوفّى في دار السّلام، آمِنًا مطمئنًّا، مكرمًا برَحْمَتِكَ، منعّمًا بفضلك.",
@@ -3166,11 +2878,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} abode of peace.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} abode of peace.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him abode of peace.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her abode of peace.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-48"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her abode of peace."
     },
     {
+      "id": "laylatAlQadr-49",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه من ليالي القبول، فاختم دعاءنا لـ {name} بالقبول، واجعله له نُورًا في قَبْرِهِ، ورفعةً في درجته.",
       "arabicFemale": "اللّهمّ إن كانت هذه من ليالي القبول، فاختم دعاءنا لـ {name} بالقبول، واجعلها لها نُورًا في قَبْرِهِا، ورفعةً في درجته.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه من ليالي القبول، فاختم دعاءنا للمتوفّى بالقبول، واجعله له نُورًا في قَبْرِهِ، ورفعةً في درجته.",
@@ -3178,11 +2890,11 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} seal prayer with acceptance.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} seal prayer with acceptance.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him seal prayer with acceptance.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her seal prayer with acceptance.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-49"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her seal prayer with acceptance."
     },
     {
+      "id": "laylatAlQadr-50",
+      "category": "laylatAlQadr",
       "arabicMale": "اللّهمّ إن كانت هذه ليلة القَدْر، فاجعل لـ {name} نصيبًا من العَفْو، وحظًّا من المَغْفِرَة، وبابًا مفتوحًا إلى جنّات النَّعيم.",
       "arabicFemale": "اللّهمّ إن كانت هذه ليلة القَدْر، فاجعل لـ {name} نصيبًا من العَفْو، وحظًّا من المَغْفِرَة، وبابًا مفتوحًا إلى جنّات النَّعيم.",
       "arabicLibraryMale": "اللّهمّ إن كانت هذه ليلة القَدْر، فاجعل للمتوفّى نصيبًا من العَفْو، وحظًّا من المَغْفِرَة، وبابًا مفتوحًا إلى جنّات النَّعيم.",
@@ -3190,9 +2902,7 @@
       "englishMale": "O Allah, if this night is Laylat al-Qadr, grant {name} share of pardon.",
       "englishFemale": "O Allah, if this night is Laylat al-Qadr, grant {name} share of pardon.",
       "englishLibraryMale": "O Allah, if this night is Laylat al-Qadr, grant him share of pardon.",
-      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her share of pardon.",
-      "category": "laylatAlQadr",
-      "id": "laylatAlQadr-50"
+      "englishLibraryFemale": "O Allah, if this night is Laylat al-Qadr, grant her share of pardon."
     },
     {
       "id": "eid-1",
@@ -5059,6 +4769,224 @@
     {
       "arabic": "وفي يوم الجمعة، اللّهمّ ارحم من سبقونا إليك.",
       "english": "On this Friday, O Allah, have mercy on those who have gone ahead of us to You."
+    }
+  ],
+  "quranDuaas": [
+    {
+      "id": "qd-zukhruf-72",
+      "surah": 43,
+      "ayatStart": 72,
+      "ayatEnd": 72,
+      "ayahText": "وَتِلْكَ الْجَنَّةُ الَّتِي أُورِثْتُمُوهَا بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "ayahEnglish": "And that is Paradise, which you have been made to inherit for what you used to do.",
+      "reference": "الزُّخْرُف ٧٢",
+      "englishReference": "Az-Zukhruf 72",
+      "duaaMale": "اللَّهُمَّ اجْعَلْ {name} مِنْ أَهْلِ جَنَّتِكَ، وَأَوْرِثْهُ إِيَّاهَا بِفَضْلِكَ وَرَحْمَتِكَ.",
+      "duaaFemale": "اللَّهُمَّ اجْعَلْ {name} مِنْ أَهْلِ جَنَّتِكَ، وَأَوْرِثْهَا إِيَّاهَا بِفَضْلِكَ وَرَحْمَتِكَ.",
+      "duaaLibraryMale": "اللَّهُمَّ اجْعَلْهُ مِنْ أَهْلِ جَنَّتِكَ، وَأَوْرِثْهُ إِيَّاهَا بِفَضْلِكَ وَرَحْمَتِكَ.",
+      "duaaLibraryFemale": "اللَّهُمَّ اجْعَلْهَا مِنْ أَهْلِ جَنَّتِكَ، وَأَوْرِثْهَا إِيَّاهَا بِفَضْلِكَ وَرَحْمَتِكَ.",
+      "duaaEnglishMale": "O Allah, make {name} among the people of Your Paradise, and grant him its inheritance by Your grace and mercy.",
+      "duaaEnglishFemale": "O Allah, make {name} among the people of Your Paradise, and grant her its inheritance by Your grace and mercy.",
+      "duaaEnglishLibraryMale": "O Allah, make him among the people of Your Paradise, and grant him its inheritance by Your grace and mercy.",
+      "duaaEnglishLibraryFemale": "O Allah, make her among the people of Your Paradise, and grant her its inheritance by Your grace and mercy."
+    },
+    {
+      "id": "qd-ghashiyah-8-10",
+      "surah": 88,
+      "ayatStart": 8,
+      "ayatEnd": 10,
+      "ayahText": "وُجُوهٌ يَوْمَئِذٍ نَاعِمَةٌ، لِسَعْيِهَا رَاضِيَةٌ، فِي جَنَّةٍ عَالِيَةٍ",
+      "ayahEnglish": "Faces, that Day, will be joyful, pleased with their striving, in an elevated Garden.",
+      "reference": "الغَاشِيَة ٨-١٠",
+      "englishReference": "Al-Ghashiyah 8-10",
+      "duaaMale": "اللَّهُمَّ اجْعَلْ وَجْهَ {name} مِنَ الْوُجُوهِ النَّاعِمَةِ، وَأَرْضِهِ عَنْ سَعْيِهِ، وَارْفَعْ مَنْزِلَتَهُ فِي جَنَّةٍ عَالِيَةٍ.",
+      "duaaFemale": "اللَّهُمَّ اجْعَلْ وَجْهَ {name} مِنَ الْوُجُوهِ النَّاعِمَةِ، وَأَرْضِهَا عَنْ سَعْيِهَا، وَارْفَعْ مَنْزِلَتَهَا فِي جَنَّةٍ عَالِيَةٍ.",
+      "duaaLibraryMale": "اللَّهُمَّ اجْعَلْ وَجْهَهُ مِنَ الْوُجُوهِ النَّاعِمَةِ، وَأَرْضِهِ عَنْ سَعْيِهِ، وَارْفَعْ مَنْزِلَتَهُ فِي جَنَّةٍ عَالِيَةٍ.",
+      "duaaLibraryFemale": "اللَّهُمَّ اجْعَلْ وَجْهَهَا مِنَ الْوُجُوهِ النَّاعِمَةِ، وَأَرْضِهَا عَنْ سَعْيِهَا، وَارْفَعْ مَنْزِلَتَهَا فِي جَنَّةٍ عَالِيَةٍ.",
+      "duaaEnglishMale": "O Allah, make {name}'s face among the joyful faces, make him pleased with his striving, and raise his rank in an elevated Garden.",
+      "duaaEnglishFemale": "O Allah, make {name}'s face among the joyful faces, make her pleased with her striving, and raise her rank in an elevated Garden.",
+      "duaaEnglishLibraryMale": "O Allah, make his face among the joyful faces, make him pleased with his striving, and raise his rank in an elevated Garden.",
+      "duaaEnglishLibraryFemale": "O Allah, make her face among the joyful faces, make her pleased with her striving, and raise her rank in an elevated Garden."
+    },
+    {
+      "id": "qd-hijr-46",
+      "surah": 15,
+      "ayatStart": 46,
+      "ayatEnd": 46,
+      "ayahText": "ادْخُلُوهَا بِسَلَامٍ آمِنِينَ",
+      "ayahEnglish": "Enter it in peace, safe and secure.",
+      "reference": "الحِجْر ٤٦",
+      "englishReference": "Al-Hijr 46",
+      "duaaMale": "اللَّهُمَّ أَدْخِلْ {name} جَنَّتَكَ بِسَلَامٍ، وَاجْعَلْهُ آمِنًا مُطْمَئِنًّا فِي رَحْمَتِكَ.",
+      "duaaFemale": "اللَّهُمَّ أَدْخِلْ {name} جَنَّتَكَ بِسَلَامٍ، وَاجْعَلْهَا آمِنَةً مُطْمَئِنَّةً فِي رَحْمَتِكَ.",
+      "duaaLibraryMale": "اللَّهُمَّ أَدْخِلْهُ جَنَّتَكَ بِسَلَامٍ، وَاجْعَلْهُ آمِنًا مُطْمَئِنًّا فِي رَحْمَتِكَ.",
+      "duaaLibraryFemale": "اللَّهُمَّ أَدْخِلْهَا جَنَّتَكَ بِسَلَامٍ، وَاجْعَلْهَا آمِنَةً مُطْمَئِنَّةً فِي رَحْمَتِكَ.",
+      "duaaEnglishMale": "O Allah, admit {name} into Your Paradise in peace, and make him safe and reassured in Your mercy.",
+      "duaaEnglishFemale": "O Allah, admit {name} into Your Paradise in peace, and make her safe and reassured in Your mercy.",
+      "duaaEnglishLibraryMale": "O Allah, admit him into Your Paradise in peace, and make him safe and reassured in Your mercy.",
+      "duaaEnglishLibraryFemale": "O Allah, admit her into Your Paradise in peace, and make her safe and reassured in Your mercy."
+    },
+    {
+      "id": "qd-araf-49",
+      "surah": 7,
+      "ayatStart": 49,
+      "ayatEnd": 49,
+      "ayahText": "ادْخُلُوا الْجَنَّةَ لَا خَوْفٌ عَلَيْكُمْ وَلَا أَنْتُمْ تَحْزَنُونَ",
+      "ayahEnglish": "Enter Paradise; no fear will there be upon you, nor will you grieve.",
+      "reference": "الأَعْرَاف ٤٩",
+      "englishReference": "Al-A'raf 49",
+      "duaaMale": "اللَّهُمَّ اجْعَلْ {name} مِمَّنْ تُؤْمِنُهُمْ مِنَ الْخَوْفِ وَالْحُزْنِ، وَتُدْخِلُهُمُ الْجَنَّةَ بِرَحْمَتِكَ.",
+      "duaaFemale": "اللَّهُمَّ اجْعَلْ {name} مِمَّنْ تُؤْمِنُهُمْ مِنَ الْخَوْفِ وَالْحُزْنِ، وَتُدْخِلُهُمُ الْجَنَّةَ بِرَحْمَتِكَ.",
+      "duaaLibraryMale": "اللَّهُمَّ اجْعَلْهُ مِمَّنْ تُؤْمِنُهُمْ مِنَ الْخَوْفِ وَالْحُزْنِ، وَتُدْخِلُهُمُ الْجَنَّةَ بِرَحْمَتِكَ.",
+      "duaaLibraryFemale": "اللَّهُمَّ اجْعَلْهَا مِمَّنْ تُؤْمِنُهُمْ مِنَ الْخَوْفِ وَالْحُزْنِ، وَتُدْخِلُهُمُ الْجَنَّةَ بِرَحْمَتِكَ.",
+      "duaaEnglishMale": "O Allah, make {name} among those You secure from fear and grief, and admit them into Paradise by Your mercy.",
+      "duaaEnglishFemale": "O Allah, make {name} among those You secure from fear and grief, and admit them into Paradise by Your mercy.",
+      "duaaEnglishLibraryMale": "O Allah, make him among those You secure from fear and grief, and admit them into Paradise by Your mercy.",
+      "duaaEnglishLibraryFemale": "O Allah, make her among those You secure from fear and grief, and admit them into Paradise by Your mercy."
+    },
+    {
+      "id": "qd-fussilat-30",
+      "surah": 41,
+      "ayatStart": 30,
+      "ayatEnd": 30,
+      "ayahText": "وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنْتُمْ تُوعَدُونَ",
+      "ayahEnglish": "And receive good tidings of Paradise, which you were promised.",
+      "reference": "فُصِّلَت ٣٠",
+      "englishReference": "Fussilat 30",
+      "duaaMale": "اللَّهُمَّ اجْعَلْ {name} مِمَّنْ تُبَشِّرُهُمُ الْمَلَائِكَةُ بِرَحْمَتِكَ وَجَنَّتِكَ.",
+      "duaaFemale": "اللَّهُمَّ اجْعَلْ {name} مِمَّنْ تُبَشِّرُهُمُ الْمَلَائِكَةُ بِرَحْمَتِكَ وَجَنَّتِكَ.",
+      "duaaLibraryMale": "اللَّهُمَّ اجْعَلْهُ مِمَّنْ تُبَشِّرُهُمُ الْمَلَائِكَةُ بِرَحْمَتِكَ وَجَنَّتِكَ.",
+      "duaaLibraryFemale": "اللَّهُمَّ اجْعَلْهَا مِمَّنْ تُبَشِّرُهُمُ الْمَلَائِكَةُ بِرَحْمَتِكَ وَجَنَّتِكَ.",
+      "duaaEnglishMale": "O Allah, make {name} among those whom the angels give glad tidings of Your mercy and Paradise.",
+      "duaaEnglishFemale": "O Allah, make {name} among those whom the angels give glad tidings of Your mercy and Paradise.",
+      "duaaEnglishLibraryMale": "O Allah, make him among those whom the angels give glad tidings of Your mercy and Paradise.",
+      "duaaEnglishLibraryFemale": "O Allah, make her among those whom the angels give glad tidings of Your mercy and Paradise."
+    },
+    {
+      "id": "qd-sad-50",
+      "surah": 38,
+      "ayatStart": 50,
+      "ayatEnd": 50,
+      "ayahText": "جَنَّاتِ عَدْنٍ مُفَتَّحَةً لَهُمُ الْأَبْوَابُ",
+      "ayahEnglish": "Gardens of Eternity, whose doors will be opened to them.",
+      "reference": "ص ٥٠",
+      "englishReference": "Sad 50",
+      "duaaMale": "اللَّهُمَّ افْتَحْ لِـ {name} أَبْوَابَ رَحْمَتِكَ، وَاجْعَلْ لَهُ مِنْ جَنَّاتِ عَدْنٍ نَصِيبًا كَرِيمًا.",
+      "duaaFemale": "اللَّهُمَّ افْتَحْ لِـ {name} أَبْوَابَ رَحْمَتِكَ، وَاجْعَلْ لَهَا مِنْ جَنَّاتِ عَدْنٍ نَصِيبًا كَرِيمًا.",
+      "duaaLibraryMale": "اللَّهُمَّ افْتَحْ لَهُ أَبْوَابَ رَحْمَتِكَ، وَاجْعَلْ لَهُ مِنْ جَنَّاتِ عَدْنٍ نَصِيبًا كَرِيمًا.",
+      "duaaLibraryFemale": "اللَّهُمَّ افْتَحْ لَهَا أَبْوَابَ رَحْمَتِكَ، وَاجْعَلْ لَهَا مِنْ جَنَّاتِ عَدْنٍ نَصِيبًا كَرِيمًا.",
+      "duaaEnglishMale": "O Allah, open for {name} the doors of Your mercy, and grant him a noble share in the Gardens of Eternity.",
+      "duaaEnglishFemale": "O Allah, open for {name} the doors of Your mercy, and grant her a noble share in the Gardens of Eternity.",
+      "duaaEnglishLibraryMale": "O Allah, open for him the doors of Your mercy, and grant him a noble share in the Gardens of Eternity.",
+      "duaaEnglishLibraryFemale": "O Allah, open for her the doors of Your mercy, and grant her a noble share in the Gardens of Eternity."
+    },
+    {
+      "id": "qd-waqiah-89",
+      "surah": 56,
+      "ayatStart": 89,
+      "ayatEnd": 89,
+      "ayahText": "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ",
+      "ayahEnglish": "Then there will be rest, and bounty, and a Garden of pleasure.",
+      "reference": "الوَاقِعَة ٨٩",
+      "englishReference": "Al-Waqi'ah 89",
+      "duaaMale": "اللَّهُمَّ اجْعَلْ لِـ {name} رَوْحًا وَرَيْحَانًا، وَأَسْكِنْهُ بِرَحْمَتِكَ جَنَّةَ نَعِيمٍ.",
+      "duaaFemale": "اللَّهُمَّ اجْعَلْ لِـ {name} رَوْحًا وَرَيْحَانًا، وَأَسْكِنْهَا بِرَحْمَتِكَ جَنَّةَ نَعِيمٍ.",
+      "duaaLibraryMale": "اللَّهُمَّ اجْعَلْ لَهُ رَوْحًا وَرَيْحَانًا، وَأَسْكِنْهُ بِرَحْمَتِكَ جَنَّةَ نَعِيمٍ.",
+      "duaaLibraryFemale": "اللَّهُمَّ اجْعَلْ لَهَا رَوْحًا وَرَيْحَانًا، وَأَسْكِنْهَا بِرَحْمَتِكَ جَنَّةَ نَعِيمٍ.",
+      "duaaEnglishMale": "O Allah, grant {name} rest and bounty, and by Your mercy make him dwell in a Garden of pleasure.",
+      "duaaEnglishFemale": "O Allah, grant {name} rest and bounty, and by Your mercy make her dwell in a Garden of pleasure.",
+      "duaaEnglishLibraryMale": "O Allah, grant him rest and bounty, and by Your mercy make him dwell in a Garden of pleasure.",
+      "duaaEnglishLibraryFemale": "O Allah, grant her rest and bounty, and by Your mercy make her dwell in a Garden of pleasure."
+    },
+    {
+      "id": "qd-furqan-24",
+      "surah": 25,
+      "ayatStart": 24,
+      "ayatEnd": 24,
+      "ayahText": "أَصْحَابُ الْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُسْتَقَرًّا وَأَحْسَنُ مَقِيلًا",
+      "ayahEnglish": "The companions of Paradise, that Day, will be better in settlement and better in resting place.",
+      "reference": "الفُرْقَان ٢٤",
+      "englishReference": "Al-Furqan 24",
+      "duaaMale": "اللَّهُمَّ اجْعَلْ مُسْتَقَرَّ {name} فِي خَيْرِ مُسْتَقَرٍّ، وَاجْعَلْ مَقِيلَهُ فِي رَحْمَتِكَ وَنَعِيمِكَ.",
+      "duaaFemale": "اللَّهُمَّ اجْعَلْ مُسْتَقَرَّ {name} فِي خَيْرِ مُسْتَقَرٍّ، وَاجْعَلْ مَقِيلَهَا فِي رَحْمَتِكَ وَنَعِيمِكَ.",
+      "duaaLibraryMale": "اللَّهُمَّ اجْعَلْ مُسْتَقَرَّهُ فِي خَيْرِ مُسْتَقَرٍّ، وَاجْعَلْ مَقِيلَهُ فِي رَحْمَتِكَ وَنَعِيمِكَ.",
+      "duaaLibraryFemale": "اللَّهُمَّ اجْعَلْ مُسْتَقَرَّهَا فِي خَيْرِ مُسْتَقَرٍّ، وَاجْعَلْ مَقِيلَهَا فِي رَحْمَتِكَ وَنَعِيمِكَ.",
+      "duaaEnglishMale": "O Allah, make {name}'s settlement in the best resting place, and make his repose within Your mercy and bliss.",
+      "duaaEnglishFemale": "O Allah, make {name}'s settlement in the best resting place, and make her repose within Your mercy and bliss.",
+      "duaaEnglishLibraryMale": "O Allah, make his settlement in the best resting place, and make his repose within Your mercy and bliss.",
+      "duaaEnglishLibraryFemale": "O Allah, make her settlement in the best resting place, and make her repose within Your mercy and bliss."
+    },
+    {
+      "id": "qd-hijr-45-46",
+      "surah": 15,
+      "ayatStart": 45,
+      "ayatEnd": 46,
+      "ayahText": "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَعُيُونٍ، ادْخُلُوهَا بِسَلَامٍ آمِنِينَ",
+      "ayahEnglish": "Indeed, the righteous will be within gardens and springs. Enter them in peace, safe and secure.",
+      "reference": "الحِجْر ٤٥-٤٦",
+      "englishReference": "Al-Hijr 45-46",
+      "duaaMale": "يَا رَبِّ، اجْعَلْ {name} مِنَ الْمُتَّقِينَ، وَأَدْخِلْهُ جَنَّاتِكَ بِسَلَامٍ آمِنًا مُطْمَئِنًّا.",
+      "duaaFemale": "يَا رَبِّ، اجْعَلْ {name} مِنَ الْمُتَّقِينَ، وَأَدْخِلْهَا جَنَّاتِكَ بِسَلَامٍ آمِنَةً مُطْمَئِنَّةً.",
+      "duaaLibraryMale": "يَا رَبِّ، اجْعَلْهُ مِنَ الْمُتَّقِينَ، وَأَدْخِلْهُ جَنَّاتِكَ بِسَلَامٍ آمِنًا مُطْمَئِنًّا.",
+      "duaaLibraryFemale": "يَا رَبِّ، اجْعَلْهَا مِنَ الْمُتَّقِينَ، وَأَدْخِلْهَا جَنَّاتِكَ بِسَلَامٍ آمِنَةً مُطْمَئِنَّةً.",
+      "duaaEnglishMale": "My Lord, make {name} among the righteous, and admit him into Your Gardens in peace, safe and reassured.",
+      "duaaEnglishFemale": "My Lord, make {name} among the righteous, and admit her into Your Gardens in peace, safe and reassured.",
+      "duaaEnglishLibraryMale": "My Lord, make him among the righteous, and admit him into Your Gardens in peace, safe and reassured.",
+      "duaaEnglishLibraryFemale": "My Lord, make her among the righteous, and admit her into Your Gardens in peace, safe and reassured."
+    },
+    {
+      "id": "qd-maryam-63",
+      "surah": 19,
+      "ayatStart": 63,
+      "ayatEnd": 63,
+      "ayahText": "تِلْكَ الْجَنَّةُ الَّتِي نُورِثُ مِنْ عِبَادِنَا مَنْ كَانَ تَقِيًّا",
+      "ayahEnglish": "That is Paradise, which We give as inheritance to those of Our servants who were ever mindful of Allah.",
+      "reference": "مَرْيَم ٦٣",
+      "englishReference": "Maryam 63",
+      "duaaMale": "اللَّهُمَّ اجْعَلْ {name} مِمَّنْ يَرِثُونَ الْجِنَانَ، وَارْفَعْهُ فِيهَا مَعَ عِبَادِكَ الْمُتَّقِينَ.",
+      "duaaFemale": "اللَّهُمَّ اجْعَلْ {name} مِمَّنْ يَرِثُونَ الْجِنَانَ، وَارْفَعْهَا فِيهَا مَعَ عِبَادِكَ الْمُتَّقِينَ.",
+      "duaaLibraryMale": "اللَّهُمَّ اجْعَلْهُ مِمَّنْ يَرِثُونَ الْجِنَانَ، وَارْفَعْهُ فِيهَا مَعَ عِبَادِكَ الْمُتَّقِينَ.",
+      "duaaLibraryFemale": "اللَّهُمَّ اجْعَلْهَا مِمَّنْ يَرِثُونَ الْجِنَانَ، وَارْفَعْهَا فِيهَا مَعَ عِبَادِكَ الْمُتَّقِينَ.",
+      "duaaEnglishMale": "O Allah, make {name} among those who inherit the Gardens of Paradise, and raise him therein with Your righteous servants.",
+      "duaaEnglishFemale": "O Allah, make {name} among those who inherit the Gardens of Paradise, and raise her therein with Your righteous servants.",
+      "duaaEnglishLibraryMale": "O Allah, make him among those who inherit the Gardens of Paradise, and raise him therein with Your righteous servants.",
+      "duaaEnglishLibraryFemale": "O Allah, make her among those who inherit the Gardens of Paradise, and raise her therein with Your righteous servants."
+    },
+    {
+      "id": "qd-qaf-34",
+      "surah": 50,
+      "ayatStart": 34,
+      "ayatEnd": 34,
+      "ayahText": "ادْخُلُوهَا بِسَلَامٍ ۖ ذَٰلِكَ يَوْمُ الْخُلُودِ",
+      "ayahEnglish": "Enter it in peace. This is the Day of Eternity.",
+      "reference": "ق ٣٤",
+      "englishReference": "Qaf 34",
+      "duaaMale": "اللَّهُمَّ اجْعَلْ {name} مِمَّنْ يَدْخُلُونَ الْجَنَّةَ بِسَلَامٍ آمِنِينَ، وَاكْتُبْ لَهُ فِيهَا خُلُودَ النَّعِيمِ.",
+      "duaaFemale": "اللَّهُمَّ اجْعَلْ {name} مِمَّنْ يَدْخُلُونَ الْجَنَّةَ بِسَلَامٍ آمِنِينَ، وَاكْتُبْ لَهَا فِيهَا خُلُودَ النَّعِيمِ.",
+      "duaaLibraryMale": "اللَّهُمَّ اجْعَلْهُ مِمَّنْ يَدْخُلُونَ الْجَنَّةَ بِسَلَامٍ آمِنِينَ، وَاكْتُبْ لَهُ فِيهَا خُلُودَ النَّعِيمِ.",
+      "duaaLibraryFemale": "اللَّهُمَّ اجْعَلْهَا مِمَّنْ يَدْخُلُونَ الْجَنَّةَ بِسَلَامٍ آمِنِينَ، وَاكْتُبْ لَهَا فِيهَا خُلُودَ النَّعِيمِ.",
+      "duaaEnglishMale": "O Allah, make {name} among those who enter Paradise in peace and security, and write for him eternal bliss therein.",
+      "duaaEnglishFemale": "O Allah, make {name} among those who enter Paradise in peace and security, and write for her eternal bliss therein.",
+      "duaaEnglishLibraryMale": "O Allah, make him among those who enter Paradise in peace and security, and write for him eternal bliss therein.",
+      "duaaEnglishLibraryFemale": "O Allah, make her among those who enter Paradise in peace and security, and write for her eternal bliss therein."
+    },
+    {
+      "id": "qd-yasin-26-27",
+      "surah": 36,
+      "ayatStart": 26,
+      "ayatEnd": 27,
+      "ayahText": "قِيلَ ادْخُلِ الجَنَّةَ ۖ قَالَ يَا لَيْتَ قَوْمِي يَعْلَمُونَ، بِمَا غَفَرَ لِي رَبِّي وَجَعَلَنِي مِنَ المُكْرَمِينَ",
+      "ayahEnglish": "It was said, \\",
+      "reference": "يس ٢٦-٢٧",
+      "englishReference": "Ya-Sin 26-27",
+      "duaaMale": "اللهم في هذه الليلة اجعل {name} ممن يقولون: (يَا لَيْتَ أَهْلِي يَعْلَمُونَ مَا أَنَا فِيهِ مِنْ نَعِيمٍ). اللهم أذقه حلاوة الجنة وريح الجنة وطيب الجنة، وبرّد قبره، واجعل قبره روضةً من رياض الجنة، وارحمه واغفر له وتقبّله برحمتك يا أرحم الراحمين.",
+      "duaaFemale": "اللهم في هذه الليلة اجعل {name} ممن يقولون: (يَا لَيْتَ أَهْلِي يَعْلَمُونَ مَا أَنَا فِيهِ مِنْ نَعِيمٍ). اللهم أذقها حلاوة الجنة وريح الجنة وطيب الجنة، وبرّد قبرها، واجعل قبرها روضةً من رياض الجنة، وارحمها واغفر لها وتقبّلها برحمتك يا أرحم الراحمين.",
+      "duaaLibraryMale": "اللهم في هذه الليلة اجعله ممن يقولون: (يَا لَيْتَ أَهْلِي يَعْلَمُونَ مَا أَنَا فِيهِ مِنْ نَعِيمٍ). اللهم أذقه حلاوة الجنة وريح الجنة وطيب الجنة، وبرّد قبره، واجعل قبره روضةً من رياض الجنة، وارحمه واغفر له وتقبّله برحمتك يا أرحم الراحمين.",
+      "duaaLibraryFemale": "اللهم في هذه الليلة اجعلها ممن يقولون: (يَا لَيْتَ أَهْلِي يَعْلَمُونَ مَا أَنَا فِيهِ مِنْ نَعِيمٍ). اللهم أذقها حلاوة الجنة وريح الجنة وطيب الجنة، وبرّد قبرها، واجعل قبرها روضةً من رياض الجنة، وارحمها واغفر لها وتقبّلها برحمتك يا أرحم الراحمين.",
+      "duaaEnglishMale": "O Allah, on this night, make {name} among those who say: (I wish my family knew the bliss I am in). O Allah, let him taste the sweetness, fragrance, and goodness of Paradise, cool his grave, make his grave a garden from the gardens of Paradise, have mercy on him, forgive him, and accept him by Your mercy, O Most Merciful of the merciful.",
+      "duaaEnglishFemale": "O Allah, on this night, make {name} among those who say: (I wish my family knew the bliss I am in). O Allah, let her taste the sweetness, fragrance, and goodness of Paradise, cool her grave, make her grave a garden from the gardens of Paradise, have mercy on her, forgive her, and accept her by Your mercy, O Most Merciful of the merciful.",
+      "duaaEnglishLibraryMale": "O Allah, on this night, make him among those who say: (I wish my family knew the bliss I am in). O Allah, let him taste the sweetness, fragrance, and goodness of Paradise, cool his grave, make his grave a garden from the gardens of Paradise, have mercy on him, forgive him, and accept him by Your mercy, O Most Merciful of the merciful.",
+      "duaaEnglishLibraryFemale": "O Allah, on this night, make her among those who say: (I wish my family knew the bliss I am in). O Allah, let her taste the sweetness, fragrance, and goodness of Paradise, cool her grave, make her grave a garden from the gardens of Paradise, have mercy on her, forgive her, and accept her by Your mercy, O Most Merciful of the merciful."
     }
   ]
 }
