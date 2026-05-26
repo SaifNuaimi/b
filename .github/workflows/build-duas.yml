@@ -6,7 +6,7 @@ name: Build duas.json from Google Sheet
 on:
   workflow_dispatch:        # manual button in the Actions tab → instant rebuild
   schedule:
-    - cron: "*/30 * * * *"  # every 30 min (GitHub may delay scheduled runs a little)
+    - cron: "23 6 * * *"  # every 30 min (GitHub may delay scheduled runs a little)
   push:
     paths:
       - build_duas.py
