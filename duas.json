@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 4,
+  "version": 5,
   "duas": [
     {
       "id": "gen-1",
@@ -4987,6 +4987,60 @@
       "duaaEnglishFemale": "O Allah, on this night, make {name} among those who say: (I wish my family knew the bliss I am in). O Allah, let her taste the sweetness, fragrance, and goodness of Paradise, cool her grave, make her grave a garden from the gardens of Paradise, have mercy on her, forgive her, and accept her by Your mercy, O Most Merciful of the merciful.",
       "duaaEnglishLibraryMale": "O Allah, on this night, make him among those who say: (I wish my family knew the bliss I am in). O Allah, let him taste the sweetness, fragrance, and goodness of Paradise, cool his grave, make his grave a garden from the gardens of Paradise, have mercy on him, forgive him, and accept him by Your mercy, O Most Merciful of the merciful.",
       "duaaEnglishLibraryFemale": "O Allah, on this night, make her among those who say: (I wish my family knew the bliss I am in). O Allah, let her taste the sweetness, fragrance, and goodness of Paradise, cool her grave, make her grave a garden from the gardens of Paradise, have mercy on her, forgive her, and accept her by Your mercy, O Most Merciful of the merciful."
+    },
+    {
+      "id": "qd-haqqah-22",
+      "surah": 69,
+      "ayatStart": 22,
+      "ayatEnd": 22,
+      "ayahText": "فِي جَنَّةٍ عَالِيَةٍ",
+      "ayahEnglish": "In an elevated Garden.",
+      "reference": "الحَاقَّة ٢٢",
+      "englishReference": "Al-Haqqah 22",
+      "duaaMale": "اللهم اجعل {name} في جنةٍ عالية، وارفع درجته في عليين، وأكرمه بنعيمٍ لا ينفد، ورحمةٍ لا تنقطع.",
+      "duaaFemale": "اللهم اجعل {name} في جنةٍ عالية، وارفع درجتها في عليين، وأكرمها بنعيمٍ لا ينفد، ورحمةٍ لا تنقطع.",
+      "duaaLibraryMale": "اللهم اجعله في جنةٍ عالية، وارفع درجته في عليين، وأكرمه بنعيمٍ لا ينفد، ورحمةٍ لا تنقطع.",
+      "duaaLibraryFemale": "اللهم اجعلها في جنةٍ عالية، وارفع درجتها في عليين، وأكرمها بنعيمٍ لا ينفد، ورحمةٍ لا تنقطع.",
+      "duaaEnglishMale": "O Allah, place {name} in an elevated Garden, raise his rank among the highest, and honor him with endless bliss and uninterrupted mercy.",
+      "duaaEnglishFemale": "O Allah, place {name} in an elevated Garden, raise her rank among the highest, and honor her with endless bliss and uninterrupted mercy.",
+      "duaaEnglishLibraryMale": "O Allah, place him in an elevated Garden, raise his rank among the highest, and honor him with endless bliss and uninterrupted mercy.",
+      "duaaEnglishLibraryFemale": "O Allah, place her in an elevated Garden, raise her rank among the highest, and honor her with endless bliss and uninterrupted mercy."
+    },
+    {
+      "id": "qd-abasa-38-39",
+      "surah": 80,
+      "ayatStart": 38,
+      "ayatEnd": 39,
+      "ayahText": "وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ، ضَاحِكَةٌ مُسْتَبْشِرَةٌ",
+      "ayahEnglish": "Faces, that Day, will be bright, laughing, rejoicing at good news.",
+      "reference": "عَبَس ٣٨-٣٩",
+      "englishReference": "Abasa 38-39",
+      "duaaMale": "اللهم اجعل وجه {name} من الوجوه المُسفرة الضاحكة المُستبشرة، وبشّره برحمتك ورضوانك وجنات النعيم.",
+      "duaaFemale": "اللهم اجعل وجه {name} من الوجوه المُسفرة الضاحكة المُستبشرة، وبشّرها برحمتك ورضوانك وجنات النعيم.",
+      "duaaLibraryMale": "اللهم اجعل وجهه من الوجوه المُسفرة الضاحكة المُستبشرة، وبشّره برحمتك ورضوانك وجنات النعيم.",
+      "duaaLibraryFemale": "اللهم اجعل وجهها من الوجوه المُسفرة الضاحكة المُستبشرة، وبشّرها برحمتك ورضوانك وجنات النعيم.",
+      "duaaEnglishMale": "O Allah, make {name}'s face among the bright, laughing, and rejoicing faces, and give him glad tidings of Your mercy, pleasure, and Gardens of Bliss.",
+      "duaaEnglishFemale": "O Allah, make {name}'s face among the bright, laughing, and rejoicing faces, and give her glad tidings of Your mercy, pleasure, and Gardens of Bliss.",
+      "duaaEnglishLibraryMale": "O Allah, make his face among the bright, laughing, and rejoicing faces, and give him glad tidings of Your mercy, pleasure, and Gardens of Bliss.",
+      "duaaEnglishLibraryFemale": "O Allah, make her face among the bright, laughing, and rejoicing faces, and give her glad tidings of Your mercy, pleasure, and Gardens of Bliss."
+    },
+    {
+      "id": "qd-saffat-43",
+      "surah": 37,
+      "ayatStart": 43,
+      "ayatEnd": 43,
+      "ayahText": "فِي جَنَّاتِ النَّعِيمِ",
+      "ayahEnglish": "In Gardens of Bliss.",
+      "reference": "الصَّافَّات ٤٣",
+      "englishReference": "As-Saffat 43",
+      "duaaMale": "اللهم اجعل {name} من أهل جنات النعيم، وأكرمه بنعيمٍ لا يزول، ورحمةٍ لا تنقطع، ورضوانٍ لا سخط بعده.",
+      "duaaFemale": "اللهم اجعل {name} من أهل جنات النعيم، وأكرمها بنعيمٍ لا يزول، ورحمةٍ لا تنقطع، ورضوانٍ لا سخط بعده.",
+      "duaaLibraryMale": "اللهم اجعله من أهل جنات النعيم، وأكرمه بنعيمٍ لا يزول، ورحمةٍ لا تنقطع، ورضوانٍ لا سخط بعده.",
+      "duaaLibraryFemale": "اللهم اجعلها من أهل جنات النعيم، وأكرمها بنعيمٍ لا يزول، ورحمةٍ لا تنقطع، ورضوانٍ لا سخط بعده.",
+      "duaaEnglishMale": "O Allah, make {name} among the people of the Gardens of Bliss, and honor him with bliss that never fades, mercy that never ends, and pleasure after which there is no displeasure.",
+      "duaaEnglishFemale": "O Allah, make {name} among the people of the Gardens of Bliss, and honor her with bliss that never fades, mercy that never ends, and pleasure after which there is no displeasure.",
+      "duaaEnglishLibraryMale": "O Allah, make him among the people of the Gardens of Bliss, and honor him with bliss that never fades, mercy that never ends, and pleasure after which there is no displeasure.",
+      "duaaEnglishLibraryFemale": "O Allah, make her among the people of the Gardens of Bliss, and honor her with bliss that never fades, mercy that never ends, and pleasure after which there is no displeasure."
     }
   ]
 }
