@@ -1,0 +1,50 @@
+name: Build duas.json from Google Sheet
+
+# Rebuilds duas.json from the Google Sheet, validates it, and commits the
+# result only when something actually changed. Runs on a schedule, on a manual
+# "Run workflow" click (instant), and whenever the build script/workflow changes.
+on:
+  workflow_dispatch:        # manual button in the Actions tab → instant rebuild
+  schedule:
+    - cron: "*/30 * * * *"  # every 30 min (GitHub may delay scheduled runs a little)
+  push:
+    paths:
+      - build_duas.py
+      - .github/workflows/build-duas.yml
+
+permissions:
+  contents: write           # lets the Action commit the regenerated duas.json
+
+concurrency:
+  group: build-duas
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build + validate duas.json
+        env:
+          # The Google Sheet id (from its URL). Set in:
+          # Settings → Secrets and variables → Actions → Variables → New variable
+          #   Name: DUAS_SHEET_KEY
+          DUAS_SHEET_KEY: ${{ vars.DUAS_SHEET_KEY }}
+        run: python build_duas.py --out duas.json
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- duas.json; then
+            echo "No change — nothing to commit."
+          else
+            git config user.name  "duas-bot"
+            git config user.email "duas-bot@users.noreply.github.com"
+            git add duas.json
+            git commit -m "Rebuild duas.json from Google Sheet"
+            git push
+          fi
