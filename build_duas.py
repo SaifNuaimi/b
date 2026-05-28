@@ -17,7 +17,7 @@ import argparse, collections, csv, io, json, os, re, sys, urllib.parse, urllib.r
 
 # Tab name -> JSON section. Occasion tabs map to "special" with category == tab.
 OCCASIONS = ["friday", "ramadan", "lastTenRamadan", "laylatAlQadr",
-             "eid", "arafah", "dhulHijjahFirstTen"]
+             "eid", "arafah", "dhulHijjahFirstTen", "rain"]
 ALL_TABS = ["general"] + OCCASIONS + ["fridayDefault", "quranDuaas"]
 
 # Required non-empty fields per section — mirrors the app's DuaOverlayStore
